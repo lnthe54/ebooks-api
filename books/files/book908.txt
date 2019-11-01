@@ -1,0 +1,3091 @@
+Project Gutenberg's Die gyptische Pflanzensule, by Ludwig Borchardt
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Die gyptische Pflanzensule
+
+Author: Ludwig Borchardt
+
+Release Date: June 17, 2014 [EBook #46014]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DIE GYPTISCHE PFLANZENSULE ***
+
+
+
+
+Produced by Peter Becker and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  +------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text ist als _gesperrt_ und Fettdruck als $fett$      |
+  | markiert.                                                        |
+  | [HG: **] kennzeichnet die Position einer Hieroglyphe im Text.    |
+  | In der Transkription der Hieroglyphen wurde das "gyptologische  |
+  | Aleph" durch eine 3 ersetzt, die transkribierten Hieroglyphen    |
+  | sind als 3 und w3 dargestellt.                                 |
+  | Eine Liste der Korrekturen befindet sich am Buchende.            |
+  +------------------------------------------------------------------+
+
+
+
+
+                            DIE AEGYPTISCHE
+                             PFLANZENSULE
+
+
+
+
+                            DIE AEGYPTISCHE
+                             PFLANZENSULE
+
+                              EIN KAPITEL
+                                  ZUR
+                   GESCHICHTE DES PFLANZENORNAMENTS
+                                  VON
+                           LUDWIG BORCHARDT.
+
+                            [Illustration]
+
+                                BERLIN
+                        VERLAG VON ERNST WASMUTH
+                        ARCHITEKTUR-BUCHHANDLUNG
+                     35 -- Markgrafenstrasse -- 35
+
+                                 1897.
+
+
+
+
+Vorrede.
+
+
+Das Manuskript zu der vorliegenden Abhandlung war im Oktober 1895
+fertig, und es wurde bereits an der Herstellung der Abbildungen fr den
+Druck gearbeitet, als ich beauftragt wurde, auf lngere Zeit zu
+wissenschaftlichen Untersuchungen nach Aegypten zu gehen.
+
+Dies verzgerte die Beendigung der Drucklegung bedeutend, und das
+Erscheinen des Heftchens wre wohl noch weiter hinausgeschoben worden,
+wenn nicht meine Freunde, die Herren Dr. _Schfer_ und Prof. Dr.
+_Steindorff_ sich des verwaisten Manuscripts angenommen htten, wofr
+ich ihnen auch an dieser Stelle meinen Dank sage. Andererseits ist aber
+der Umstand, dass ich die mir bisher nur aus Publikationen und
+Photographien bekannten Gegenstnde meiner Untersuchungen nun in der
+Wirklichkeit studieren konnte, der jetzt erschienenen Arbeit zu Gute
+gekommen, wenn auch nur in Einzelheiten und in der etwas vernderten
+Auswahl der Beispiele.
+
+Fr die allgemeine theoretische Auffassung der gyptischen Pflanzensule
+habe ich an den Originalen nichts neues gelernt und darf daher jetzt um
+so eher mit den hier ausgesprochenen Meinungen hervortreten, als ich nun
+nicht mehr zu frchten brauche, dass meine zuerst nur aus Publikationen
+gewonnenen Ansichten und Theorien der Nachprfung an den Denkmlern
+nicht Stand halten werden.
+
+    _Berlin_, im August 1897.
+
+                                                 $Ludwig Borchardt.$
+
+
+
+
+Inhaltsverzeichniss.
+
+
+                                                             Seite
+
+  Einleitung                                                     1
+
+    I. Die Nymphensulen                                        3
+        a. Nymphaea Lotus L.                                     3
+        b. Nymphaea caerulea L.                                 12
+        c. Nymphaea Nelumbo L.                                  16
+
+   II. Die Liliensulen                                         18
+
+  III. Papyrussulen                                            25
+
+   IV. Palmensulen                                             44
+
+    V. Andere Pflanzensulen                                    50
+
+  Schluss                                                       53
+
+
+
+
+Einleitung.
+
+
+Die der Pflanzenwelt entnommenen gyptischen Sulenformen sind seit dem
+Bekanntwerden der reichen architektonischen Schtze des Nilthales der
+Gegenstand wiederholter Untersuchungen und der verschiedensten Theorien
+gewesen. Aegyptologen und Kunsthistoriker haben es mit mehr oder weniger
+Glck versucht, in die bunte Mannigfaltigkeit der Kapitellformen System
+zu bringen, ohne jedoch bisher zu einem vllig sicheren Resultate
+vorgedrungen zu sein. Der Grund dieser Unsicherheit mag hauptschlich
+darin zu suchen sein, dass jngere Bearbeiter der Frage das, was die
+lteren bereits richtig erkannt hatten, wieder umzustossen fr gut
+fanden, ohne etwas Besseres an dessen Stelle setzen zu knnen.
+
+Namentlich die jngsten Autoren auf diesem Gebiete[1] haben es mit
+bewunderungswrdigem Geschick verstanden, das, was frher schon
+wenigstens in den Hauptzgen feststand, von Grund aus zu verwirren.
+Whrend fast von jeder der frheren Arbeiten[2] bei genauerer
+Untersuchung wenigstens irgend ein Hauptgedanke als berechtigt anerkannt
+werden muss, stellen uns die letzterschienenen Errterungen ber
+gyptische Sulenformen vor die Notwendigkeit, dieses Gebiet eingehend
+zu revidiren. Bei dieser Revision soll es nun nicht unsere Aufgabe sein,
+die Theorie jedes einzelnen der frheren Autoren besonders zu widerlegen
+oder zu besttigen; wir werden vielmehr versuchen, unsere Ansichten ber
+die verschiedenen Gattungen der gyptischen Pflanzensulen, so weit es
+geht, ohne jede Polemik gegen andere Meinungen zu entwickeln. Der mit
+dem Gegenstand vertraute Leser wird auch so herauserkennen, wo alte
+Theorien angenommen, wo sie verworfen, wo neue vorgebracht sind.
+
+Bei unseren Untersuchungen werden wir so vorgehen, dass wir _zuerst die_
+in Frage kommende _Pflanze nach der Natur schildern_ -- nicht etwa mit
+gelehrten botanischen Ausdrcken, sondern ganz laienhaft, auf die Gefahr
+hin, auch wissenschaftlich falsche Bezeichnungen einigen Pflanzentheilen
+beizulegen. Die Beschreibung wird dadurch den meisten Lesern
+verstndlicher werden, da vermuthlich deren botanische Kenntnisse, wie
+die des Verfassers, ber das Erfassen der usseren Form der Pflanzen
+nicht hinausgehen drften. _Zweitens_ wird dann Umschau zu halten sein,
+_wie die Aegypter die_ beschriebene _Pflanze in ihrer Kunst
+verwertheten_, wie sie sie in Bildern, Reliefs und plastischen
+Kunstwerken darstellten, um dann _endlich_ unser eigentliches Ziel
+erreichen zu knnen und festzustellen, wo _wir die_ fragliche _Pflanze
+in den Sulenformen_ wiedererkennen. Dass wir dann den auf eine
+bestimmte Pflanzenform zurckgefhrten Sulentypus an Beispielen aus
+verschiedenen Epochen erlutern mssen, ist ebenso selbstverstndlich,
+wie dass dabei hie und da sich etwas ber die geschichtliche
+Entwickelung der betreffenden Sulenform wird ermitteln lassen.
+
+Unsere Beispiele werden wir den noch erhaltenen Bauten und den
+altgyptischen Abbildungen, die an Tempel- und Grabwnden in grosser
+Zahl vorhanden sind, entnehmen knnen. Bei den nur abgebildeten
+Beispielen werden wir allerdings etwas vorsichtig zu Werke gehen mssen,
+da die Phantasie der gyptischen Maler in vielen Fllen unmgliche
+Gebilde dargestellt hat, und ausserdem oft die Verschrobenheit der
+perspektivischen Darstellung das Verstndniss des Abgebildeten
+erschwert. Mit ganz besonderer Vorsicht wird eine Gattung von Sulen zu
+behandeln sein, die sich hufig auf Darstellungen findet: die Sulen mit
+mehreren -- bis zu fnf -- Kapitellen bereinander. Es sind diese Sulen
+-- falls sie berhaupt je so existirt haben -- meist Holzsulen, deren
+Form sich auf die gyptische Art zurckfhren lsst, Bouquets aus
+verschiedenen, ineinander gesteckten Blumen zu binden. Fr unsere
+Aufgabe, die den Sulenformen zu Grunde liegenden Pflanzentypen
+festzustellen, interessirt an diesen Bouquetsulen nur die einzelne
+Pflanze, das Einzelkapitell, nicht die ganze Zusammensetzung; wir werden
+daher die Bouquets zerpflcken und die einzelnen so gewonnenen Kapitelle
+dann bei verschiedenen Abschnitten unserer Untersuchung gesondert
+besprechen mssen.
+
+Auch von den in natura erhaltenen Sulen werden wir nicht alle
+gleichmssig als Beispiele benutzen. Da es sich vorlufig darum handelt,
+die lteren Sulentypen zu analysiren, so knnen die Formen der
+Sptzeit, d. h. in diesem Falle der Epoche nach der Eroberung Aegyptens
+durch die Perser, also hauptschlich die Sulenbildungen der Ptolemer-
+und Kaiserzeit vernachlssigt werden, soweit sie neue Pflanzen als
+Ornament verwenden. Wir werden diese daher nur in den Fllen -- und
+deren Anzahl ist nicht gering -- citiren, wo sie sich an ltere
+Schpfungen anschliessen und die alten Formen wieder aufnehmen und
+fortbilden.
+
+Zum Schlusse der Einleitung mchte ich noch rechtfertigen, weshalb ich
+ebenso wie andere Autoren, die das hier behandelte Gebiet frher
+bearbeitet haben, auf eine schrfere Sonderung der Formen des Hhlen-
+und Freibaus, bezw. des Holz- und Steinbaus keine Rcksicht genommen
+habe. Wie der Schluss lehren wird, ist der den gyptischen Sulenformen
+zu Grunde liegende Gedanke ein rein ornamentaler, ohne jede construktive
+Grundlage. Es ist daher ausnahmsweise mglich, was bei der Behandlung
+architektonischer Details anderer Epochen ein schwerer Fehler sein
+wrde, bei der Auswahl der Beispiele vollstndig von Material und
+Construktion abzusehen und nur die ussere Form zu betrachten, zumal da
+es sich hauptschlich nur um die Ermittelung der den Sulenformen zu
+Grunde liegenden Pflanzenvorbilder handelt.
+
+
+
+
+I. Die Nymphensulen.
+
+
+In Aegypten sind drei Arten von Nymphen nachzuweisen: Nymphaea Lotus
+L., Nymphaea caerulea L. und Nymphaea Nelumbo L. Von diesen scheidet die
+letzte, wie wir sehen werden, als fr die Sulenformen nicht in Betracht
+kommend aus; wir haben uns also nur mit den beiden anderen nher zu
+beschftigen.
+
+
+a. Nymphaea Lotus L.[3]
+
+[Illustration: Abbildung 1.
+
+Nymphaea Lotus L.
+
+Blthe, Knospe und Blatt nach der Natur (Botan. Garten zu Berlin).]
+
+Die hierneben abgebildete Nymphaea Lotus kommt der bei uns heimischen,
+allgemein bekannten, weissen Nymphaea im Aussehen am nchsten, nur dass
+sie grsser ist als diese. Die vorn rundlichen, am Sitze pfeilfrmig
+gespaltenen, grnen Bltter mit ihrem in kleinen Bogen ausgezhnten
+Rande, schwimmen auf dem Wasser. Die Knospen und Blthen erheben sich
+auf runden, biegsamen Stengeln (von grner Farbe mit rthlichem
+Schimmer) etwas ber die Oberflche. Die Knospen sind von
+langgestreckter, fast elliptischer Gestalt, mit grnen, oben ein wenig
+rthlich schimmernden Kelchblttern. Sie zeigen -- ausser der Form --
+als charakteristisches Merkmal von oben nach unten gehende
+Lngsstreifen, die sich sowohl durch etwas andere Frbung als auch durch
+ganz schwaches Relief von der sonst glatten Flche der Knospe abheben.
+Die Blthe, deren ussere Form in nicht zu weit geffnetem Zustande fast
+eine Halbkugel ist, hat vier aussen grne, oben abgerundete Kelchbltter
+mit denselben charakteristischen Lngsstreifen; zwischen den
+Kelchblttern treten die weissen, ebenso geformten Blthenbltter
+regelmssig geordnet hervor. Auch diese weissen Bltter zeigen bei
+nherem Zusehen Lngsstreifen. Ob ausser der weissen Art auch
+andersgefrbte Varietten im alten Aegypten vorkamen, scheint wenig
+wahrscheinlich. Das Aussehen der Wurzel und der inneren Theile der
+Blthe[4] interessirt fr die vorliegende Untersuchung nicht und wird
+daher hier so wenig wie bei den folgenden Pflanzen besprochen werden.
+
+[Illustration: Abbildung 2.
+
+Von einem Relief im Grabe des Ptahhotep bei Sakkara;
+
+a. R. Dynastie 5; nach dem Gipsabgusse im Berliner Museum.]
+
+Nachdem wir uns so mit dem Aussehen des Lotus bekannt gemacht haben,
+werden wir ihn leicht auf den Denkmlern wiedererkennen. Die gyptischen
+Knstler stellten ihn, wie berhaupt alle Pflanzen, fr ihre
+Verhltnisse, d. h. soweit die Schwierigkeit der perspektivischen
+Darstellung sie nicht hinderte, recht naturalistisch dar,
+selbstverstndlich, wie das bei ornamentaler Verwendung von
+Pflanzenformen nicht anders mglich ist, etwas stilisirt.
+
+[Illustration: Abbildung 3.
+
+Von einem Wandgemlde aus Grab 2 von Benihassan;
+
+m. R. Dynastie 12 (nach Lepsius' Tagebuch).]
+
+Die folgenden Beispiele sind so gewhlt, dass in ihnen nicht nur
+mglichst verschiedene Kunstgebiete -- Malerei, Plastik und Kleinkunst
+--, sondern auch alle Epochen der gyptischen Kunstgeschichte vertreten
+sind. Altes, mittleres und neues Reich, sowie die Sptzeit (a. R.; m.
+R.; n. R. u. Sp. Z.)[5] werden nach Mglichkeit herangezogen werden.
+
+Gute Darstellungen der Nymphaea Lotus finden wir z. B. im a. R. in dem
+berhmten Grabe des Ptahhotep bei Sakkara (Abb. 2), aus dem m. R. in den
+Grbern zu Bersche[6], in denen zu Benihassan (Abb. 3) und an der
+bekannten Gruppe der Fischtrger aus Tanis (Abb. 5)[7], endlich aus
+dem n. R. in den Fayencen aus Gurob und Tell-Amarna (Abb. 6 u. 7).
+
+An diesen Beispielen sehen wir, dass die Aegypter die typische Form der
+Nymphaea Lotus ganz richtig aufgefasst haben. Die Bltter haben die
+ihnen zukommende Form, nur sind sie stets ganzrandig[8] dargestellt,
+ohne die Zhnung. Der Grund hierfr mag die Kleinheit der Zhnung
+gewesen sein.
+
+[Illustration: Abbildung 5.
+
+Von der Gruppe der Fischtrger aus Tanis;
+
+m. R.; nach dem Gipsabgusse im Berliner Museum.]
+
+[Illustration: Abbildung 6.
+
+Fayence-Becher aus Gurob;
+
+n. R. Dynastie 18;
+
+nach Petrie, Illahun, Taf. XVII, 8.]
+
+[Illustration: Abbildung 7.
+
+Fayence-Kachel aus Tell-Amarna;
+
+n. R. Dynastie 18; Zeit Amenophis' IV.  nat. Grsse. Original in
+London, University College.]
+
+Die Knospen sind in Form und Einzelheiten richtig, die Blume usserst
+charakteristisch, sogar die Lngsstreifen sind fast immer wiedergegeben.
+Fassen wir die Merkmale der Nymphaea Lotus zusammen, welche der
+gyptische Knstler als bezeichnend fr diese Pflanze erkannt hat und
+bei keiner besseren Darstellung fehlen lsst, so sind es die folgenden:
+
+[Illustration: Abbildung 8.
+
+Friesornament aus dem Grabe des Hapi;
+
+m. R. Original im Berliner Museum No. 1118/9. (Ausfhrliches
+Verzeichniss S. 64/5.)]
+
+Bei der Knospe elliptische Form und Lngsstreifen, bei der Blume fast
+halbkreisfrmige Umrisslinie, oben abgerundete, bis zum oberen Rande der
+Blume reichende Kelchbltter mit Lngsstreifen und ebensolche,
+regelmssig dazwischen angeordnete Blthenbltter. Der Typus ist also
+mit anderen Pflanzen garnicht zu verwechseln[9], und wir werden nunmehr
+ohne Schwierigkeiten die Sulen herauserkennen, die auf Nymphaea Lotus
+zurckgehen. Es sind hier Sulen mit Knospen- und Blthenkapitellen zu
+unterscheiden; um jedoch eine gewisse Gleichmssigkeit in der
+Bezeichnung mit den spter zu besprechenden, hnlich in zwei Gattungen
+getheilten Papyrussulen einzufhren, wollen wir die beiden Arten
+Sulen mit geschlossenem und mit offenem Kapitell nennen.
+
+Die _Sulen mit geschlossenem Kapitell_, das den Knospen von
+Nymphaea Lotus nachgebildet ist, kommen bereits im alten Reiche vor.
+Ein besonders lehrreiches Exemplar entdeckte DE MORGAN im Grabe des
+Ptah-schepses bei Abusir (Abbildung 9). Es ist eine aus sechs
+Hauptstengeln gebildete Bndelsule. Die Stengel kommen gerade aus
+der, einen kleinen Erdhgel darstellenden Basis und werden durch fnf
+Halsbnder unter dem Kapitell zusammengehalten. Das Kapitell ist aus
+wenig geffneten Knospen gebildet, die man nach der etwas zu spitzen
+Form der Bltter vielleicht fr Nymphaea caerulea ansehen knnte, die
+jedoch wegen der Lngsstreifen sicher fr Nymphaea Lotus zu halten
+sind. Zwischen die Hauptstengel sind, wie um diese in ihrer richtigen
+Lage zu halten, unter das Halsband noch sechs kleine, kurze
+Zwischenstengel gesteckt, die oben in geffnete Nymphaea Lotus-Blumen
+endigen. Auf dem Kapitell ruht der ganz einfache, cubische Abakus ohne
+jede Ornamentirung. Die ganze Sule ist bis auf die Farben usserst
+naturalistisch gehalten.[10]
+
+[Illustration: Abbildung 9.
+
+Nymphaea Lotus-Sule mit geschlossenem Kapitell;
+
+a. R. Grab des Ptah-schepses, Abusir. Dynastie 5; nach de Morgan, Rev.
+arch. 1894, S. 28/29.]
+
+Ein weiteres Beispiel aus dem alten Reiche giebt eine Abbildung im Grabe
+des Ra'-schepses zu Sakkara[11], die gleichfalls aus der Zeit der 5.
+Dynastie stammt. Es ist auch hier eine Bndelsule gemeint, wenn auch am
+Schaft die verschiedenen Stengel nicht besonders bezeichnet sind; die in
+kurzen Abstnden angegebenen Umschnrungen des Schaftes sprechen
+deutlich fr eine Bndelsule.
+
+Die besten Beispiele fr die geschlossene Lotossule liefert uns das
+mittlere Reich. Die Sulen dieser Art aus Benihassan sind allgemein
+bekannt. Hier ist eine derselben nach einer LEPSIUS'schen Aufnahme[12]
+in der Abb. 10 dargestellt. Die flache, kreisfrmige Basis soll wohl
+wieder den Erdhgel vorstellen, aus dem dieses Mal vier
+zusammengebundene runde, nach oben sich verjngende Lotusstengel
+herauswachsen, ohne die bei den Papyrussulen blichen Basisbltter,
+welche ja dem Lotus auch nicht zukommen, und ohne die auch nur beim
+Papyrus vorkommende Schwellung. Die farbigen Streifen dieser Stengel
+wrde man leicht fr die zusammenhaltenden Bnder halten knnen; mit
+Rcksicht auf die Farbentheilung der kleinen Zwischenstengel aber, bei
+denen zusammenhaltende Bnder nicht erforderlich wren, wird man sie
+jedoch nur fr eine willkrliche Farbengebung zu halten haben, da auch
+ausserdem die Darstellung der sicher fr Bnder anzusehenden Ringe dicht
+unter dem Kapitell dafr spricht, die fragliche Farbentheilung nicht auf
+Bnder zurckzufhren. Die vier Stengel sind also erst oben dicht unter
+den Knospen durch fnf Halsbnder zusammengefasst, nachdem zwischen die
+Hauptstengel noch vier Zwischenstengel gelegt sind, die manchmal, wie
+auch in dem Beispiel aus dem alten Reiche, kleine Knospen oder Blumen
+tragen. Das Kapitell selbst zeigt vier richtig geformte Knospen von
+Nymphaea Lotus mit der klaren Wiedergabe der charakteristischen
+Lngsstreifen. Es sind nicht etwa oben abgestumpfte Knospen, die hier
+zur Darstellung gekommen sind, sondern ganze, wie aus der Bemalung am
+oberen Ende deutlich zu ersehen ist. Auf den Knospen ruht der das Geblk
+aufnehmende sehr flache Abakus, der einzige Theil der Sule, welcher
+keinen rein ornamentalen Ursprung hat, sondern seine Form construktiven
+Rcksichten verdankt.
+
+[Illustration: Abbildung 10.
+
+Nymphaea Lotus-Sule mit geschlossenem Kapitell;
+
+m. R. Benihassan. Grab 17, nach einer Aufnahme in Lepsius' Tagebuch
+(vgl. L. D. I, 60).]
+
+[Illustration: Abbildung 11.
+
+Von einem Wandgemlde aus dem Grabe des Kej zu Bersche; m. R. Nach L. D.
+II, 134 b.]
+
+[Illustration: Abbildung 12.
+
+Nach einem Wandgemlde in Grab 17 zu Benihassan; m. R. Nach Lepsius'
+Tagebuch.]
+
+Neben den eben beschriebenen scheinen in Benihassan in Grab 18 auch noch
+andere Sulen derselben Gattung mit drei Zwischenstengeln -- einem
+lngeren und zwei krzeren -- zwischen je zwei Hauptstengeln
+vorzukommen; wenigstens glaube ich es so auf einer PETRIE'schen
+Photographie[13] zu erkennen.
+
+In Abbildungen finden sich diese Sulen naturgemss auch, so z. B. in
+Bersche im Grabe des Kej (Abb. 11). Diese Zeichnung ist fr die
+verschrobene Art der altgyptischen Darstellung nicht uninteressant. Die
+Theilung des Schaftes in mehrere Stengel ist nicht angegeben, die
+Zwischenstengel sind neben die Halsbnder gesetzt, die Knospen der
+Zwischenstengel haben falsche Richtung, und beim Kapitell knnte man im
+Zweifel sein, ob eine etwas geffnete Knospe gemeint ist, oder ob es die
+vier Knospen des Bndelkapitells in Vorderansicht sein sollen. Man
+sieht, dass es manchmal nicht leicht gemacht wird, aus der
+altgyptischen Abbildung das wirkliche Aussehen der Sule zu ermitteln.
+
+Als gutes Beispiel einer abgebildeten Sule dieser Art und Zeit mag hier
+noch eine aus Benihassan, wo solche fter vorkommen, eine Stelle finden
+(Abb. 12). Sie hat dicht ber dem Halsband ein merkwrdiges Ornament,
+das auf ausgefhrten Sulen bisher noch nicht nachweisbar ist. Dass
+Lotus-Sulen mit geschlossenen Kapitellen brigens auch ornamental
+Verwendung fanden, zeigt ein von PETRIE in Kahun[14] gefundener
+Kandelaber, bei dem eine, allerdings nicht ganz regelmssig geformte
+Lotussule mit geschlossenem Kapitell den Untersatz fr die Schale
+bildet.
+
+Die bisher aufgefhrten Beispiele stammen smmtlich aus dem alten und
+mittleren Reich; merkwrdigerweise fehlt aus dem neuen Reich diese
+Sulenart gnzlich -- wenigstens ist uns nichts davon erhalten. Erst in
+der Ptolemerzeit sind wieder Beispiele und zwar in Philae und in el-Kab
+nachweisbar. Diese lehren uns jedoch fr das Verstndniss der lteren
+Exemplare nichts Neues; es mag daher an der Sule aus Philae (Abb. 13)
+nur auf eine uns hier zum ersten Male entgegentretende Eigenthmlichkeit
+der spten Sulen hingewiesen werden. Dieselben haben nmlich sehr
+hufig die Halsbnder nicht direct unter dem Kapitell, sondern ein
+ganzes Stck tiefer und zeigen zwischen Halsband und Kopf noch die
+richtigen Formen der Stengel, aus denen sich die Sule zusammensetzt.
+Unter dem Halsband sind diese spten Sulen meist glatt, d. h. ohne
+struktives Ornament, die fr die Sulenformen unwesentlichen Bilder und
+Inschriften nicht zu rechnen. Merkwrdig ist bei den zuletzt citirten
+Sulen der Sptzeit noch, dass die dreifachen Zwischenstengel auf, nicht
+zwischen den Hauptstengeln sitzen.
+
+[Illustration: Abbildung 13.
+
+Nymphaea Lotus-Sule mit geschlossenem Kapitell zu Philae am Tempel der
+Isis-Wosret. Sp. Z.; Ptolemisch. Nach L. D. I, 107.]
+
+[Illustration: Abbildung 14.
+
+Sulen mit offenen Nymphaea Lotus-Kapitellen aus Isbayda;
+
+a. R.; nach Petrie, Season, Taf. 25.]
+
+[Illustration: Abbildung 15.
+
+Reconstruktion d. Querschnitts.
+
+Flachrelief aus Giseh, Grab 16 des Imeri;
+
+Dynastie 5; nach dem Abklatsch (34) des Berl. Museums und nach Lepsius'
+Tagebuch.]
+
+Die _Sulen mit offenem Lotus-Kapitell_ sind ebenso wie die mit
+geschlossenem bereits im alten Reich nachzuweisen. Die ltesten (Abb.
+14) drften die von PETRIE in Isbayda aufgefundenen sein[15]; an diesen
+verrth aber nur der ussere Contour ihren Zusammenhang mit Nymphaea
+Lotus -- sie mgen unvollendet sein. Durch verhltnissmssig zahlreiche,
+noch dem alten Reiche entstammende Abbildungen, die uns in verschiedenen
+Grbern dieser Zeit erhalten blieben, ist es jedoch mglich, sich ein
+richtiges Bild von den ltesten offenen Lotus-Sulen zu machen. Ein sehr
+gutes Beispiel findet sich in Giseh, Grab 16 des Imeri, verffentlicht
+in L. D. II, 52. Der Publication nach wrde man allerdings kaum eine
+Blthe von Nymphaea Lotus in diesem spitzblttrigen Kapitell erkennen,
+befragt man aber den Abklatsch, nach dem unsere Abbildung gezeichnet
+ist, so ist die uns bekannte Lotus-Form deutlich wiedergegeben (Abb.
+15). Aus der wieder einen Erdhgel darstellenden Basis erwachsen vier
+runde schlanke Stengel in der durch den rekonstruirten Querschnitt
+angegebenen Anordnung.[16] Auf den Stengeln sitzt die geffnete Blthe
+mit richtigem Halbkreiscontour und den oben abgerundeten Blttern, die
+bis zur oberen Begrenzung des Kapitells gehen; unter der Blume sitzt ein
+merkwrdiger Ansatz, den man jedoch nicht etwa fr den Fruchtboden
+ansehen darf; derselbe stellt vielmehr die Halsbnder dar. Die
+Zwischenstengel fehlen bei diesem Beispiel. Sie scheinen jedoch bei
+einem anderen, gleichfalls aus Giseh, Grab 89 des Sechem-ke-re' (Dyn. 5,
+L. D. II, 41b) stammenden vorhanden zu sein.[17] Aus dem Vorkommen der
+Zwischenstengel, der Halsbnder und der Schafttheilung sehen wir
+deutlich, dass es sich fast immer um Bndelsulen handelt; es ist also
+wohl anzunehmen, dass die immer nur einfach gezeichnete Blume als
+Kapitell dem unbeholfenen Maler gewissermaassen nur die Signatur bildete
+fr die sich ineinander verschneidenden vier Lotus-Blumen, die er nicht
+darstellen konnte.
+
+[Illustration: Abbildung 16.
+
+Reliefirte Pfeilerverzierung aus einem Grabe in Sawijet el Meitin;
+
+a. R. Dynastie 6; nach L. D. I, 57.]
+
+Auch die anderen Beispiele aus dieser Zeit, die Sule aus dem Grabe des
+Chunes (Nr. 2) in Sawijet el Meitin[18] und dem Grabe Nr. 14 des Hepi
+ebenda[19], beide Dyn. 6, zeigen dieselben Eigenthmlichkeiten wie die
+bisher genannten. Hierher gehren auch die Darstellungen aus dem Grabe 1
+und 2[20] daselbst, welche Lotusbndelsulen mit sehr gut dargestellten
+offenen Kapitellen in Flachrelief als vortrefflich gewhlte
+Pfeilerverzierungen zeigen (Abb. 16). Hier scheinen die Zwischenstengel
+auch offene herabhngende Blthen zu tragen; bei den anderen Beispielen
+waren es wohl eher Knospen.
+
+Man sieht, das offene Lotus-Kapitell ist im alten Reiche hufig; ich
+mchte es daher nur fr einen Zufall halten, dass aus dem mittleren
+Reiche uns nur ein Beispiel bekannt ist, und zwar ist dies eine gemalte
+Sule in Grab 5 des Ke-nacht zu Bersche (NEWBERRY, el Bersche, II, 15).
+Auch im neuen Reiche sind diese Sulen sprlich. Ich kenne die offenen
+Lotus-Kapitelle fr diese Zeit nur von einigen abgebildeten
+Bouquetsulen, z. B. aus Tell-Amarna, Grab 6, aus der Zeit Amenophis'
+IV. (Ende der 18. Dyn.)[21] und aus dem Grabe des Sen-nudem zu Theben
+(Dyn. 20).[22] Bei beiden kommt das offene Lotuskapitell mit den spter
+zu erwhnenden Papyrus- und Lilienkapitellen zusammen vor. Das
+letztcitirte Beispiel giebt die Pflanze sogar farbig wieder.
+Thrichterweise hat hier aber der Maler dem Schafte der Sule die den
+Papyrusbndelsulen zukommende Form und Theilung gegeben.
+
+[Illustration: Abbildung 17.
+
+Offenes Nymphaea Lotus-Kapitell aus Edfu, Ptolemisch. Nach Prisse,
+Histoire de l'art gyptien.]
+
+Fr den Mangel an wirklich guten, ausgefhrten Beispielen aus dieser
+lteren Zeit entschdigen uns aber vorzglich durchgefhrte, sehr reiche
+Kapitelle der uns augenblicklich beschftigenden Gattung aus der
+Sptzeit. Eines davon aus Edfu ptolemischen Ursprungs (Abb. 17) mag
+hier als Beispiel dienen. Es zeigt natrlich wieder die schon oben
+besprochene Eigenthmlichkeit seiner Zeit, indem es noch von den
+Stengeln der Blumen zwischen Halsband und Kapitell ein Stck sehen
+lsst. Dies Kapitell erklrt uns, was mit den lteren Abbildungen
+gemeint war. Vier grosse offene Lotusblumen sitzen dicht nebeneinander,
+dazwischen je drei Blumen -- eine grssere und zwei kleinere -- auf
+Zwischenstengeln, wie wir sie auch schon oben einmal bei den
+geschlossenen Lotuskapitellen beobachten konnten. (S. S. 8, Anm. 1.)
+Damit wre es eigentlich genug, und die alten Muster wren erreicht. Dem
+ptolemischen Knstler gengte dies jedoch wohl noch nicht, und so
+setzte er noch zwischen je zwei der schon vorhandenen 16 Blumen noch
+eine ganz kleine -- also im ganzen fernere 16. Auch fhrt er die
+Zwischenstengel tiefer herunter als die lteren Meister, da ja die
+Halsbnder, hinter denen sie stecken, tiefer sitzen als in lterer Zeit.
+
+Der niedrige Abakus dieser Sule hat keinerlei Ornament und sitzt wie
+auch bei den brigen Sulen ganz unorganisch auf dem Kapitell. Er hat
+eben nur eine constructive Function und ist meist so klein, dass er bei
+den weit ausladenden offenen Kapitellen von unten kaum zu sehen ist.
+
+Somit htten wir die Entwickelung der geschlossenen und offenen
+Lotussule durch die ganze gyptische Baugeschichte verfolgt und wenden
+uns nun zu der Pflanze, welcher die zweite Art der gyptischen
+Nymphaeensulen nachgebildet ist.
+
+
+b. Nymphaea caerulea L.
+
+[Illustration: Abbildung 18.
+
+Nymphaea caerulea L.
+
+Blthe, Knospe und Bltter der Natur (Botan. Garten zu Berlin).]
+
+Die Nymphaea caerulea hat, wie unsere Abbildung (Abb. 18) zeigt, ein von
+dem der Nymphaea Lotus wesentlich verschiedenes Aussehen. Stengel und
+Bltter sind noch am hnlichsten, nur dass die Bltter ohne Zhnung,
+also ganzrandig sind. Die Knospen sind jedoch spitzig, whrend die von
+Nymphaea Lotus elliptisch waren; auch sieht man unten schon etwas von
+dem gelblich schimmernden Fruchtboden. Die vier Kelchbltter der Knospe
+und Blthe sind unten gelblich grn, hher hinauf ausgesprochen grn,
+von spitziger Form und mit kleinen, schwarzen oder rthlichen Haaren
+besetzt. Die wie bei Nymphaea Lotus regelmssig angeordneten
+Blthenbltter sind ebenso geformt wie die Kelchbltter, und in der
+Farbe weiss mit violett sich abtnenden Spitzen. Nach den altgyptischen
+Abbildungen zu urtheilen, knnte es wohl sein, dass noch anders gefrbte
+Varietten, nmlich solche mit ganz violetten bezw. blulichen
+Blthenblttern, frher in Aegypten heimisch waren.
+
+[Illustration: Abbildung 19.
+
+Nymphaea caerulea, als Opfergabe.
+
+Von einem Relief aus Giseh, Grab 24 des Mer-eb; Dynastie 4; Original im
+Berl. Museum No. 1107. (Ausfhrl. Verzeichniss S. 38.)]
+
+[Illustration: Abbildung 20.
+
+Nymphaea caerulea, als Opfergabe aus dem Sarge des Mentuhotep aus
+Theben; m. R.; Original im Berl. Mus. No. 9 (Ausfhrl. Verz. S. 73.
+Vgl. Steindorff, Grabfunde des m. R., Taf. 2).]
+
+Die Beispiele von ornamentaler Verwendung der Nymphaea caerulea sind
+ungeheuer zahlreich. Die blaue Nymphaea scheint die beliebteste Pflanze
+fr decorative Zwecke gewesen zu sein. Aus dem alten Reich mag als
+Beispiel eine Reliefdarstellung aus Giseh, Grab 24 des Mer-eb (Abb. 19)
+aufgefhrt sein. Aus dem mittleren Reiche kann eine farbige Darstellung
+aus dem Sarge des Mentuhotep (Abb. 20) und ein Stck von einem
+Wandgemlde aus Benihassan (Abb. 21) gengen; auf diesem sind auch
+Knospen und Bltter mit dargestellt. Auch ist hier nochmals auf das
+Titelbild von NEWBERRY's el-Berscheh, Theil I, zu verweisen, auf dem man
+gut den Unterschied in der farbigen Darstellung von Nymphaea Lotus und
+Nymphaea caerulea sehen kann. Die Verschiedenheit der Contourierung
+zeigt oben unsere Abbildung 2 sehr anschaulich. Von den zahlreichen
+Beispielen des neuen Reiches sind nur ein Fries aus Tell-Amarna (Abb.
+22) und eine Innenverzierung einer blauen Fayenceschale (Abb. 23)
+gewhlt worden; weitere Beispiele wird der Leser mit Leichtigkeit in den
+Publicationen und Museen finden.
+
+[Illustration: Abbildung 21.
+
+Von einem Wandgemlde aus Benihassan. Grab 2; Dynastie 12; nach einer
+Skizze in Lepsius' Tagebuch.]
+
+[Illustration: Abbildung 22.
+
+Fayence-Fries von Blthen und Knospen von Nymphaea caerulea, aus dem
+Palast Amenophis' IV. zu Tell-Amarna. Dynastie 18.  nat. Grsse.
+Original im University College, London.]
+
+Nebenbei soll noch erwhnt werden, dass die Bltter von Nymphaea
+caerulea ein beliebtes Motiv fr Fcherformen[23] bildeten, da sie
+vermuthlich in frher Zeit selbst als Fcher Verwendung fanden. In der
+Schrift kommt das Blatt (s. Abb. 18 u. 21) als Silbenzeichen und als
+Zeichen fr 1000[24] vor.
+
+[Illustration: Abbildung 23.
+
+Innenverzierung einer blauen Fayenceschale.
+
+N. R. Original im Berl. Museum No. 9430.]
+
+Aus den aufgefhrten Beispielen knnen wir ohne Weiteres das entnehmen,
+was dem gyptischen Maler als charakteristisch fr Nymphaea caerulea
+aufgefallen ist: Das Blatt erhlt fast immer seine richtige,
+naturalistische Form; Flle, in denen es einmal etwas anders gezeichnet
+erscheint (Abb. 23), sind selten. Die Blthe ist stets spitzig, grn mit
+gelblichem Fruchtknoten; die Hrchen auf den Kelchblttern sind in
+zahlreichen Fllen durch Strichelchen wiedergegeben. Die beiderseitigen
+usseren Umrisslinien der Blthe sind wie in der Natur stets etwas steif
+und gerade; selten zeigt sich nur eine leise Biegung nach aussen. Die
+stets spitzen Kelch- und Blthenbltter berhren natrlich in allen
+Fllen den oberen Contour.
+
+Wir haben hiermit die Beschreibung der Darstellungen von Nymphaea
+caerulea erschpft und kommen nunmehr zu der eigentlichen Aufgabe dieses
+Abschnitts, die von Nymphaea caerulea abgeleiteten Sulentypen zu
+bestimmen.
+
+[Illustration: Abbildung 24.
+
+Offenes Nymphaea caerulea-Kapitell von einem gemalten Baldachin, in Grab
+13 zu Qurna; n. R. Dyn. 18; Zeit Amenophis' II; nach L. D. III, 63a.]
+
+[Illustration: Abbildung 25.
+
+Kapitell und Sockel von einem gemalten Baldachin in Grab 8 zu Qurna; n.
+R.; Dynastie 18. Zeit Amenophis' III.; nach L. D. III, 77e.]
+
+Es muss sogleich vorausgeschickt werden, dass ausgefhrte Sulen mit
+Nymphaea caerulea-Kapitell berhaupt nicht erhalten sind; ein einziges
+Sulenfragment zeigt unter dem eigentlichen Kapitell eine Verzierung von
+plastisch nachgebildeten Blthen und Knospen von Nymphaea caerulea[25],
+und zwei neuerdings im Arsnuphistempel zu Philae gefundene
+Sulentrommeln aus Ptolemischer Zeit[26] zeigen Zwischenstengel mit
+Blthen und Knospen von Nymphaea caerulea. Verschiedene Abbildungen
+lassen jedoch darauf schliessen, dass Sulen mit dem fraglichen Kapitell
+vorkamen. Und zwar nur Sulen mit offenem Kapitell; mit geschlossenem
+haben sich bisher noch keine nachweisen lassen. Die Knospe findet
+hchstens auf den Zwischenstengeln Verwendung.
+
+Die _ltesten Sulen mit offenen Nymphaea caerulea-Kapitellen_ kommen
+erst im neuen Reiche vor; es sind zwar in LEPSIUS' Denkmlern einige
+Kapitelle abgebildet, die man wegen ihrer spitzen Bltter fr Nymphaea
+caerulea halten knnte, jedoch liegt der Verdacht nahe, der auch durch
+den Vergleich mit den noch vorhandenen Abklatschen besttigt wird, dass
+die Publication in diesen Fllen ungenau ist und sich im Originale
+Nymphaea Lotus-Kapitelle dargestellt finden.
+
+Unter Amenophis II. erscheinen die ersten Beispiele in Grbern zu Qurna,
+merkwrdigerweise mit einer sonst nicht vorkommenden Zuthat. Zwischen
+Kapitell und Abakus ist nmlich eine Platte mit vier Lwen- (s. Abb. 24)
+oder an einer anderen Stelle mit Sperberkpfen eingefgt.[27] Unsere
+Abbildung stellt wohl wieder eine Bndelsule mit offenem Kapitell und
+mit Knospen tragenden Zwischenstengeln vor. Letztere sind, wie wir das
+bereits bei anderen Darstellungen kennen, _neben_ die Halsbnder anstatt
+_durch_ dieselben gesteckt abgebildet. Zu bemerken ist, dass die
+Halsbnder bei diesen Sulen vielfach ber einen weiteren Raum vertheilt
+sind, als bei anderen Arten blich. Der Schaft ist meist ganz gerade,
+oft ohne jede Basis, jedoch kommen auch Schfte mit Schwellung vor (Abb.
+25), die irrthmlich von Papyrussulen entnommen sein drften. Bei dem
+zuletzt citirten Beispiel tritt uns zum ersten Male eine
+Eigenthmlichkeit entgegen, die an Sulen aller Gattungen unter der 18.
+Dynastie, besonders aber unter Amenophis IV. vorkommt: die von den
+Halsbndern abflatternden, verschiedenfarbigen Bandenden. Nach den
+Abbildungen, welche uns solche festlich geschmckten Sulen zeigen,
+lsst sich jedoch die Frage nicht entscheiden, ob diese Bandenden jemals
+in der eigentlichen Architektur eine Rolle gespielt haben und ob sie
+etwa in flachem Relief auf den Sulenschften unter den Halsbndern
+dargestellt wurden. Nur bei den spter zu besprechenden Palmensulen
+findet sich Aehnliches, worauf noch unten (S. 48 u. 49) zurckzukommen
+sein wird.
+
+[Illustration: Abbildung 26.
+
+Kapitell und Sockel mit Farbenangabe, von einem gemalten Baldachin
+aus Qurnet-Murrai; Grab des Huj; n. R.; Dynastie 18; Zeit des
+Twet-anch-amon; nach L. D. III, 118.]
+
+[Illustration: Abbildung 27.
+
+Hals einer Bndelsule mit Zwischenstengeln von Nymphaea caerulea.
+
+Philae. Tempel des Arsnuphis. Ptolemisch. Eigne Aufnahme.]
+
+Als letztes Beispiel einer offenen Nymphaea caerulea-Sule aus dem neuen
+Reiche mag hier noch eine solche (Abb. 26) aus einer Abbildung aus dem
+Grabe des Huj zu Qurnet Murrai dienen; dieselbe ist mit Farbenangabe
+publicirt; man sieht daraus, wie wenig sich die gyptischen
+Architektur-Maler in vielen Fllen an die natrlichen Farben hielten.
+
+Hiermit ist die Reihe der Beispiele natrlich noch nicht erschpft, auch
+in etwas spterer Zeit kommt das offene Nymphaea caerulea-Kapitell noch
+vor, z. B. in der bereits oben bei Nymphaea Lotus citirten Bouquetsule
+aus dem Grabe des Sen-nudem in der 20. Dyn.[28]; spter jedoch scheint
+es ausser Mode gekommen zu sein. Aus der Sptzeit ist mir wenigstens
+kein Beispiel bekannt, wenn man nicht die schon oben erwhnten
+Sulentrommeln (Abb. 27) vom Arsnuphistempel auf Philae hierher rechnen
+will, welche Nymphaea caerulea als Blthe und Knospe auf den dreifachen
+Zwischenstengeln zeigen.
+
+Damit wren die Nymphaeensulen smmtlich besprochen; wir haben also
+drei Arten derselben: die geschlossene Nymphaea Lotus-Sule, die offene
+von derselben Pflanze abgeleitete und die offene Nymphaea
+caerulea-Sule. Wir mssen jedoch noch einer dritten Art von Nymphaeen,
+die zeitweise in Aegypten vorkam, Erwhnung thun, wenn auch nur um zu
+zeigen, dass sie ohne jeden Einfluss auf gyptische Kunstformen
+geblieben ist:
+
+
+c. Nymphaea Nelumbo L.
+
+[Illustration: Abbildung 28.
+
+Nymphaea Nelumbo L.;
+
+Blthe, Knospe und Bltter nach der Natur; Botan. Garten zu Berlin.]
+
+Diese von den bisher besprochenen Nymphaeen gnzlich verschiedene Art
+macht, wie die Abbildung 28 zeigt, berhaupt nicht den Eindruck einer
+Nymphaee. Die weit aus dem Wasser hervorstehenden, napffrmigen Bltter
+bilden ganze Gebsche, aus denen die rosenartigen Blumen hervorsehen. Am
+merkwrdigsten ist der Fruchtstand, den Herodot[29] sehr ansprechend mit
+einem Wespennest vergleicht und den Neuere nicht bel mit der Brause
+einer Giesskanne verglichen haben.
+
+Altgyptische Darstellungen von Nymphaea Nelumbo finden sich nicht, wohl
+aber haben sich einige auf Kunstwerken der Sptzeit nachweisen lassen.
+Im Ptolemischen Tempel zu Esneh[30], auf dem Mosaik von Palestrina und
+auf der berhmten vatikanischen Nilstatue finden sich Exemplare von
+Nymphaea Nelumbo abgebildet; an der zuletzt erwhnten Stelle brigens
+nur Frchte mit falschen Blttern. Dieses spte Auftreten von Nymphaea
+Nelumbo in den Darstellungen ist nicht weiter wunderbar, da die
+Pflanze, wie neuere Arbeiten[31] gezeigt haben in Aegypten ursprnglich
+nicht heimisch war, und auch heutigen Tages dort nicht mehr wild
+vorkommt. Herodot ist der erste, der um 450 v. Chr. ber sie berichtet,
+und Prosper Alpinus, der um 1580 n. Chr. die gyptische Flora
+beschreibt, erwhnt sie schon nicht mehr. Die Ansicht SCHWEINFURTH's
+scheint daher sehr annehmbar, dass Nymphaea Nelumbo durch die Perser aus
+Asien nach Aegypten eingefhrt worden ist, sich aber auf die Dauer dort
+nicht halten konnte.
+
+Das Fehlen von Nymphaea Nelumbo in der lteren Zeit, in der die
+Sulenformen sich bildeten, verbietet es also, irgend eine gyptische
+Kapitellform auf die Blthe oder, wie es auch geschehen ist, auf das
+Blatt dieser Nymphaea zurckzufhren.
+
+       *       *       *       *       *
+
+Zum Schlusse der Besprechung wollen wir noch einmal kurz die Merkmale
+der Nymphaeen-Sulen zusammenstellen, durch welche sie sich von der
+ihnen gegenberstehenden Kategorie der Papyrussulen unterscheiden:
+
+Die _Basis_ fehlt manchesmal, was bei Papyrussulen nie der Fall zu
+sein scheint. Der _Schaft_ hat keine Schwellung und keine
+Fussbltter, wie wir sie bei den Papyrussulen kennen lernen
+werden. Die _Zwischenstengel_ sind wie die _Hauptstengel_ mit
+Nymphaeenknospen oder Blumen gekrnt, deren Umrisslinien von denen
+der Papyrussulen usserst verschieden sind. Die _Kopfbltter_,
+d. h. die Kelchbltter des Kapitells gehen bis zum oberen Rande, whrend
+sie bei den Papyrussulen wesentlich krzer sind.
+
+
+
+
+II. Die Lilien-Sulen.
+
+
+Bei diesem Kapitel muss der Abschnitt mit der Beschreibung der der
+Sulenform zu Grunde liegenden natrlichen Pflanze in Fortfall kommen,
+da es bisher noch nicht gelungen ist, die betreffende Pflanze, welche
+als Wappenpflanze von Obergypten ungeheuer hufig in der gyptischen
+Kunst auftritt, botanisch sicher zu bestimmen. Wir werden daher gut
+thun, nur die Pflanze, soweit sie im Ornament vorkommt, zu analysiren
+und dann aus ihren Merkmalen zu zeigen, weshalb sie mit keiner der sonst
+gebruchlichen ornamentalen Pflanzen identisch ist, und warum wir ihr am
+besten den Namen Lilie beilegen.
+
+[Illustration: Abbildung 29.
+
+Lilie und Papyrus von der Darstellung des Mer-en-r'-Pepy bei Assuan;
+a. R.; Dyn. 6; nach L. D. II 116 b u. nach eigner Copie.]
+
+Das lteste Beispiel der Lilie findet sich auf der bekannten Darstellung
+des Knigs Mer-en-r'-Pepy bei Assuan (Abb. 29). Leider ist hier die
+LEPSIUS'sche Publication nicht correkt und in dem DE MORGAN'schen
+Catalogue des Monuments (I, 17, No. 78) die Ungenauigkeit der Zeichnung
+mit bernommen, ich habe daher die Darstellung an Ort und Stelle
+nochmals verglichen und hier corrigiert beigegeben. Danach scheint es
+also, dass bereits die spter bliche Form der Sdpflanze schon im
+alten Reiche gebruchlich gewesen ist.
+
+Aus dem mittleren Reiche sind die Beispiele zahlreicher: auf dem Throne
+der Statue Usertesen's I. aus Tanis (jetzt im Berliner Museum, Abb. 30)
+findet sich der Lilientypus deutlich. Fragmente der Lilien sind von dem
+Throne Amenemhet's III. zu Biahmu erhalten[32], an anderen Knigsstatuen
+derselben Epoche[33] sind gleichfalls die Lilien stets deutlich
+charakterisirt.
+
+[Illustration: Abbildung 30.
+
+Lilie vom Throne der Statue Usertesen's I. aus Tanis;
+
+m. R. Dyn. 12; nach Berl. Mus. 7265. (Ausfhrl. Verzeichn. S. 25).]
+
+[Illustration: Abbildung 31.
+
+Lilie vom Deckel eines Fayencekstchens aus einem Massengrabe zu Theben;
+
+n. R.; Dynastie 19. Zeit Ramses' II; nach Berl. Museum 2038. (Ausfhrl.
+Verzeichniss S. 105).]
+
+Im neuen Reiche zeigt die Pflanze zuerst noch keine wesentliche
+Aenderung des Typus; selbst noch unter der 19. Dynastie kommen Lilien
+vor, die bis auf die Einrollung der beiden Seitenbltter den lteren
+Exemplaren vllig gleichen (Abb. 31 u. 32), jedoch sind auch noch in
+spterer Zeit Beispiele nachweisbar, die in nichts von den alten
+abweichen. Hufiger findet sich jedoch eine wohl unter der 18. Dynastie
+ausgebildete Variante mit je einem Anhngsel an jedem der beiden
+usseren Bltter (Abb. 33).
+
+[Illustration: Abbildung 32.
+
+Lilie in blauer Fayence;
+
+aus den Ornamenten von Tell el Jehdeh; n. R. Dyn. 19; Zeit Ramses' III;
+nach Berl. Mus. 7359 (Ausfhrl. Verzeichn. S. 159).]
+
+[Illustration: Abbildung 33.
+
+Lilie. Thonform aus Tell-Amarna;
+
+n. R. Dyn. 18; Zeit Amenophis' IV. nach Petrie, Tell-Amarna XVIII, 365.]
+
+Diese letztgenannte Form erfhrt dann, vielleicht -- wie bereits
+SYBEL[34] annahm, unter asiatischem Einfluss -- weitere Ausgestaltung;
+der mittlere Kolben oder auch die Anhngsel vervielfachen sich, oder
+eine Art Palmette oder mehrere Voluten entwickeln sich aus dem Kelche,
+und Aehnliches. Diese manchmal recht abenteuerlichen Gestaltungen, die
+fr die Ornamentik des neuen Reiches von grosser Bedeutung sind,
+interessiren uns fr die Sulenfrage jedoch nicht, da derartige Gebilde
+erst an ganz spten Sulen auftreten; wir knnen uns vielmehr mit der
+Kenntniss der einfachen Lilie und der Lilie mit Anhngseln fr
+unseren Zweck begngen.
+
+[Illustration: Abbildung 34.
+
+Abgebildete Bouquetsule aus dem Grabe des Sen-nudem; n. R.; Dynastie
+20; nach Berl. Mus. Ph. 664.]
+
+Die charakteristische Form derselben ist schnell beschrieben: aus
+einem dreiblttrigen, meist gelben Hllkelch, der auf grnem oder
+blauem Stengel sitzt, erwachsen zwei schlanke, oben nach aussen
+berfallende Bltter von blauer, manchmal auch grner Farbe; zwischen
+diesen usseren Blttern erhebt sich ein roter, oben abgerundeter
+Kolben. Die gleichfalls kolbenfrmigen Anhngsel sind auch stets rot.
+Die Pflanze hat also mit keiner der sonst bekannten gyptischen
+Ornamentpflanzen irgendwelche Aehnlichkeit. Dass sie wirklich ein
+Gebilde fr sich ist und nicht etwa nur eine Ableitung aus einer
+anderen Pflanze, zeigen schlagend die Kapitelle mancher
+Bouquetsulen, bei denen die Knstler absichtlich die verschiedenen
+ihnen gelufigen Pflanzen vereinigten, um den Eindruck einer mglichst
+reichen Prunkarchitektur hervorzubringen. So z. B. die schon fters
+angefhrte im Grabe des Sen-nudem abgebildete Sule (Abb. 34). Hier
+hat der Knstler zuerst Nymphaea Lotus, dann Nymphaea caerulea, dann
+unsere Lilie und endlich Cyperus Papyrus dargestellt und somit fast
+seinen ganzen Formenschatz an Pflanzenkapitellen erschpft.
+
+Eine besondere Pflanze ist also die in Rede stehende jedenfalls; warum
+haben wir ihr aber den Namen Lilie gegeben? Weil sie am ehesten einer
+schematisch dargestellten Liliacee oder besser einer Irisart
+entspricht. Namentlich die berfallenden Bltter mit den Anhngseln
+erinnern an die usseren umgeklappten Blthenbltter mancher Irisarten,
+whrend der mittlere Kolben die inneren aufrecht stehenden Bltter
+versinnbildlichen knnte. Die spter hinzutretenden roten Anhnger
+knnten vielleicht die Kpfe der Staubfden darstellen, die bei manchen
+Irisarten unter den sich einrollenden -- allerdings inneren -- Blttern
+so geschtzt liegen, dass nur die rotbraunen, kolbenfrmigen Enden
+darunter hervorsehen.
+
+Es ist jedoch bei diesem Gleichstellungsversuch die eine
+Hauptschwierigkeit nicht zu bersehen, dass nmlich bisher keine Lilien-
+oder Irisarten in Aegypten nachgewiesen sind. Und die fragliche Pflanze
+muss doch im Alterthum so hufig oder fr ihr Gebiet so charakteristisch
+gewesen sein, dass man sie als Wappenpflanze fr Obergypten whlte, im
+Gegensatz zu dem fr sein Gebiet ebenso bezeichnenden untergyptischen
+Papyrus, der allerdings heute auch schon aus ganz Aegypten verschwunden
+ist.
+
+Wir wollen daher vorlufig in Ermangelung einer richtigen Bezeichnung
+den Namen Lilie nur zur leichteren Verstndigung gebrauchen, bis die
+Botaniker die wahre Bedeutung der Wappenpflanze[35] Obergyptens
+festgestellt haben werden.
+
+Bei der eben gegebenen Aufzhlung von Lilien aus verschiedenen Epochen
+wird es manchem Leser aufgefallen sein, warum das lteste Beispiel nicht
+genannt worden ist, zumal dies allgemein bekannt ist: die Lilien von den
+Thronen der Chefren-Statuen zu Giseh. Die absichtliche Fortlassung
+dieses Beispiels nthigt mich zu einem kleinen Excurse ber das Alter
+dieser Statuen.
+
+Ueber Figur, Gesicht und Tracht des Chefren zu sprechen, ist hier nicht
+der Ort, auch nicht ber die Inschriften, die Form der Hieroglyphen und
+die Art der Behandlung des Lwenthrones; uns wird hier allein das
+Vereinigungszeichen an den Seiten des Thrones beschftigen. Da wir nach
+den oben angefhrten Beispielen aus dem alten und mittleren Reiche, die
+sich namentlich fr das letztere noch bedeutend vermehren liessen, genau
+wissen, wie ein solches Zeichen aussehen muss, so werden wir leicht
+sehen, wie es der Knstler der Chefren-Statuen missverstanden hat.
+
+Das Zeichen der Vereinigung beider Lnder besteht nmlich aus dem
+eigentlichen, bisher noch nicht gedeuteten Zeichen Sm, das etwa einem
+Spaten nicht unhnlich ist: unten das bei guten Beispielen in vier
+Felder getheilte Blatt, dann ein horizontal gerippter Stiel und oben ein
+eckiges, flaches Stck. Auf der einen Seite desselben stehen am Fusse in
+spitze Bltter gehllt oder auch in einem Wasserbecken[36] mehrere
+Exemplare der Nordpflanze, des Papyrus; zur anderen Seite, aus einem
+Zeichen [HG: **] sp (Land, Gau) hervorwachsend, ebensoviele der
+Sdpflanze, der Lilie. Von beiden Pflanzen ist je ein Stengel um das
+mittlere Zeichen geknpft.
+
+[Illustration: Abbildung 36.
+
+Zeichen der Vereinigung beider Lnder auf dem Throne einer
+Chefren-Statue zu Giseh; nach dem Abguss im Berl. Museum.]
+
+So _sollte_ das Symbol der Vereinigung beider Lnder unter normalen
+Umstnden aussehen. Und was ist auf den Chefren-Thronen (Abb. 36) daraus
+geworden? Das einzige, was richtig wiedergegeben ist, sind die
+Papyrusbschel, alles andere ist mehr oder weniger falsch. Die Lilien
+sehen nicht so aus wie sonst blich, sondern hneln den Darstellungen
+von Palmen, die wir noch spter kennen lernen werden; das Sm-Zeichen
+hat eine Palmenbekrnung; die Blttchen am Fusse der Nordpflanze hneln
+einem Geflecht, aus dem sich die Papyrusstengel herausdrngen, und die
+drei horizontalen Striche des sp-Zeichens sind in drei dicht aneinander
+liegende Stricke[37] verwandelt, welche die Lilien zusammenzwngen. Auf
+den anderen Chefren-Statuen sind diese Darstellungen wenn mglich noch
+toller; auf ihnen hat die Palmen-Lilie sogar vier Bltter und ausserdem
+noch Halsbnder.
+
+Solche ungeheuerlichen Lilienformen kenne ich nur noch dreimal in der
+gyptischen Kunstgeschichte: auf einem in Koptos gefundenen, angeblich
+aus dem mittleren Reiche stammenden Thronfragment[38] mit dem Reste
+eines Sm-Zeichens, auf einem ebensolchen aus dem neuen Reiche
+unbekannter Herkunft im Kairiner Museum, und auf einer Ptolemischen
+Sule[39]. In die Datirung des Stckes aus Koptos[40] mchte ich Zweifel
+setzen. Mir scheinen vielmehr diese ganzen missverstandenen Sm-Zeichen
+aus einer spten Epoche zu stammen, da ich nicht annehmen kann, dass
+gerade in den ltesten Zeiten derartige Symbole, die doch eben erst
+knstlich zusammengestellt sind, bereits so unvernnftig umgestaltet
+worden sein knnen. Da ich also die Chefren-Statuen fr Werke einer
+spteren Epoche, vielleicht auch nur fr Wiederholung lterer Monumente
+nach vorgefundenen Resten wirklich alter Statuen halten muss, habe ich
+die an ihnen auftretenden Lilien oben nicht als Beispiele aus dem alten
+Reiche mit angefhrt.
+
+[Illustration: Abbildung 37.
+
+Granitpfeiler vor dem Sanctuarium zu Karnak;
+
+n. R.; Dyn. 18; Zeit Thutmosis III.; nach Lepsius' Tagebuch.]
+
+[Illustration: Abbildung 38.
+
+Liliensule von einem Baldachin v. dem Sarge eines Amonspriesters;
+
+n. R.; Dyn. 19-20; nach Berl. Museum No. 11982. (Ausfhrl. Verz. S.
+136.)]
+
+Nach diesem Excurse kehren wir zurck zu unseren Liliensulen, mit denen
+wir schnell genug zu Ende kommen werden, da dieselben bis zum Ende des
+neuen Reiches nur sprlich auftreten. Aus dem alten und mittleren ist
+mir kein Beispiel bekannt. Im Anfang des neuen kommt das erste vor, aber
+dieses ist eigentlich auch nur mit demselben Rechte hierher zu rechnen,
+wie wir etwa die sculpirten Pfeiler aus Sawijet el Meitin bei den
+offenen Nymphaea Lotus-Sulen mit erwhnten. Es sind die oft
+abgebildeten[41] Thutmosispfeiler aus Karnak (Abb. 37).
+
+Die hier dargestellten Pflanzen geben getreu die bliche Lilienform
+wieder; besonders bemerkenswert sind die nur hier allein deutlich
+dargestellten Fsse der Stengel. Dieselben haben gelbe Hllbltter,
+genau wie sie sonst der Papyrus hat, auch die nur diesem eigene
+Schwellung zeigt sich hier; wir knnen jedoch nach diesem einmaligen
+Vorkommen nicht sagen, ob der Fuss dieser Sulenart so aussah, oder ob
+unser Beispiel nur seinem Pendant, der Papyrusform, angepasst ist, wie
+wir das ja sogar schon bei Nymphaeensulen beobachten konnten. Der Lilie
+ist die Schwellung des Stengels sonst nicht eigen, wie die Darstellung
+der Sm-Zeichen darthun, bei welchen dem Papyrus stets die Schwellung
+gegeben ist, whrend die Lilie immer glatt aus dem Boden hervorkommt.
+Sonst lsst sich das Lilienkapitell, von dem wohl nicht erst besonders
+gesagt zu werden braucht, dass es nur offen vorkommt, ausser an einigen
+Baldachinen, welche auf Srgen der 19. und 20. Dynastie dargestellt sind
+(Abb. 38) nur noch an Bouquetsulen nachweisen; z. B. an der schon fter
+herangezogenen aus dem Grabe der Sen-nudem (Abb. 34) und einigen
+anderen. Beachtenswert ist unter diesen letzteren nur eine Darstellung
+aus Grab 6 zu Tell-Amarna (Abb. 39). Hier ist nmlich der mittlere
+Kolben der Lilie nicht mit abgebildet, und dies scheint mir bereits zu
+den Lilienkapitellen der Sptzeit berzuleiten, bei denen der Kolben
+auch nicht plastisch dargestellt, sondern vielleicht nur in Farbe auf
+dem Kapitelle angegeben wurde, whrend die blauen berfallenden Bltter
+sculpirt hervortreten. Diese spten Lilienkapitelle sind usserst
+hufig; es mgen solche aus Km-Ombo als Beispiel gengen (Abb. 40).
+Hier ist die Anordnung ganz hnlich wie bei dem oben (S. 11) angefhrten
+spten Nymphaea Lotuskapitell, nur dass die zuletzt zwischengesetzten
+Pflanzen jungen, noch geschlossenen Papyrus darstellen sollen. Die
+Anhngsel an den berfallenden Blttern fehlen, wie schon oben bemerkt,
+in der Sptzeit nie.
+
+[Illustration: Abbildung 39.
+
+Darstellung einer Bouquetsule aus Grab 6 zu Tell-Amarna; n. R.; Dyn.
+18; Zeit Amenophis' IV.; nach L. D. III, 99b.]
+
+[Illustration: Abbildung 40.
+
+Lilienkapitelle aus Km-Ombo.
+
+Sptzeit; nach Berl. Mus. Ph. 142.]
+
+[Illustration: Abbildung 41.
+
+Vorzeichnung eines Lilienkapitells aus den Steinbrchen vom Gebel Abu
+Fodah; nach Petrie, Season, Taf. 25.]
+
+Hierher gehrt wohl auch die von PETRIE aufgenommene Vorzeichnung eines
+Kapitells aus den Steinbrchen vom Gebel Abu Fodah (Abb. 41). Die Kreise
+an der rechten Seite des Kapitells scheinen mir wenigstens den Aufriss
+eines Anhngsels darzustellen.
+
+
+
+
+III. Papyrussulen.
+
+
+Hier knnen wir wieder den geordneten Gang einschlagen und mit der
+Beschreibung der Pflanze nach der Natur beginnen.
+
+Das Aussehen des Cyperus papyrus L. ist zwar so hinreichend[42] bekannt,
+dass wir uns bei seiner Beschreibung sehr kurz fassen knnen; nur auf
+die Hauptpunkte, welche fr die Sulenfrage wichtig sind, wird es nthig
+sein an der Hand unserer Abbildung 42 hinzuweisen.
+
+[Illustration: Abbildung 42.
+
+Cyperus papyrus L.;
+
+nach der Natur. Botan. Garten zu Berlin.]
+
+Die einzelnen, buschartig zusammenstehenden, sich nach oben stark
+verjngenden Stengel der Pflanze wachsen aus einem sie dicht umgebenden
+Kranze von lanzettlichen, meist gelbbraunen Blttern hervor und erheben
+sich oft -- in Kew Gardens bei London sah ich einen Stengel von ber
+3,00 m -- betrchtlich ber das Wasser, das ihre Wurzeln verbirgt. Der
+Querschnitt des Stengels ist dreieckig, am Fussende mit abgerundeten
+Ecken (siehe den Querschnitt in Abb. 42), mehr nach oben scharfkantiger.
+Am oberen Ende jedes Stengels sitzt die Blthendolde, welche rings von
+Blttern, hnlich denen am Fussende, umschlossen ist; bei jungen noch
+geschlossenen Dolden sind diese Bltter grn, bei geffneten meist
+gelbbraun. Die einzelnen, brigens sehr zahlreichen grnen Strahlen der
+Dolde sind usserst fein und gegen die Mitte ihrer Lnge noch in feinere
+Strahlen getheilt, an deren Ende dann die kleinen brunlichen Blthen
+sitzen.
+
+Die charakteristische Umrisslinie der Dolde ist fr das junge, noch ganz
+oder fast geschlossene Exemplar leicht zu bestimmen; es erinnert etwas
+an die Linie der Knospe von Nymphaea caerulea, nur dass die Spitze nicht
+scharf ist wie bei dieser, sondern etwas abgestumpft; eine nur ganz
+wenig geffnete Knospe von Nymphaea caerulea wrde dieselbe Umrisslinie
+haben, wie der geschlossene Papyrus. Schwieriger ist es zu sagen, welche
+Linien fr die geffnete Dolde bezeichnend sind, da ihre Strahlen sich
+scheinbar regellos nach allen Seiten ausbreiten. Bei nicht zu weit
+geffneten Bscheln sieht man jedoch, dass die Enden der Strahlen mit
+den Blthen ungefhr eine oben etwas abgeplattete Kugelflche
+bezeichnen, die sich in der Seitenansicht etwa als wenig gedrckter
+Bogen darstellen wrde. Die einzelnen Strahlen zeigen eine je nach ihrer
+Stellung in der Dolde verschiedene Linie; whrend die mittelsten mehr
+oder weniger gerade sind, zeigen die seitlichen geschwungene Curven, die
+untersten sind ganz schwach wellenfrmig gebogen. Die ganze Dolde htte
+demnach ungefhr diesen Contour:
+
+[Illustration]
+
+[Illustration: Abbildung 43.
+
+Die Hieroglyphe w3;
+
+aus dem Grabe des Amten zu Abusir; a. R.; Dynastie 4; nach dem Orig. im
+Berl. Museum.]
+
+Dem nicht unhnlich sind auch die von den gyptischen Knstlern
+dargestellten Papyrusdolden, die eines der beliebtesten Motive der
+gyptischen Kunst aller Epochen bilden. Eines der ltesten Beispiele
+ist das hier abgebildete (Abb. 43), einen Papyrus darstellende
+Hieroglyphenzeichen w3 (s. a. L. D. II, 3). Der Papyrus ist natrlich
+stilisirt wiedergegeben, aber unverkennbar. Der Blattkranz am unteren
+Ende -- den wir der Krze halber im Folgenden als Fussbltter
+bezeichnen wollen -- ist zwar vorhanden, aber etwas deformirt; die
+Bltter sind smmtlich, wie auch bei anderen Darstellungen derselben
+Pflanze, zu kurz gerathen. Dass die Bltter sich theilweise
+berdecken, ist richtig beobachtet. Der Stengel verjngt sich nach
+oben, hat jedoch am unteren Ende eine geringe Schwellung, die bei der
+natrlichen Pflanze nur vorhanden ist, wenn die Fussbltter anliegen.
+Fr die Darstellung des Papyrus und fr seine Verwendung als
+Sulenmotiv ist diese Schwellung bezeichnend und bertrgt sich von
+den Papyrussulen, wie wir gesehen haben, auch auf andere
+Pflanzensulen, von denen eigentlich sonst keine von Hause aus die
+Schwellung zeigen sollte. Bei den Hllblttern der Dolde -- den
+Kopfblttern -- tritt dasselbe ein, wie bei den Fussblttern: sie
+werden meist -- mit wenigen Ausnahmen[43] -- zu kurz und nicht so
+spitzig, wie sie eigentlich sein sollten, gezeichnet.
+
+Die Darstellung der Dolde selbst musste den Alten natrlich viele
+Schwierigkeiten machen; auf die Mglichkeit, sie durchsichtig
+darzustellen, verzichten sie von vornherein, sie geben die Umrisse
+ungefhr so, wie wir sie uns oben angemerkt hatten, jedoch meist nicht
+so weit ausladend, sondern steiler; nur selten kommen breitere Dolden
+vor. Eine Wiedergabe der einzelnen Strahlen lassen sie in den meisten
+Fllen gar nicht eintreten, hchstens deuten sie dieselben durch einige
+Striche in dem grn ausgefllten Doldencontour an. Die Blthen oder
+vielleicht auch die vertrockneten Spitzen der Strahlen geben sie durch
+gelbe Frbung des oberen Randes[44], in dem oben angefhrten Beispiel,
+bei dem die Farben jetzt fehlen, nur durch die Doppellinie des oberen
+Randes wieder.
+
+[Illustration: Abbildung 44.
+
+Papyrusdickicht aus Grab 3 zu Benihassan; m. R.; nach L. D. II, 130.]
+
+[Illustration: Abbildung 45.
+
+Geschlossene Papyrus-Dolde. Fayenceform a. Tell-Amarna; n. R.; Dynastie
+8; Zeit Amenophs' IV.; nach Berl. Museum No. 12213.]
+
+[Illustration: Abbildung 46.
+
+Cyperus Papyrus und Nymphaea caerulea von einem Wandgemlde aus
+Benihassan, Grab 2; m. R.; Dynastie 12; nach Lepsius' Tagebuch.
+
+Das untere Ende d. Papyrus grsser dargestellt.]
+
+Die Beispiele von Papyrusdarstellungen sind fr das alte Reich
+unzhlbar: Papyrusernte[45] zum Bootsbau und zu anderen Zwecken,
+Papyrussmpfe[46] als Jagdreviere fr Vogel- und Fischfang und
+Aehnliches finden sich zur Genge dargestellt. Zwischen den offenen
+Pflanzen finden sich auch hufig junge, noch geschlossene Exemplare
+(Abb. 44). Diese haben, wie schon oben bemerkt, in der Umrisslinie
+Aehnlichkeit mit den spitzen Blthen von Nymphaea caerulea, bei guten
+Darstellungen sind sie jedoch nicht ganz spitzig, sondern etwas
+abgestutzt. Bemerkenswerth ist die falsche Darstellung der Kopfbltter
+hierbei; dieselben hllen in Wirklichkeit fast die ganze junge Dolde
+ein, in den Darstellungen sind sie aber meist ebenso kurz angegeben wie
+bei den geffneten Bscheln. Nur in einigen Typen aus dem neuen Reiche
+kann man, wie wir hier vorwegnehmen wollen, eine wesentliche
+Verbesserung in dieser Hinsicht bemerken. So zeigt eine Fayenceform aus
+Tell-Amarna (Abb. 45) uns eine junge Papyrusdolde mit langem, spitzen
+Hllblatt, neben dem schon einige Doldenstrahlen hervorsehen.
+
+Aus dem mittleren Reiche mag hier ein Beispiel Platz finden, das auch
+den verbissensten Lotomanen deutlich ber den Unterschied zwischen
+Nymphaea und Papyrus belehren wird (Abb. 46). Die biegsamen Stengel
+einiger Nymphaeen sind hier um drei starre Stiele Papyrus herumgelegt;
+der Papyrus hat seine Fussbltter, die bei der Nymphaea natrlich
+fehlen; die bewegten Seitencontouren der Papyrusdolde weichen deutlich
+von den straffen Aussenlinien der Nymphaeen ab, dem entsprechend auch
+die oberen Begrenzungslinien; die Kopfbltter des Papyrus sind nur kurz,
+whrend bei der Nymphaea alle Bltter bis zum oberen Rande gehen;
+endlich ist die Papyrusdolde mit einzelnen Strahlen gefllt und die
+Nymphaeablthe mit ihren spitzigen Blttern versehen.
+
+[Illustration: Abbildung 47.
+
+Papyrusornament aus einer Fayenceschale;
+
+n. R.; Original im British Mus., nach Berl. Museum Ph. 440 gezeichnet.]
+
+[Illustration: Abbildung 48.
+
+Papyrusornament von einer Scheinthr des a. R.;[47]
+
+nach Perrot-Chipiez, I, 468.]
+
+Um noch aus einer spteren Epoche ein Beispiel anzufhren, ist hierneben
+ein Papyrusornament aus einer Schale des neuen Reiches abgebildet (Abb.
+47). Hier sind nur aus Flchtigkeit die Fussbltter fortgelassen, sonst
+ist die Darstellung genau wie die brigen.
+
+[Illustration: Abbildung 49.
+
+Papyrusornament von einem Wandgemlde zu Benihassan, Grab 2; m. R.;
+nach Lepsius' Tagebuch.]
+
+Decorativ wurde der Papyrus bekanntlich ungeheuer oft verwendet. Als
+Fllornament an den Scheinthren des alten Reiches dienten zwei
+gegeneinander gelegte, zusammengebundene Dolden (Abb. 48). Auch noch im
+mittleren kommen sie so vor (Abb. 49). Als freie Endigung ist Papyrus in
+jeder Epoche verwendet worden: an Sthlen[48], Sceptern[49],
+Kahnenden[50] und Aehnlichem. Ferner ist er sehr hufig als Griff von
+Spiegeln[51], Wedeln[52] u. s. w. Hierbei soll nicht unerwhnt bleiben,
+dass neben der bisher geschilderten Papyrusform, die uns fr unsere
+Sulenfrage einzig und allein interessiert, noch eine zweite Form
+vorkommt, die in der Ornamentik auch hufige Verwendung findet; nmlich
+die Form, welche durch Zusammenfassen einer Dolde am unteren Ende
+entstanden ist (Abb. 50).
+
+[Illustration: Abbildung 50.
+
+Koch mit Papyruswedel, von einem Relief aus dem Grabe des Chefre'-'onch
+zu Giseh (Grab 75); a. R.; Dynastie 4; nach L. D. II, 16b.]
+
+Wie der Papyrus im Ornament usserst hufig Verwendung findet, so ist er
+auch fr die gyptische Sule das beliebteste Motiv; auf 10 Sulen
+kommen etwa 8 bis 9 Papyrussulen. Dies mag wohl daher kommen, dass der
+Papyrus die architektonische Idee der gyptischen Sule, von der wir
+noch zu sprechen haben werden, am besten verkrpert und daher wohl den
+gyptischen Knstlern fr die Sulenform am sympathischsten war.
+
+Bei diesen Sulen haben wir hnlich wie bei den Nymphaeensulen zu
+unterscheiden zwischen solchen mit geschlossenem und mit offenem
+Papyrusdoldenkapitell. Der frher gebruchliche Ausdruck Knospensulen
+fr die geschlossenen Papyrussulen hatte zwar so lange eine gewisse
+Berechtigung, wie man die Kapitelle dieser Sulenart als Lotusknospen
+gelten liess, da sie jedoch weder mit den Nymphaeenknospen und noch
+weniger mit Papyrusknospen etwas zu thun haben, muss auch der Ausdruck
+Knospenkapitell verworfen werden, und wir wollen lieber dafr die oben
+angefhrten, genaueren Bezeichnungen anwenden.
+
+Ferner haben wir auch hier wie bei den Nymphaeensulen einfache und
+Bndelsulen, die letzteren ganz wie dort in der Ueberzahl. Ja, man
+knnte sogar fragen, ob einfache Papyrussulen nicht berhaupt nur ganz
+vereinzelte Erscheinungen wren, da nur verhltnissmssig wenig sichere
+Beispiele von solchen wirklich erhalten sind[53], und die abgebildeten
+immer die Frage offen lassen, ob der gyptische Knstler nicht etwa nur
+eine Papyrusstaude gezeichnet hat, um sich die complicirte Darstellung
+eines Bndels zu ersparen, wie wir ja Aehnliches bereits bei den
+Nymphaeensulen beobachten konnten. Auffllig ist es jedenfalls, dass
+alle einfachen Papyrussulen bis auf zwei weiter unten noch anzufhrende
+Beispiele stets Halsbnder zeigen, die im Grunde doch nur den
+Bndelsulen zukommen sollten.
+
+Da sich jedoch bei den spter zu besprechenden, sicher einfachen
+Palmensulen auch Halsbnder zeigen, so kann man das Auftreten oder
+Fehlen der Halsbnder auch nicht als Kriterium fr einfache oder
+Bndelsulen ansehen. Trotz dieser Schwierigkeit haben wir die einfachen
+Sulen von den Bndelsulen zu trennen versucht, mssen jedoch bei
+einigen der einfachen die Frage offen lassen, ob sie nicht besser zu den
+Bndelsulen zu zhlen sind.
+
+Bevor wir nun in die Betrachtung der Papyrussulen mit geschlossenem
+Kapitell eintreten, wollen wir, um Wiederholungen zu vermeiden, noch
+kurz auf die charakteristischen Unterschiede hinweisen, welche die
+Papyrussulen von den Nymphaeensulen trennen. Es sind naturgemss
+dieselben, welche wir in der Ornamentik im allgemeinen beobachten
+konnten. Die _Papyrus_-Sule hat Bltter an der Basis, Schwellung des
+Schaftes am unteren Ende, dreikantiges Stengelprofil und kurze Bltter
+am Kapitell.
+
+[Illustration: Abbildung 51.
+
+Einfache Papyrussule mit geschlossenem Kapitell, von einem Relief aus
+Grab 14 zu Sawijet el Meitin; a. R.; nach L. D. II, 3e.]
+
+[Illustration: Abbildung 52.
+
+Einfach. Papyrussule mit geschlossenem Kapitell.
+
+Wandgemlde aus Qurna Grab 8 des Cha'-em-ht; n. R.; Dynastie 18; Zeit
+Amenophis' III. Nach L. D. III, 77c.]
+
+Die _einfache Papyrussule mit geschlossenem Kapitell_ lsst sich, wenn
+anders wir die Abbildung richtig verstehen, schon im alten Reiche
+nachweisen. In den Grbern zu Sawijet el Meitin erscheint bereits die
+Darstellung eines solchen Kapitells (Abb. 51). Mangels jeder inneren
+Zeichnung lsst sich jedoch weiter nichts darber sagen, als dass die
+ussere Contour auf Papyrus zu deuten scheint. Ebenso steht es mit den
+Sulenabbildungen aus dem Grabe des Si-renpowet bei Assuan[54], bei
+denen man auch nur aus der usseren Form schliessen kann, dass
+Papyrussulen gemeint sein drften. Ob in beiden Fllen wirklich
+einfache Sulen dargestellt sein sollen, mag unentschieden bleiben. Aus
+dem mittleren Reiche fehlen wohl nur zufllig Beispiele der usserst
+seltenen einfachen Papyrussule mit geschlossenem Kapitell, dafr sind
+im neuen wieder einige Exemplare nachweisbar.
+
+Von einer wohl als Bndelsule gedachten, aber nur mit einfachem
+Kapitell dargestellten Sule aus der Zeit Thutmosis' III.[55] aus Semneh
+abgesehen, kommen zwei sehr charakteristische Beispiele aus der Zeit
+Amenophis' III. vor, beide im Grabe des Cha'-em-ht zu Qurna.[56] Es
+sind Beispiele von schlanken Holzsulen an Baldachinen (Abb. 52); ber
+der Erdhgel-Basis entwickelt sich mit sanfter Schwellung ein
+Papyrusstengel von spitzen Fussblttern umgeben, den sich nach oben
+verjngenden Schaft fassen Halsbnder mit den in jener Zeit
+gebruchlichen frei flatternden Bandenden unter dem Kapitell; dieses hat
+die charakteristische Form des geschlossenen Papyrus, der bis auf die zu
+kurz und zu rundlich angegebenen Kopfbltter naturgetreu wiedergegeben
+ist; ein kleiner unscheinbarer Abakus stellt die Verbindung mit dem
+Geblk her. Das zweite[57] hier nicht abgebildete Beispiel gleicht dem
+ersten bis auf eine unwesentliche Abnderung am Halsband und bis auf die
+ihm fehlende Basis, die bei keiner gyptischen Sule absolut notwendig
+zu sein scheint.
+
+Aus derselben Zeit, dem Ende der 18. Dynastie, stammt noch die Abbildung
+einer Sule (Abb. 53), welche wohl auch hierher zu den einfachen
+geschlossenen Papyrussulen zu rechnen ist, trotzdem die gedrungene
+Form gar nichts mehr von der Schlankheit dieser Sulenart hat, sondern
+vielmehr an die geschlossene Bndelsule erinnert. Die bereinander
+greifenden Fuss- und Kopfbltter lassen jedoch nur die Deutung einer
+einfachen Sule zu, falls man nicht etwa einen Irrthum des alten Malers
+oder ein Herbernehmen von Formen der offenen Papyrussule annehmen
+will.
+
+Damit sind die Exemplare der einfachen, geschlossenen Papyrussule
+erschpft. Aus der Sptzeit sind keine mehr bekannt, trotzdem
+geschlossene Papyrusdolden ganz in der Form der eben besprochenen
+Kapitelle an den Ptolemischen Bndelsulen zwischen anderen Pflanzen zu
+Haufen vorkommen.[58]
+
+Die nun folgende Gattung der _Papyrusbndelsulen mit geschlossenem
+Dolden-Kapitell_ ist in der gyptischen Architektur so zahlreich
+vertreten, dass wir die bisher wenigstens angestrebte Vollstndigkeit in
+der Auffhrung der Beispiele schon von vornherein aufgeben mssen und
+nur die besten Exempel heranziehen knnen, an denen sich die im Laufe
+der Zeiten mit dieser Sulenart vorgegangene Vernderung am deutlichsten
+zeigt.
+
+[Illustration: Abbildung 53.
+
+Einfache Papyrussule mit geschlossenem Doldenkapitell von einem
+Wandgemlde aus Kom el ahmar (Sawijet el Meitin); n. R. Ende Dynastie
+18; nach Berl. Mus. Ph. 1367 u. 68.]
+
+[Illustration: Abbildung 54.
+
+Stumpf einer Papyrus-Bndelsule mit geschlossenem Kapitell; Abbild. aus
+dem Grabe des Si-renpowet; a. R.; Dynastie 6; nach de Morgan, Cat., I,
+S. 191.]
+
+Das einzige und auch nur fragmentarisch erhaltene Beispiel aus dem alten
+Reiche (Abb. 35) knnen wir schnell bergehen, zumal da man wirklich nur
+raten kann, ob wir hier eine Papyrusbndelsule der fraglichen Art vor
+uns haben.[59]
+
+Um so besser sind aber die Beispiele aus dem mittleren Reiche, in
+welchem unser Typus besonders beliebt gewesen zu sein scheint und auch
+von den alten Architekten noch ganz verstanden wurde, whrend spter,
+wie wir sehen werden, das Verstndnis dieser Sulenart immer mehr
+abnahm, so dass endlich aus unseren geschlossenen Papyrusbndelsulen
+Gebilde entstanden, die die Kunsthistoriker fr Lotusknospensulen
+ansehen konnten.
+
+Als klassische Beispiele der zu besprechenden Art knnen die Granit- und
+Kalksteinsulen gelten, welche zu dem Tempel aus der Zeit Amenemhet's
+III. vor dessen Pyramide bei Hawara gehrten[60] (Abb. 55). Acht
+regelmssig geordnete Stengel, deren Querschnitte nur die Deutung als
+Papyrus zulassen, wachsen aus der wieder als Erdhgel zu denkenden Basis
+hervor. An jedem einzelnen Stengel sieht man ein langes, spitzes
+Fussblatt, das bis ber die dickste Stelle des bei Papyrus naturgemss
+mit Schwellung versehenen Schaftes emporreicht. Unter dem Kapitell sind
+die sich verjngenden Stengel durch fnf Bnder gefasst, ber denen sich
+dann die acht geschlossenen Dolden entwickeln. Jede einzelne Dolde
+zeigt eines ihrer Kopfbltter, die anderen sind (ebenso wie schon bei
+den Fussblttern) im Innern der Sule auf der dem Beschauer abgekehrten
+Seite des Einzelstengels sitzend zu denken. Dass die geschlossenen
+Dolden im Kapitell denselben dreikantigen Querschnitt haben wie die
+Stengel am Schafte, ist nicht weiter wunderbar, da die geschlossene, von
+den Hllblttern noch ganz umgebene Dolde in der Natur wirklich den
+Dreiecksquerschnitt aufweist. Der gyptische Architekt hat die
+geschlossene Dolde ganz richtig dargestellt, nur hat er sich erlaubt,
+die Hllbltter zu kurz wiederzugeben, wie das ja, wie wir bereits oben
+bemerkt haben, in der Ornamentik auch geschieht.
+
+[Illustration: Abbildung 55.
+
+Papyrus-Bndelsule mit geschlossenem Doldenkapitell aus Hawara; m. R.;
+Dyn. 12. Zeit Amenemhet's III; nach L. D. I, 47.]
+
+Auf dem Doldenbndel ruht dann der bei allen gyptischen Sulen bliche,
+drftige Abakus.
+
+Wie das schon bei den Nymphaeensulen zu beobachten war, so scheint auch
+bei unseren Sulen der Architekt das Gefhl gehabt zu haben, dass die
+zusammengebundenen Stengel sich nicht in ihrer Lage halten wrden, wenn
+er nicht unter den Halsbndern ihnen eine sichere Packung verschaffte.
+Deshalb nimmt er auch hier wieder kleine Zwischenstengel und zwar acht
+Bndel zu je drei Stengeln. Diese werden besonders, im vorliegenden
+Falle genau wie die Hauptstengel mit fnf Bndern, unter den Dolden
+zusammengebunden und so hinter die fnf grossen Halsbnder
+hineingeschoben. Dass diese Zwischenstengel wirklich Papyrus mit Dolden
+sind, zeigen deutlich die allerdings nur an guten Beispielen
+vorkommenden Fuss- und Kopfbltter.
+
+[Illustration: Abbildung 56.
+
+Geschlossene Papyrus-Dolden-Sule mit nur angedeuteten Zwischenstengeln
+aus Luksor; n. R.; Dynastie 18; Zeit Amenophis' III; nach einer
+Beato'schen Photographie.]
+
+So muss also eine gute Papyrusbndelsule mit geschlossenem
+Dolden-Kapitell aussehen. Viele klare Beispiele[61] davon sind aber
+leider nicht vorhanden, denn schon im Ende des mittleren Reiches beginnt
+die allmhliche Vernderung dieser Sulenart; die weiter um sich
+greifende Verwilderung, die schliesslich die alte Form kaum noch
+erkennen lsst, tritt allerdings erst im neuen Reiche auf. Zuerst
+verlieren die Zwischenstengel ihr selbststndiges Profil[62] und bilden
+zwischen den jetzt auch ohne Kopfbltter auftretenden Hauptstengeln
+glatte Stcke, auf denen nur die Halsbnder und die vertikalen
+Trennungen durch schwach eingeritzte Linien angegeben sind (Abb. 56).
+Dann fallen auch diese nur schwach angegebenen Rillen fort, man begngt
+sich, die Theilung und die Halsbnder der Zwischenstengel nur
+aufzumalen. Die Hauptstengel haben jedoch hierbei, wenigstens bei den
+besseren Beispielen, noch scharfes Papyrusprofil, dessen Kante sich
+namentlich zwischen den Zwischenstengeln gut markirt.
+
+Die Zeit bald nach dem Ende der 18. Dynastie -- vielleicht schon die
+Periode Amenophis' IV. -- bringt bereits durchgreifendere Vernderungen.
+Von unwesentlichen, rein decorativen Neuerungen abgesehen -- wie z. B.
+das Heraufrcken der Bnder an den Zwischenstengeln[63], die Verzierung
+der oberen Enden der Zwischenstengel durch Uren[64], die Schmckung
+der Schfte durch angehngte Opfergnse[65], die Auflsung der Dolden
+des Kapitells in mehrere ganz unverstandene Stengel[66] und hnliche,
+wenig nachahmenswerthe phantastische Gebilde, welche ebenso schnell
+wieder verschwinden, wie sie spontan auftauchten -- hiervon also
+abgesehen, ist als wichtigste Aenderung das Aufgeben der Schaft- und der
+Kapitelltheilung in acht Stengel zu nennen.
+
+[Illustration: Abbildung 57.
+
+Geschlossenes Papyrus-Bndel-Kapitell mit Uebergang zum abgedrehten
+Kapitell aus Gurna; n. R.; Dynastie 19; Zeit Seti's I.; nach Berl.
+Museum Ph. 112.]
+
+Da auf die Darstellungen, die uns in dieser Zeit bereits vllig -- an
+Schaft und Kapitell -- abgedrehte Sulen zeigen[67], wegen der manchmal
+zweifelhaften Correktheit der Publication nicht viel zu geben ist, so
+ist es sicherer, das Vorkommen von Bndelsulen mit Schften von
+kreisfrmigem Querschnitt erst fr die Zeit nach dem Ende der 18.
+Dynastie anzunehmen. Die nach dieser Zeit zu constatirende Glttung des
+Schaftes mag sich wohl hauptschlich auf die Sucht der Aegypter, alles
+mit Inschriften und bildlichen Darstellungen zu versehen, zurckfhren
+lassen. Auf einem so stark profilirten Sulenschaft, wie der der
+Papyrusbndelsule ist, lsst sich nur schwer eine Inschrift setzen[68],
+daher glttete man den Schaft lieber, ohne auf seine ursprngliche
+Structur Rcksicht zu nehmen. Des weiteren ist an dieser Umwandlung wohl
+die Art der Ausfhrung der Sulen schuld; dieselben wurden nmlich im
+Rohbau aus ganz runden Trommeln errichtet und erst spter weiter
+sculpirt. Da mag wohl hin und wieder Eile oder Mangel an Mitteln dazu
+getrieben haben, die weitere Sculpirung nicht durchzufhren und den
+Bndelsulen einen runden Schaft zu belassen.
+
+Nebenher mag hier -- da es zur Erklrung einer spter zu besprechenden
+Art der Kapitellbemalung dient -- bemerkt werden, dass bei dem zuletzt
+abgebildeten Beispiel die Halsbnder der Zwischenstengel schon
+merkwrdig weit nach oben sich erstrecken und fr die Entwicklung der
+Kpfe der Zwischenstengel nur usserst wenig Raum brig lassen.
+
+Mit der 19. Dynastie scheinen also die Bndelsulen zuerst die
+abgedrehte Form anzunehmen, womit nicht etwa gesagt sein soll, dass
+sich von da ab keine richtigen Bndelsulen mehr fnden.[69] Zuerst
+zeigen sich ganz schchterne Anfnge. An Sulen aus der Zeit Seti's I.
+(Abb. 57) ist das obere Kapitell-Ende, das aus technischen, hier nicht
+weiter zu errternden Grnden mit dem Abakus zusammen aus einem Stcke
+gearbeitet ist, ohne weitere Aussculpirung der Papyrusform glatt
+gelassen worden -- ob mit voller Absicht oder aus Nachlssigkeit mag
+dahingestellt bleiben. Zu bemerken ist hier noch, dass die Stengel ihre
+scharfe Kante nur zwischen den Zwischenstengeln zeigen und sonst rund
+sind. Die Halsbnder der Zwischenstengel haben sich vermehrt.
+
+[Illustration: Abbildung 58. Vollstndig abgedrehte Papyrus-Bndelsule
+mit geschlossenem Doldenkapitell und noch leidlichen Ornamenten.
+
+aus Karnak; n. R.; Dynastie 19. Zeit Seti's I. und Ramses' II.; nach L.
+D. I, 80.
+
+Daneben das Kapitell grsser dargestellt.]
+
+Unter demselben Knig Seti I. kommen aber auch schon neben diesen Sulen
+mit beginnender, solche mit vollstndiger Abdrehung der Stengelprofile
+vor. Zwei Beispiele davon mgen gengen. Das eine aus Gurna[70] zeigt
+nur in der usseren Umrisslinie noch den Anklang an die alte Bndelsule
+und hat ausserdem die Zwischenstengel, Halsbnder und dergleichen am
+oberen Ende des Schaftes und am unteren des Kapitells nur aufgemalt.
+Sehr eigenthmlich wirken die zwischen den Zwischenstengeln
+scharfmarkirten Papyrusstengelkanten. Das zweite Beispiel aus Karnak
+(Abb. 58) geht darin sogar noch weiter, indem es nur die Kopfbltter
+der Hauptstengel spitz zwischen den Bndeln der Zwischenstengel
+hervorsehen lsst. Verstanden drfte der alte Architekt diese Dinge wohl
+kaum noch haben, sonst htte er wohl seine Reihen von Namensringen mit
+Uren, und sonstiges symbolisches Ornament mehr, wie es geschehen ist,
+der Structur der Sule anzupassen verstanden.
+
+[Illustration: Abbildung 59.
+
+A) aus Medinet Habu; n. R.; Dynastie 20; Zeit Ramses' III.; nach Berl.
+Museum Ph. 126.
+
+B) aus Karnak, Chonstempel; n. R.; Dynastie 21; Zeit des Heri-hor; nach
+Berl. Museum Ph. 106.
+
+Vollstndig abgedrehte Papyrus-Bndelsulen mit geschlossenen Dolden und
+ganz verwildertem Ornament.]
+
+Zum Schlusse dieses Abschnitts wollen wir noch zwei Beispiele von
+vollstndig tollgewordener Bemalung an geschlossenen Papyrusbndelsulen
+anfhren: zwei Sulen aus den Zeiten Ramses' III. und des Heri-hor (Abb.
+59). Bei der einen greifen die Zwischenstengel oben ber die
+Kopfblattspitzen der Hauptstengel fort, bei der anderen sind die
+Halsbnder der Zwischenstengel so oft wiederholt, dass von den Kpfen
+der Zwischenstengel fast nichts mehr brig geblieben ist. Ob die
+Architekten sich dabei berhaupt noch etwas gedacht haben?
+
+Wir haben bisher uns meist nur um das Aussehen unserer Sulen an der
+kritischen Halsstelle gekmmert und das Uebrige ganz vernachlssigt. Es
+ist auch darber nicht viel zu sagen, wenn man nicht etwa die fast
+selbstverstndliche Bemerkung fr der Erwhnung werth halten will, dass
+die Fussbltter bei den abgedrehten Sulen -- d. h. nur bei guten
+Beispielen -- neben einander stehen, da sie ja aus den einzelnen
+Fussblttern der acht Stengel entstanden sind, whrend die Fussbltter
+der offenen Papyrussule sich theilweise berdecken. An diesem Kriterium
+wrde man schon aus dem unteren Ende des Schaftes die Kapitellform
+errathen knnen, wenn nicht auch hier wieder die Anordnung der
+Fussbltter von der einen Sulenart bald auf die andere bertragen
+worden wre.
+
+Aus der Sptzeit ist die Papyrusbndelsule mit geschlossenem
+Doldenkapitell uns nur in einem Beispiele aus dem Tempel von Medamt
+(Abb. 60) bekannt. Ausser einigen Vernderungen in den Proportionen
+giebt dies aber nichts Neues. Sie lehnt sich, selbst bis zu der
+Behandlung der einzeln stehenden Fussbltter hinab, besser an die
+lteren, guten Vorbilder an, als dies bei den Beispielen aus der
+Ramessidenzeit der Fall war.
+
+[Illustration: Abbildung 60.
+
+Papyrusbndelsule mit geschlossenem Doldenkapitell nebst Fuss einer
+solchen Sule aus Medamt; Sptzeit; nach eigener Aufnahme.]
+
+Da die einzelnen geschlossenen Dolden, welche hufig in den
+Bndelkapitellen der Ptolemer- und Kaiserzeit auftreten, keine
+selbststndige Bedeutung haben, so knnen wir nunmehr zu den
+_Papyrussulen mit offenem Doldenkapitell_ bergehen.
+
+[Illustration: Abbildung 61.
+
+Einfache Papyrussule mit offenem Doldenkapitell aus Kahun; m. R.; nach
+Petrie, Illahun, VI, 5.]
+
+Bei dieser Sulengattung, die fast ebenso hufig ist, wie die vorher
+abgehandelte mit geschlossenem Doldenkapitell, scheinen in lterer Zeit
+nur einfache Sulen vorzukommen, whrend uns erst die Sptzeit sichere
+Beispiele von Bndelsulen bringt. Gerade die ltesten Exemplare sind
+als einfache Sulen anzusprechen. Es ist dies vornehmlich ein von PETRIE
+in Kahun gefundener etwa 0,5 m langer Sulenstumpf mit Kapitell, aus dem
+mittleren Reiche stammend (Abb. 61). Hier ist die Nachahmung der Natur
+sogar so weit getrieben, dass selbst der dreikantige Querschnitt des
+Papyrus genau wiedergegeben ist, trotzdem er fr einen Sulenschaft die
+denkbar ungeeignetste Form bietet. Die offene Dolde ist, wie das ja nach
+den gemalten und ornamental verwendeten Darstellungen von Papyrus zu
+erwarten war, massiv dargestellt und hat nichts von der ihr in der Natur
+eigenen Leichtigkeit. Die Kopf- und Fussbltter, welche dem Papyrus
+sonst eigenthmlich sind, fehlen hier, wohl nur wegen der Rohheit
+unseres Beispiels. Zu beachten ist endlich das bei einer einzelnen Dolde
+eigentlich garnicht anders mgliche Fehlen des Halsbandes. Aber leider
+giebt es nur zwei sichere derartige Beispiele ohne Halsband[71], beide
+aus Kahun, ein drittes Exemplar gleicher Provenienz, zeigt bereits das
+bei einer einfachen Dolde ohne die Annahme einer Entlehnung von
+Bndelsulen ganz unerklrliche Band unter dem Kapitell[72], welches bei
+der ltesten Abbildung einer solchen Sule allerdings wiederum fehlt
+(Abb. 62). An dieser Abbildung ist ersichtlich, dass die Bemalung
+unserer Sulenart die fr Papyrus bliche war: die Dolde grn, die
+Kopfbltter gelb.
+
+[Illustration: Abbildung 62.
+
+Offenes Papyrusdolden-Kapitell aus Bersche, Grab 5; nach Lepsius'
+Tagebuch und dem Abklatsch im Berl. Museum. (Vgl. Newberry Bersche, II,
+17).]
+
+[Illustration: Abbildung 63.
+
+Papyrus mit offener Dolde.
+
+Relief von den Granitpfeilern vor dem Sanctuar zu Karnak.; n. R.;
+Dynastie 18. Zeit Thutmosis' III.; nach Lepsius' Tagebuch und Erbkam's
+Skizzenbuch.]
+
+[Illustration: Abbildung 64.
+
+Offene Papyrus-Doldensule (mit Angabe der Blthen).
+
+Wandgemlde aus Gurna, Grab 15; n. R.; Dynastie 18; nach L. D. III,
+78b.]
+
+Wenn man bei den Beispielen aus dem mittleren Reiche noch mit Sicherheit
+zu der Ansicht gelangen konnte, die offene Papyrussule sei als
+Einzelsule aufzufassen, so ist bei den aus dem neuen Reiche stammenden
+Sulen derselben Art die Entscheidung dieser Frage schwieriger. Sie
+haben nmlich samt und sonders das nur an Bndelsulen verstndliche
+Halsband, das freilich auch den sicher einfach gedachten Palmensulen
+eigen ist, und ausserdem fast alle einen vllig runden Querschnitt, den
+man, wie wir das oben bei den geschlossenen Papyrusbndelsulen gesehen
+haben, leicht als eine abgedrehte Form eines ursprnglich sculpirten
+Bndelquerschnitts erklren knnte. Einige gute Beispiele[73] aber
+zeigen trotz des kreisfrmigen Querschnitts des Schaftes an drei
+Stellen desselben ganz schwach angedeutete vertikale Kanten. (S. Abb. 65
+links.) In diesen Fllen muss man also annehmen, dass der Architekt nur
+den ursprnglichen Papyrusquerschnitt, um ihn der Sulenform besser
+anzupassen, voller und runder gestaltet hat. Gegen die Annahme einer
+Bndelsule spricht ferner das Fehlen von Zwischenstengeln und die
+Anordnung der Fuss- und Kopfbltter, welche sich bei unseren Sulen
+stets berdecken (s. Abb. 63, 64, 66 u. s. w.) und gewissermaassen in
+zwei Reihen stehen, whrend sie bei Bndelsulen sich nur berhren
+drften, wie wir das oben bei den geschlossenen Papyrusbndelsulen
+gezeigt haben. Man wird also die lteren Beispiele wohl alle fr
+Einzelsulen ansehen mssen, die nur aus sthetischen Grnden das
+Halsband von Bndelsulen entlehnt haben.
+
+[Illustration: Abbildung 65.
+
+Einzelne Sule, an der eine der Papyruskanten sichtbar ist.
+
+Offene Papyrus-Doldensulen aus Luksor; n. R.; Dynastie 18; Zeit
+Amenophis' III. und Twet-anch-amun's; nach Berl. Museum Ph. 1412. und
+einer Photographie der Leipziger Universitt.]
+
+[Illustration: Abbildung 66.
+
+Offenes Papyrus-Dolden-Kapitell von der auf der nchsten Seite
+abgebildeten Sule. Nach L. D. II, 81.]
+
+So drftig fr unsere Sulenart die Anzahl der lteren Beispiele ist, so
+zahlreich sind die jngeren von Dynastie 18 ab, so dass wir hier wieder
+nur mit Auswahl vorgehen knnen. Hierbei wollen wir ein Beispiel nicht
+vergessen, das eigentlich nur indirect hierher gehrt, nmlich den
+Papyrus von den Granitpfeilern Thutmosis' III. zu Karnak (Abb. 63),
+welcher besonders durch seine noch erhaltenen Farbenreste lehrreich ist.
+Die Basis ist, wie gewhnlich, als Erdhgel gedacht und daher rothbraun,
+die Fuss- und Kopfbltter sind gelb, Stengel und Dolde grn, die oberste
+Flche der Dolde, wo in der Natur die kleinen braunen Blthen sitzen (s.
+Abb. 64), ist roth bemalt. Von diesen Frbungen kehren die der Fuss- und
+Kopfbltter, sowie die des oberen Kapitellrandes auch auf anderen Sulen
+wieder, die Farbe des Stengels und des Kapitells wird jedoch sonst
+selten oder nie mit dem richtigen, natrlichen Grn wiedergegeben.
+
+[Illustration: Abbildung 66a.
+
+Offene Papyrus-Dolden-Sule aus Karnak; n. R.; Dynastie 19; Zeit Seti's
+I. und Ramses' II.; nach L. D. I, 80.]
+
+Am Kapitell versuchen die Knstler die einzelnen Doldenstrahlen durch
+Relief wiederzugeben, wie wir das zum Beispiel an einem recht guten
+Exemplar aus den Zeiten Amenophis' III. und Twet-anch-amun's aus Luksor
+sehen (Abb. 65). Dieses Beispiel zeigt ausser den schon oben erwhnten
+drei Kanten des Papyrusstengels noch ebenso wie einige aus der Zeit
+Amenophis' IV.[74] verhltnissmssig lang und spitzig geformte
+Kopfbltter; an spteren Kapitellen runden sich diese mehr und mehr ab
+und werden krzer.
+
+Dass auch bei dieser Sulenart die im Ende der 18. Dynastie
+modern werdenden flatternden Bnder[75] sowie die Kranz- und
+Gnsedecorationen[76] vorkommen, bedarf wohl kaum der Erwhnung.
+
+Unter der 19. Dynastie drngen sich auch bei dieser Sulengattung Motive
+ein, welche mit der eigentlichen Structur der Sule nichts zu thun
+haben. Bilder, Inschriften und Reihen von Uren bedecken nicht nur die
+Schfte, auch auf den Kapitellen befinden sich zwischen die
+Doldenstrahlen eingestreute Namensringe (s. Abb. 66). Die Strahlen
+selbst werden abwechselnd mit den Blthen bezw. Dolden der beiden
+Wappenpflanzen von Ober- und Untergypten, Lilie und Papyrus gekrnt.
+
+Ein Zeichen des geringen Verstndnisses der Knstler jener Zeit fr die
+structiv richtigen Formen dieser Sulengattung ist ferner darin zu
+sehen, dass sich im Ramesseum bereits Sulen mit offenem Papyruskapitell
+finden, deren Basis die sonst nur bei geschlossenen Papyrusbndelsulen
+bliche Anordnung der Fussbltter zeigen.[77]
+
+Auch diese Art von Sulen befindet sich also ebenso wie die geschlossene
+Papyrussule im neuen Reiche bereits in einem vorgeschrittenen Stadium
+der Verwilderung.
+
+Um so wunderbarer ist es, dass die bereits an der Grenze der Sptzeit
+stehenden Taharka-Sulen im ersten Hofe des grossen Amonstempels zu
+Karnak[78] sich wieder mehr an die richtigen Formen des Papyrus
+anlehnen. Es fehlt diesen Sulen zwar die Schwellung, auch laufen die
+Doldenstrahlen wieder in Lilien und Papyrus aus, aber die Umrisslinie,
+sowie der feine obere Rand des Kapitells und namentlich die recht gut
+gezeichneten Kopf- und Fussbltter geben dem Ganzen dennoch ein fast
+naturalistisch zu nennendes Geprge, das sie weit ber die plumpen
+Gebilde der Ramessidenzeit erhebt.
+
+[Illustration: Abbildung 67.
+
+Offene Papyrussule aus Giseh, Grab 81. Sp. Zt.; nach L. D. I, 27.]
+
+[Illustration: Abbildung 68.
+
+Papyrus-Bndelsule mit offenem Doldenkapitell aus Philae. Sp. Zt.
+Ptolemisch; nach eigener Aufnahme.]
+
+Selbstverstndlich tritt auch bei unseren offenen Papyrussulen in der
+Sptzeit die allen Sulengattungen eigene Herunterschiebung des
+Halsbandes ein, wie beispielsweise eine noch unfertige Sule (Abb. 67)
+aus Giseh zeigt.
+
+Ebenso selbstverstndlich ist es, dass unsere offene Papyrusdolde in der
+Ptolemer- und Kaiserzeit hufig wieder auftritt und zwar hier zum
+ersten Male sicher als Bndelsule (Abb. 68 u. 69). Daneben treten
+allerdings auch noch Einzelsulen mit offenem Doldenkapitell auf. Unter
+letzteren ist besonders ein Beispiel erwhnenswerth, das von dem sonst
+in der Ptolemischen Epoche blichen Typus der Sulen abweicht: eine
+Sule aus Km-Ombo[79], die die Herunterschiebung des Halsbandes nicht
+hat. Bemerkenswerth ist ausserdem hier und auch bei anderen Beispielen
+der Sptzeit die merkwrdig verstndige Behandlung der einzelnen
+Doldenstrahlen.
+
+[Illustration: Abbildung 69.
+
+Bndelsule mit offenen Papyrusdolden aus Edfu. Sp. Zt. Ptolemisch;
+nach Berl. Museum, Ph. 138.]
+
+Wir sind nunmehr mit unserer Besprechung der Papyrussulen zu Ende und
+wollen daher, da diese Sulen frher vielfach mit den bereits oben
+gengend charakterisirten Nymphaeensulen zusammengeworfen wurden,
+nochmals kurz die Merkmale aufzhlen, durch welche sich diese von jenen
+unterscheiden:
+
+    Die Basis fehlt bei den Papyrussulen nur ganz ausnahmsweise, bei
+    den Nymphaeensulen fter.
+
+    Der Schaft der Papyrussule hat Schwellung und Fussbltter, welche
+    beide der Nymphaeensule ursprnglich fehlen.
+
+    Die Zwischenstengel, welche nur bei der geschlossenen Doldensule
+    vorkommen, haben wie die Hauptstengel Papyrusformen, bei den
+    Nymphaeensulen dagegen Formen von Nymphaea-Knospen und Blthen.
+
+    Die usseren Umrisslinien der geschlossenen wie offenen
+    Papyruskapitelle sind wesentlich unterschieden von denen der
+    geschlossenen und offenen Nymphaeensulen.
+
+    Die Kopfbltter reichen beim Papyruskapitell nie[80] bis zum oberen
+    Rande, beim Nymphaeakapitell stets.
+
+
+
+
+IV. Die Palmensulen.
+
+
+[Illustration: Abbildung 70.
+
+Phoenix dactylifera L., aus einer Gruppe bei Giseh; nach Berl. Museum
+Ph. 178.]
+
+[Illustration: Abbildung 71.
+
+Dattelpalme von einem Wandgemlde zu Benihassan; m. R.; nach L. D. II,
+126 u. 127.]
+
+Bei dieser Art von Sulen knnen wir auf die Beschreibung der ihr zu
+Grunde liegenden Pflanze und der gyptischen Darstellungen derselben
+verzichten, da seit dem Bekanntwerden der ersten Sulen dieser Art es
+nie zweifelhaft war, welche Pflanze in dem architektonisch ausgebildeten
+Sulentypus gemeint war, und da auch gar keine Mglichkeit vorliegt,
+diese Pflanzensule mit irgend einer anderen zu verwechseln, was bei den
+bisher abgehandelten eher mglich und auch leider reichlich der Fall
+war. Es mag daher die hier gegebene Abbildung (Abb. 70) und der Hinweis
+auf die Beschreibung der Dattelpalme Phoenix dactylifera L. gengen,
+welche sich sehr ausfhrlich in der Description de l'gypte, Theil 19,
+S. 435 ff. und Taf. 62 findet. Des Weiteren haben wir noch eine Auswahl
+von abgebildeten Dattelpalmen hier hinzugefgt, welche uns die mehr
+oder minder stilisirte Auffassung zeigen sollen, welche die Aegypter in
+den verschiedenen Epochen von dieser Pflanze hatten (Abb. 71 bis 73).
+Natrlich ist die Art der Darstellung im neuen Reiche lebendiger als im
+mittleren, besonders mag auf die detaillirte Wiedergabe der Borke bei
+dem einen Beispiel aus dem neuen Reiche aufmerksam gemacht werden.
+
+[Illustration: Abbildung 72.
+
+Dattelpalme von einem Relief aus Abusir;
+
+n. R.; Dynastie 19-20. Berl. Museum No. 7322. Ausfhrliches Verzeichniss
+S. 146.]
+
+Die Stilisirung der Dattelpalme fr ihre Verwendung als Sule ist hchst
+einfach. Sie ergiebt eine Sule ohne Schwellung, ohne Fussbltter, oft
+auch ohne Basis. Die leicht nach aussen gebogenen Blattwedel, die mehr
+oder weniger durchsculpirt sind, ergeben das Kapitell, auf dem ganz
+simpel der kleine, unbedeutende Abakus aufruht. Merkwrdig ist nur das
+auch bei dieser Sulenart unter dem Kapitell angebrachte, meist
+fnftheilige Halsband, das hier um so weniger Sinn hat, als in keiner
+Epoche Palmenbndelsulen nachweisbar sind. Man muss sich also dieses
+Halsband, wie wir das ja auch bei den lteren Papyrussulen mit offenem
+Kapitell thun mussten, als von anderen Bndelsulen bertragen denken.
+
+[Illustration: Abbildung 72a.
+
+Dattelpalme von vorstehendem Relief.]
+
+[Illustration: Abbildung 73.
+
+Stumpf einer Dattelpalme mit Borke von einem Relief aus Sakkara; Dyn.
+19. Zeit Ramses' II. Berl. Mus. No. 12412. Ausfhrl. Verzeichniss
+S. 153.]
+
+Die Palmensule, von der wir im alten Reiche nur eine zweifelhafte
+Spur[81] nachweisen knnen, scheint im mittleren schon sehr beliebt
+gewesen zu sein. Ausser dem klassischen aus Berscheh stammenden
+Beispiele aus dieser Zeit (Abb. 74) haben sich in Kahun[82] mehrere
+Kapitellreste in verschiedenen Grssen gefunden, eins davon sogar mit
+recht gut ausgearbeiteter Fiederung der Palmenwedel. Auch in Benihassan
+finden sich Darstellungen dieser Sulenart.[83]
+
+[Illustration: Abbildung 74.
+
+Palmensule aus Berscheh, Grab 2; m. R.; nach Newberry, el Berscheh, I,
+Pl. IV.]
+
+Auch das neue Reich ist nicht gerade arm an Beispielen, die freilich
+meist bereits etwas graciser ausgefallen sind als die lteren. In einem
+Grabe zu Gurna sehen wir einen Monolithen sich unter den Hnden der
+Steinmetze und Polierer zu einer Palmensule umbilden (Abb. 75). Im
+Palaste Amenophis' IV. finden wir sie fter abgebildet, hier natrlich
+wieder mit den obligaten flatternden Bndern[84], mit usserst schlanken
+Kapitellen[85], aber auch mit der bei Palmensulen eigentlich
+ungehrigen Schwellung.[86] Reste von den Originalen dieser eben
+erwhnten Abbildungen haben sich bei den PETRIE'schen Ausgrabungen im
+Palaste zu Tell-Amarna gefunden, und wir knnen aus diesen allerdings
+nur geringen Ueberbleibseln[87] einen Schluss auf die Pracht der
+Ausfhrung dieser Sulen machen. Die Fiedern der Palmenwedel waren mit
+grnen, rothen und blauen Pasten incrustirt, der dazwischen stehen
+gebliebene Kalkstein vielleicht vergoldet. Die Reconstruction in
+PETRIE's Tell el Amarna, Taf. VI, giebt davon ein schwaches Bild, das
+die Schnheit der Linien und den Glanz des Materials dieser Sulen ahnen
+lsst. Den eleganten Palmensulen von Tell-Amarna stehen jedoch wieder
+andere aus derselben Zeit oder doch nur wenig spter entgegen, welche
+wieder fast so gedrungen sind wie die des mittleren Reiches. Es sind
+dies Sulen aus Soleb (Abb. 76) und Sesebi.[88]
+
+[Illustration: Abbildung 75.
+
+Palmensule in Bearbeitung;
+
+Wandgemlde aus Gurna; n. R.; Dynastie 17; nach L. D. III, 26, 1a.]
+
+[Illustration: Abbildung 76.
+
+Palmensule aus Soleb; n. R.; Dynastie 19. Zeit Seti's II.; nach
+L. D. I, 117.]
+
+[Illustration: Abbildung 77.
+
+Palmensule.
+
+Relief aus dem Assassif, Grab 2. Sp. Zt.; 26. Dyn.; nach L. D. III,
+272a.]
+
+[Illustration: Abbildung 78.
+
+Palmensule aus Philae. Sp. Zt. Zeit des Augustus und Tiberius; nach
+Berl. Museum, No. 7324. Ausfhrl. Verzeichn. S. 22.]
+
+In der Sptzeit zeigt sich wieder durchweg der schlanke Typus, der
+dieser Gattung mit Recht eine bevorzugte Stellung unter allen
+gyptischen Sulen sichert. Merkwrdig ist an diesen spten Sulen eine
+Erscheinung, welche man vielleicht auf die des fteren schon erwhnten
+flatternden Bnder aus der 18. Dynastie zurckfhren muss. Von dem
+Halsband hngt nmlich eine aus drei Bandlagen gebildete Schleife herab
+(Abb. 77), die dann auf noch spteren Beispielen zu einem Kranze von
+languettenartig geordneten Bndern wird (Abb. 78). An dieser
+letztgenannten Sule beobachten wir wieder die in der Sptzeit bliche
+Herabrckung der Halsbnder, wodurch dann ber denselben ein Teil des
+schuppigen Palmenstammes sichtbar wird. Als neues Motiv tritt hier
+ferner noch die Anbringung von Datteltrauben zwischen den Palmenwedeln
+auf. Dass es in der Sptzeit auch nicht an unsinnigen Zuthaten bei
+Palmensulen, wie z. B. Fussbltter ber der Basis[89], fehlt, bedarf
+wohl keiner besonderen Erwhnung.
+
+
+
+
+V. Andere Pflanzensulen.
+
+
+In diesem Kapitel sollen noch kurz zwei Arten von Pflanzensulen
+besprochen werden, die sich den bisher erwhnten grossen Gattungen nicht
+einordnen lassen, und welche ausfhrlich in besonderen Kapiteln
+abzuhandeln wegen der geringen Anzahl von Beispielen, die bislang
+bekannt geworden sind, nicht lohnt. Da bei diesen, meist nur in ein oder
+zwei Exemplaren auf uns gekommenen Sulenarten es schwierig, ja fast
+unmglich ist, die ihnen zu Grunde liegende Pflanze genau zu bestimmen,
+so werden wir uns hier nur mit der allgemeinen Angabe der betreffenden
+Pflanzengattung zufrieden geben mssen, die bei den anderen Kapiteln
+gegebene Beschreibung der Pflanze etc. fllt also hier fort.
+
+[Illustration: Abbildung 79.
+
+Fragment einer Rohrsule aus Tell-Amarna; n. R.; 18. Dynastie. Zeit
+Amenophis' IV.; nach Berl. Museum No. 12031. Ausfhrl. Verzeichniss S.
+101.]
+
+[Illustration: Abbildung 80.
+
+Fragment einer Rohrsule aus dem Grabe des Rechwimose zu Sakkara; n.
+R.; Dynastie 19-20; nach Berl. Museum 1446. Ausfhrl. Verzeichn. S.
+135.]
+
+Zuerst sind zwei Beispiele von _Rohrsulen_ zu erwhnen. Da von beiden
+weder Kapitelle noch Basen, sondern nur Schaftfragmente auf uns gekommen
+sind, so sind wir hier gleich der Mhe berhoben, der Rohrart[90],
+welche in diesen Bruchstcken gemeint ist, nher nachzuspren. Wir sehen
+nur an den in Tell el Amarna gefundenen Fragmenten (Abb. 79), dass wir
+es hier mit einem Sulenschaft, der ein Bndel gelber, runder
+Rohrstengel darstellt, zu thun haben. Die Kerben auf den einzelnen
+Stengeln bedeuten die Stellen, wo ehemals die Bltter sassen, und die
+darber angedeuteten Dreieckchen sollen die in der Blattachsel sitzenden
+Knospen andeuten. Ein Stck einer hnlichen Sule aus etwas spterer
+Zeit (Abb. 80) ist wie das vorige im Berliner Museum aufbewahrt. An
+diesem Stck fehlen die Kerben auf den einzelnen Stengeln, dafr sind
+aber die zusammenhaltenden Stricke recht naturalistisch wiedergegeben.
+
+[Illustration: Abbildung 81.
+
+Schilfstcke in Fayence von einer Sule aus Tell el Amarna; n. R.;
+18. Dynastie; Zeit Amenophis' IV; nach Berl. Museum No. 12299-12304.
+Ausfhrl. Verzeichniss S. 101.]
+
+[Illustration: Abbildung 82.
+
+Winde aus einem gemalten Kranze von einem Sarge; n. R.; 18.-19.
+Dynastie; nach Berl. Museum, No. 11981.]
+
+[Illustration: Abbildung 83.
+
+Bndel-Sule mit Windenkapitell;
+
+nach Prisse, Histoire de l'art gyptien. Dtails de colonnettes en bois,
+No. 6.]
+
+Eine Abart dieser Rohrsulen scheinen die _Schilfbndel_-(?)-_sulen_ zu
+sein, von denen PETRIE eine nach den in Tell el Amarna gefundenen
+Fragmenten bis auf das Kapitell wohl sicher richtig reconstruirt
+wiedergiebt.[91] Die gelblich grnen Schilfbltter dieser Sulen waren
+aus Fayencestcken gebildet, von denen einige auf der vorigen Seite
+dargestellt sind (Abb. 81); die Bnder, von denen das Schilf
+zusammengehalten war, waren wohl in andersfarbiger Fayence gehalten oder
+theilweise auch in Bronce ausgefhrt, und griffen ber den wohl an
+beiden Seiten, oben und unten angebrachten Falz der vertikalen
+Fayencestcke (s. in der Abb. links unten) ber. Leider reichen aber
+auch hier die Fragmente nicht aus, um die Pflanze, welche gemeint ist,
+mit hinreichender Sicherheit zu bestimmen.
+
+Die zweite Art, von der gar nur ein Beispiel und auch das nur in
+Abbildung auf uns gekommen ist, scheint von einer _Winde_[92]
+hergeleitet zu sein. Convolvulus- oder Gentiana-(?)-Arten finden sich
+fter ornamental verwendet, wie ein vorstehend gegebenes Beispiel aus
+einem gemalten Kranze von der Brust eines Sargdeckels in Mumienform
+aus dem Funde der Amonspriester von Dr-el-bari zeigt (Abb. 82).
+Man sieht an diesem Beispiele deutlich, wie aus dem kleinen Kelche
+die glockenfrmige Blthe ohne Theilung in einzelne Blthenbltter
+herauswchst; auf die Frbung, die vom Gelb am Kelch in Roth und
+endlich in Grn oder Blau bergeht, drfte ebensowenig etwas zu geben
+sein, wie auf die Bemalung der einzig publicirten Windensule (Abb.
+83), welche ihre Farbenflle zuerst wohl der Phantasie des gyptischen
+Knstlers und in zweiter Linie der Schnfrberei der modernen
+Publication zu danken haben drfte.
+
+Bei diesem Beispiel, das, wie die Zwischenstengel zeigen, als
+Bndelsule aufzufassen ist, erinnert nur die ussere Form des Kapitells
+an die oben gezeigte Windenform, die Bemalung und streifenfrmige
+Eintheilung der Blthenglocke ist vllig willkrlich. Sehr getreu aber
+sind die Knospen auf den Zwischenstengeln der Natur abgelauscht; das
+Hervorbrechen der noch spitz zusammengedrehten Blthenglocke aus den
+wenig geffneten Kelchblttern ist den Winden so eigenthmlich, dass der
+gyptische Knstler mit seinem gewohnten Scharfblick fr das
+Charakteristische der einzelnen Pflanzenarten es anbringen musste.
+
+
+
+
+Schluss.
+
+
+Aus den vorstehenden Kapiteln wird der Leser die Ueberzeugung gewonnen
+haben, dass die frher vielfach gehegte Ansicht, die gyptische
+Architektur verfge nur ber eine verhltnissmssig geringe Anzahl von
+Pflanzensulen -- meist wurde ja alles fr Lotus erklrt und ausserdem
+hchstens noch die Palmensule zugelassen --, dass diese Ansicht, die
+dann womglich noch diesen Sulenarten irgend eine gesuchte
+symbolische Bedeutung unterlegte, angesichts der grossen Menge von
+verschiedenartigen Pflanzengattungen, welche die altgyptischen
+Knstler zu Sulenformen umzustellen vermochten, als veraltet zu
+bezeichnen ist. Mit den verschiedenen sieben bis acht Arten von
+Pflanzen, die in allen Stadien ihrer Entwicklung, geschlossen oder
+offen, als Knospen oder Blumen, zu Sulen geformt uns im Laufe der
+vorstehenden Abhandlung entgegengetreten sind, werden wir den
+Formenschatz der alten Knstler voraussichtlich noch nicht erschpft
+haben; an den Sulen der Sptzeit, die ja in gewissem Grade von der
+Besprechung ausgeschlossen waren, treten noch einige weitere Pflanzen
+auf, auch kann uns jeder Tag unerwartete Funde bringen, welche wie die
+reiche architektonische Ausbeute aus Tell el Amarna uns neue
+Gestaltungen von Pflanzensulen zu zeigen vermchten.
+
+Es muss sich uns infolge dieser Mannigfaltigkeit die Frage aufdrngen,
+weshalb die alten Architekten mit solcher Vorliebe Pflanzen zu
+Sulenmotiven verwendeten. Irgend welche Symbolik, dass etwa die eine
+oder die andere Pflanze dem Gotte, in dessen Tempel sie als Sule stand,
+heilig gewesen wre, oder dass sie wie Papyrus und Lilie, die
+Wappenpflanzen von Unter- und Obergypten, zur Bezeichnung der Nord- und
+Sdhlfte des Tempels unter Anspielung auf die beiden Reichshlften[93]
+dienen sollten, derartige Symbolisirungen sind ausgeschlossen, da man
+sonst irgend eine Regel in der Anwendung der verschiedenen
+Pflanzenmotive msste entdecken knnen. Die einzelnen Pflanzensulen
+werden vielmehr ohne jede erkennbare tiefere Absicht, rein nach dem
+Geschmack des Architekten, in der Sptzeit sogar mit Vorliebe in buntem
+Durcheinander angeordnet. Es muss also wohl eine andere Bewandtniss
+damit haben.
+
+Bereits MASPERO hat in seiner Archaeologie gyptienne, S. 88, bei
+Besprechung der Innendecoration der Tempel uns den richtigen Weg zum
+Verstndniss des Wesens der Pflanzensulen gewiesen, leider jedoch ohne
+seine Theorie bis zu den letzten Consequenzen, d. h. bis zu ihrer
+Anwendung auf die Sulen selbst durchzufhren.
+
+Nach MASPERO war der Tempel bezw. das architektonisch durchgebildete
+Innere eines Hauses dem Aegypter ein Abbild der Welt. Der Fussboden
+stellte die Erde dar, ber ihm breitet sich der Himmel, die Decke, aus.
+Dieser Vorstellung passt sich die ganze Decoration des Raumes an. Die
+Decke ist nur mit himmlischen Dingen geschmckt: Sterne in regelmssiger
+Vertheilung, fliegende Vgel, Darstellungen von Sternbildern und des
+Sonnenlaufs, ja selbst Sternverzeichnisse sind dort angebracht. Im
+Gegensatz dazu erhlt alles, was dem Boden nahe ist, pflanzliches
+Ornament, das meist noch so aufgefasst wird, als wchse es aus dem Boden
+heraus. Die Mauersockel sind mit langen Reihen von Papyrusstauden
+verziert, Bsche von anderen Wasserpflanzen kommen daneben vor, die
+Basen der Sulen sind von Blattwerk umgeben -- Nein! nicht nur das,
+vielmehr sind die ganzen Sulen Pflanzengebilde, die aus der Erde
+emporspriessen und frei in den Himmel hineinragen.
+
+Eine merkwrdige, phantastische Auffassung, auf der wir da die sonst so
+prosaischen Aegypter ertappen. Und dass hier nicht etwa blos eine vom
+Kunsthistoriker den schaffenden Knstlern untergelegte Anschauung zu
+Tage tritt, das lsst sich zum Ueberfluss noch haarscharf beweisen. Ein
+glcklicher Zufall hat uns nmlich die breite und die tiefe Halle,
+gewissermaassen das Speise- und Empfangszimmer des Palastes Amenophis'
+IV. in Tell el Amarna vollstndig erhalten. Dies vollstndig ist
+nicht zu viel gesagt; wir haben nmlich die Grundrissmauern mit den
+prachtvoll erhaltenen Estrichen[94], zur Reconstruction vllig
+ausreichende Fragmente der Sulen[95] und last not least mehrere alte
+untereinander bereinstimmende Abbildungen dieser Sle[96]. Die
+Estriche sind herrlich bemalt, in der Mitte sind Teiche mit allerlei
+Fischen und Wasservgeln; umgeben sind dieselben von Rohr-, Papyrus-
+und Schilf-Dickicht, in welchem wieder verschiedene Thiere sich
+tummeln, des Weiteren folgen ornamentale Gefssdarstellungen und, da
+der Estrich in einem Knigspalast liegt, im Mittelgang die Figuren von
+Gefangenen, die gefesselt am Boden liegen und ber die der Knig
+hinwegschreiten soll. Alles deutet also darauf hin, dass der Fussboden
+wirklich als Erde aufgefasst ist. Die Sulen, welche in der Mitte der
+Sle in Reihen standen, stellen Pflanzen und zwar Palmenstmme und
+Schilfbschel dar, die um die Teiche des Estrichs herum stehen. Wie die
+Decke darber aussah, auch das hat uns ein gyptischer Maler in seiner
+kindlichen Manier berliefert (Abb. 84). Als er jene Darstellung des
+Palastes, den er, nach allen Details zu urtheilen, genau kannte,
+entwarf, da wollte er auch den gemalten Himmel an der Decke der Sle
+wiedergeben. Er wusste, dass dieser Himmel, wenn er, im Saale stehend,
+ihn betrachtete, stellenweise durch die oberen Theile der Palmensulen
+verdeckt wurde. Das richtig darzustellen berstieg aber seine
+perspectivischen Kenntnisse. Er malte daher ganz dumm seinen Himmel und
+zwar die Hieroglyphe [HG: **] fr Himmel -- hinter die obersten Theile
+der Sule, dicht unter die Deckenlinie.[97] Darunter stellte er dann
+noch die an die Decke gemalte strahlende Sonne dar. Sehr schn ist ja
+diese zeichnerische Leistung nicht, aber wir sehen doch wenigstens
+daraus, wie die Decke in jenem Saale decorirt war.
+
+Die Ausschmckung der Rume des Palastes von Tell el Amarna ist also
+ein vollgltiger Beweis fr die oben angefhrte Theorie, dass die
+Aegypter die Innenrume ihrer Tempel und Huser  l'image du monde
+aufgefasst und demgemss decorirt haben, und dass nur eine nothwendige
+Folge dieser Auffassungsweise das Vorkommen von Pflanzensulen ist.
+Diese Sulen sind also keineswegs nur wie klassische oder
+mittelalterliche Sulen mit Pflanzenkapitellen als Sulen mit
+ornamentalen, pflanzlichen Zuthaten anzusehen, sondern stellen in ihrer
+ganzen Grsse von der Basis bis zum Kapitell nur _eine_ Pflanze oder
+_ein_ Pflanzenbndel dar.
+
+[Illustration: Abbildung 84.
+
+Der tiefe Saal aus dem Palaste von Tell el Amarna;
+
+n. R.; 18. Dynastie. Zeit Amenophis' IV.; nach L. D. III, 109.]
+
+Nebenbei mag erwhnt werden, dass die Fiction, der Boden sei die
+Erde und die Decke der Himmel, noch einer anderen Gattung von Sulen
+das Leben gegeben hat, die ganz diametral den Pflanzensulen
+gegenberstehen. Whrend nmlich letztere, wie wir noch weiter
+auszufhren haben werden, frei in den Himmel, d. h. gegen die Decke
+emporstreben und den Gedanken eines Tragens gar nicht ausdrcken
+sollen, so bedeuten jene direct Sttzen des Himmels, und ihre Formen
+sind verschiedenen mythologischen Symbolen nachgebildet, von denen es
+wohl in der religisen Litteratur der Aegypter hiess, dass sie die
+Himmelsdecke tragen. Zu diesen Symbolsulen rechne ich die
+_Sistrumsule_ und die _Dedsule_. Die erste, frher unter dem Namen
+Sule mit Hathorkapitell allgemein bekannt, stellt ein
+vollstndiges Sistrum [HG: **] dar, wie ein Vergleich mit den in den
+Museen in natura oder in Fayencenachbildungen aufbewahrten Exemplaren
+dieser Klappern sogleich darthut. Der Sulenschaft (s. Abb. 85) ist
+der Stiel der Klapper, Kapitell und Abakus bildet das auf
+Hathormasken sitzende, hohl zu denkende Kapellchen mit den seitlich
+anschlagenden Metallfedern. Diese Sulenart kommt, wie schon LEPSIUS
+in seinen Tagebchern vermuthet, anscheinend nur in Tempeln
+weiblicher Gottheiten[98] vor und wohl meist auch da nur in solchen,
+deren Gttinnen mit der Hathor irgendwie confundirt werden knnen.
+
+Eine gyptische Sage, in der eine Anspielung auf das Sistrum als
+Himmelssttze vorkme, ist mir nun zwar nicht bekannt, wohl aber giebt
+es, worauf mich Herr Prof. ERMAN freundlichst aufmerksam machte, im
+Berliner Museum eine Fayencedarstellung der Himmelserhebung durch den
+Gott Schu, auf welcher zwei Sistren an jeder Seite den Himmel sttzen
+(Abb. 86).
+
+[Illustration: Abbildung 85.
+
+Sistrumsule aus Elkab; n. R.; 18. Dynastie; Zeit Amenophis' III.; nach
+eigener Aufnahme.]
+
+[Illustration: Abbildung 86.
+
+Fayence-Brustschmuck mit Himmelserhebung.
+
+Sptzeit; nach Berl. Museum No. 6611.]
+
+[Illustration: Abbildung 87.
+
+Ded-Sule von der Abbildung eines Osirisbaldachins von einem Sarge aus
+Theben; n. R.; 20. Dynastie; nach Berl. Museum, 11979.]
+
+Die zweite Symbolsule, die Ded-Sule, welche vielleicht nach
+gyptischer Anschauung das Rckgrat des Osiris versinnbildlichen
+sollte, kann ich als Himmelssttze nur dadurch belegen, dass sie
+erstens in Verbindung mit der Sistrumsule[99] und zweitens als Sttze
+bei Baldachinen, unter denen Osiris sitzt[100] (Abb. 87),
+auftritt.[101] Man knnte andererseits auch die Entstehung derselben
+so erklren, dass die hieroglyphische Bedeutung der ihnen zu Grunde
+liegenden Zeichen [HG: **] s Freude, Jubel[102] [HG: **] d
+Bestndigkeit, ewige Dauer Veranlassung gegeben hat, diese
+Hieroglyphen symbolisch als Sulen zu verwenden.
+
+Wie dem auch sei, jedenfalls haben wir in den Symbolsulen eine den
+Pflanzensulen der Idee nach vllig entgegengesetzte Kategorie von
+Sttzen zu sehen, die aber ebenso wie jene ihren Ursprung der
+Vorstellung der Aegypter verdankt, dass der Innenraum des Tempels eine
+Wiedergabe der Welt sein soll.
+
+Indem wir uns nun zum Schlusse wieder den Pflanzensulen zuwenden,
+wollen wir noch auf ein wichtiges Moment unser Augenmerk richten. Es ist
+oben schon kurz bemerkt worden, dass der Aegypter sich seine
+Pflanzensule als frei zum Himmel emporragend denkt, dass also die Idee
+des Tragens, die man bisher immer in einer Sule verkrpert zu sehen
+erwartete, bei der gyptischen Pflanzensule berhaupt nicht zum
+Ausdruck kommt.
+
+[Illustration: Abbildung 88.
+
+Zeltstangen-Sulen aus Karnak; n. R.; Dynastie 18; Zeit Thutmosis'
+III.; nach L. Tgb.]
+
+Da wir es hier also mit einem eclatanten Falle zu thun haben, bei
+welchem der Satz: Jeder Bautheil zeigt seine Function durch Form und
+Ornamentirung an, durchbrochen wird, so mssen wir wohl unsere Ansicht
+vom Wesen der gyptischen Pflanzensule noch etwas weiter begrnden.
+
+Die ganze Auffassung des Tempels als Welt weist uns ja schon darauf hin,
+dass die zu Sulen verwendeten Pflanzenformen nicht als wirkliche
+Sttzen gedacht sein knnen, denn wer wrde wohl auf die Idee gekommen
+sein, den Himmel von Blumen tragen zu lassen. Es herrscht vielmehr die
+Vorstellung, dass die Himmelsdecke ber den Pflanzen der Erde frei
+schwebe. Constructiv ist das natrlich nicht mglich, der Architekt
+braucht ein Bindeglied, das die Last der Decke auf die Sulen bertrgt.
+Diesen Bautheil, der ihm in seine ideale Conception gar nicht
+hineinpasst, versteckt er aber so viel als mglich: Der Abakus der
+gyptischen Sule ist stets klein, ohne Ornament und in den meisten
+Fllen von unten berhaupt nicht zu sehen, er ist dem gyptischen
+Knstler eben nur ein unvermeidlicher Constructionstheil, den er
+braucht, da er seinen frei schwebend gedachten Himmel ber den
+Pflanzensulen sonst nicht festhalten kann.
+
+Frher wurden gerade immer die damals sogenannten Lotusknospen- und
+Lotusblthensulen -- d. h. unsere geschlossenen und offenen
+Papyrusdoldensulen -- als schne Beispiele dafr angefhrt, wie durch
+die Form des Kapitells das Tragen versinnbildlicht werde; seitdem wir
+aber gesehen haben, dass diese Formen der freien, unbelasteten
+Papyrusdolde nachgebildet sind, kann von einer Versinnbildlichung des
+Tragens natrlich keine Rede mehr sein. Man knnte sich wirklich
+nichts Ungeeigneteres fr die Aufnahme von Lasten denken, als so eine
+leichte Papyrusdolde, die kaum unter ihrem eigenen Gewicht sich
+zusammenzuhalten vermag. Zum Ueberfluss tritt noch das hinzu, dass wir
+denselben Pflanzenformen, welche zu Kapitellen Verwendung fanden, in
+der gyptischen Kunst auf Schritt und Tritt da begegnen, wo sie
+absolut keine tragenden Functionen auszudrcken haben: Als
+Scepterbekrnungen[103], Knpfe[104], freistehende Verzierungen an
+Sthlen[105], ja sogar als Quasten[106] finden wir dieselben Pflanzen
+wieder.
+
+Die Theorie, dass jeder Architekturtheil seine constructive Function
+auch usserlich zeige, ist also wenigstens fr die gyptische
+Architektur -- oder jedenfalls fr die Bildung der gyptischen
+Pflanzensule -- angesichts der aufgefhrten Thatsachen direct zu
+leugnen, wir kommen hier vielmehr, so paradox es klingen mag, zu dem
+Schluss:
+
+DER AEGYPTER DACHTE SICH SEINE PFLANZENSULEN ALS FREIE ENDIGUNGEN UND
+ORNAMENTIRTE SIE WIE SOLCHE.
+
+
+
+
+Anmerkungen:
+
+[1] GOODYEAR, The grammar of the lotus; RIEGL, Stilfragen. Seit
+Niederschrift des oben Stehenden sind noch zwei neuere Arbeiten
+erschienen, die von unserem Gegenstand handeln: PETRIE, Egyptian
+decorative art, und FOUCART, Histoire de l'ordre lotiforme. Auch diese
+beiden Werke haben die vorliegende Abhandlung nicht berflssig gemacht.
+
+[2] Z. B. JOMARD in der Description de l'gypte; LEPSIUS, Ueber
+einige gyptische Kunstformen etc.; PRISSE, in Histoire de l'art
+gyptien; WILKINSON, The Egyptians under the Pharaons, S. 151;
+SEMPER, Der Stil (zweite Auflage), S. 394; EBERS, im Cicerone und
+in Baedecker's Aegypten (erste Auflage); PERROT-CHIPIEZ, Histoire
+de l'art dans l'antiquit I. (Deutsche Ausgabe) S. 488 ff.; MASPERO,
+Aegyptische Kunstgeschichte, S. 50 ff., und andere.
+
+[3] DESCRIPTION DE L'GYPTE, T. 19, p. 415; pl. 60, fig. 1.
+
+[4] GOODYEAR (a. a. O. S. 103) hlt eine stumpfblttrige Rosette fr
+den Fruchtknoten des Lotus; dieselbe Rosette hlt RIEGL (a. a. O.
+S. 53) fr eine Variante einer spitzblttrigen Rosette, wie sie sich
+im Gefolge der typischen Ausgestaltung des centralen Rosettenmotivs
+von selbst eingestellt haben mochte. Die fragliche Rosette ist, wie
+die Abbildung 4 zeigt, eine recht genaue Darstellung von Chrysanthemum
+coronarium.
+
+[Illustration: Abbildung 4.
+
+Fayence-Kachel aus Tell-Amarna;
+
+n. R. Dynastie 18; Zeit Amenophis' IV.; Original in London, University
+College.]
+
+[5] Altes Reich = Zeit der Pyramiden (hauptschlich Dynastie 4 u. 5);
+mittleres Reich = klassische Zeit (hauptschlich Dynastie 12); neues
+Reich = Zeit der Kriege und des Verkehrs mit Asien (hauptschlich
+Dynastie 18-20); Sptzeit = Zeit der Renaissance und Fremdherrschaft
+(Dynastie 26, Perser, Ptolemer, Rmer).
+
+[6] Gutes Beispiel mit Farben s. NEWBERRY, Berscheh I, Titelbild (Kranz
+einer Frau).
+
+[7] Die Datierung dieser Gruppe ist neuerdings fraglich geworden.
+
+[8] Professor SCHWEINFURTH teilte mir mit, er habe _eine_ Darstellung
+mit nicht ganzrandigen Blttern gesehen.
+
+[9] Als Beispiel, was alles fr Lotus gelten musste, mag hier das
+bekannte gyptische Friesornament (Abb. 8) aufgefhrt werden. GOODYEAR
+(S. 181) erklrt dasselbe fr Lotos, und auch RIEGL (S. 96) scheint zu
+dieser Ansicht zu neigen. Das fragliche Ornament, das schon im alten
+Reiche im Grabe des Neterwoser zu Sakkara (MARIETTE Mastabas, S. 119)
+nachzuweisen ist, stellt, wie PIETSCHMANN mir berzeugend nachgewiesen
+hat, eine aufrechte, an der Wand befestigte Franse eines Wandteppichs
+dar, die geknotet und ausserdem noch einmal zusammengefasst ist. Form
+und Farbe des Ornaments (z. B. Berscheh Grab 1., s. NEWBERRY, el
+Bersche II, 5) die Stelle der Anbringung, sowie die gyptische Sitte,
+die Wnde mit Teppichen zu behngen, sind gengende Beweise fr diese
+neue Deutung.
+
+[10] Mehrere Abbildungen davon nach Photographien giebt FOUCART a. a. O.
+
+[11] L(epsius) D(enkmler) II, 61 a. S. auch PERROT-CHIPIEZ, a. a. O.
+S. 489.
+
+[12] LEPSIUS, Tagebuch.
+
+[13] Berliner Museum, Ph. 1787.
+
+[14] PETRIE, Kahun, Taf. 16.
+
+[15] PETRIE, Season, Taf. 25; die a. a. O. von PETRIE aufgefhrte
+lteste Sule hat kein Anrecht auf diesen Namen. Es ist ein
+Kandelaber mit daraufstehender Lampe von der im alten Reich blichen
+Form. Solche sind fter an den tiefen Laibungen der Scheinthren
+dargestellt (s. L. D. II, 20). Eine sptere Sulenform daraus
+abzuleiten, ist nicht wohl mglich.
+
+[16] Der Mittelstrich auf dem Sulenschaft ist im Abklatsch 34 nicht
+mehr zu sehen, Lepsius' Tagebuch giebt ihn jedoch ausdrcklich an;
+vielleicht war er nur aufgemalt, ebenso wie wohl auch die Halsbnder
+und die Lngsstreifen des Kapitells nur durch Farben angegeben waren.
+
+[17] Auch hier giebt die Publication die Wirklichkeit nicht genau
+wieder, wie der Abklatsch lehrt.
+
+[18] L. D. II, 110a.
+
+[19] L. D. II, IIIe, nach dem Abklatsch zu verbessern.
+
+[20] L. D. I, 57.
+
+[21] L. D. III, 99 c.
+
+[22] Berl. Mus. Ph. 664.
+
+[23] Z. B. L. D. II, 24, 30 (beide Dynastie 4).
+
+[24] Vielleicht ist [HG: **] 3 1000 ursprnglich gar kein eigentliches
+Zahlwort gewesen, sondern bedeutete nur: so zahlreich wie die
+Nymphaeenbltter auf dem Wasser, hnlich wie die Zahl [HG: **] fnw
+100 000 eigentlich nur bedeutet: so zahlreich wie die Kaulquappen.
+
+[25] PETRIE, Tell Amarna, Taf. 9.
+
+[26] LYONS Report, on the Island of Philae, Taf. 8.
+
+[27] L. D. III, 62 b.
+
+[28] Berl. Museum, Phot. 664.
+
+[29] II, 92:       ,   
+  ,          
+ ,    .
+
+[30] S. WOENIG, a. a. O. S. 51.
+
+[31] NEWBERRY (in PETRIE's Hawara, S. 52 u. 48) hat N. Nelumbo in
+spten Totenkrnzen gefunden, in lteren kommt sie nicht vor.
+
+[32] S. auch PETRIE, Hawara, Taf. 27. No. 5 u. 6.
+
+[33] Andere Beispiele derselben Zeit in PETRIE's Tanis, I.
+
+[34] Kritik des gyptischen Ornaments, S. 25.
+
+[35] Die Lilie als obergyptische Wappenpflanze hat mit der
+Hieroglyphe fr den Sden [HG: **] (rs) wohl nichts zu thun. Letztere,
+von der unsere Abbildung (Abb. 35) zwei gute Beispiele giebt, ist auch
+noch nicht identificirt. Juncus conglomeratus (Binse), wie WOENIG (a.
+a. O. S. 135) annimmt, kann es wegen der Biegung des Stengels kaum
+sein, obgleich der seitliche Blthenstand dafr sprche.
+
+[Illustration: Abbildung 35.
+
+Die Sdpflanze,
+
+aus dem Grabe des Ptah-hotep; a. R.; Dynastie 5, nach Gipsabgssen im
+Berl. Museum: A) die Hieroglyphe rs. B) dieselbe Pflanze aus einer
+Jagddarstellung.]
+
+Einige Male wird -- worauf mich Prof. PETRIE freundlichst hinwies
+-- unsere Lilie mit dieser Pflanze vertauscht und zwar auf einer
+symbolischen Darstellung der Vereinigung beider Lnder vom Throne einer
+Tanitischen Statue des mittleren Reiches (PETRIE, Tanis, I, Taf. I,
+3). Hier hat der sdliche Nilgott an Stelle der sonst blichen Lilien
+eine [HG: **]-Pflanze auf dem Haupte und bindet auch eine solche um
+das Zeichen der Vereinigung. Ebenso kommt auf einer Chefrenstatuen zu
+Gizeh und auf einem Gehnge aus Fayence (Sptzeit? Berl. Mus. No. 7709)
+das Sden-Zeichen -- an letzterer Stelle sogar ohne Blthen -- als
+Ersatz fr die Lilie vor. Beide Male ist jedoch nur eine Pflanze fr
+die andere eingetreten, da die eine symbolisch, die andere lautlich den
+Sden bezeichnet; eine Identitt kann daraus nicht geschlossen werden.
+
+[36] PETRIE, Tanis, I, Taf. 1, 3 sind es sogar nur drei Wasserlinien.
+
+[37] Man vergl. die hnlich missverstandene Ptolemische Darstellung
+aus Ombos in DE MORGAN's Catalogue, II, S. 129 u. 133.
+
+[38] Nach PETRIE'scher Photographie K. 36.
+
+[39] PRISSE, L'art g. Colonnes Isiaques No. 6.
+
+[40] Prof. PETRIE, der das Fragment bei seinen Ausgrabungen fand,
+teilt mir darber freundlichst mit: The Koptos fragments were found
+beneath the pavement formed of Antef sculptures and almost certainly
+before the 12. Dynastie. Es thut mir leid, diese liebenswrdige
+Auskunft mit einem Widerspruch gegen die Datirung lohnen zu mssen. Da
+nmlich die Antef-Reliefs, wie neuere Forschungen ergeben haben (s.
+STEINDORFF in der Zeitschrift f. g. Spr., 1896, S. 77 ff.) in das
+Ende des mittleren Reiches bezw. in den Anfang des neuen zu setzen
+sind, so ist das aus alten Antef-Sculpturen hergestellte Pflaster also
+noch spteren, vielleicht gar sehr spten Datums. Aus dem Fundort
+ist also nicht zu schliessen, dass die fraglichen Stcke lter als
+Dynastie 12 sind. Aus der Tracht des bei dem Thronfragment gefundenen,
+vermuthlich dazugehrigen Kopfes kann man ferner zur Annahme einer
+spten Entstehungszeit kommen; denn die horizontalen, um den Kopf
+herumgehenden Streifen am Tuch oder Haar sind sonst von keiner Knigs-
+oder Gtterstatue aus guter alter Zeit bekannt.
+
+[41] L. D. I., 80; PRISSE, L'art. g. mit Farbenangabe.
+
+[42] S. PERROT-CHIPIEZ, a. a. O. (Deutsche Ausg.), S. 522 ff.; WOENIG,
+a. a. O., S. 75 ff. u. s. w.
+
+[43] Besonders finden sich diese naturalistischen Ausnahmen in der Zeit
+der 18. Dynastie unter Amenophis III und seinen Nachfolgern. (S. auch
+Abbildung 45.)
+
+[44] Z. B. L. D. II, 96 a (a. R.)
+
+[45] L. D. II, 12 und DMICHEN, Resultate einer archol. Exped. Taf. 8.
+
+[46] L. D. II, 12, 43 a, 60, 77, 106 u. s. w.
+
+[47] Man beachte den kantigen Stengelquerschnitt; s. auch L. D. II,
+10a, 11, 16, 17a, 33b, 41a u. s. w.
+
+[48] L. D. II, 6, 10a, 11, 14 u. s. w. Die zweite Papyrusform zeigen L.
+D. II, 3, 19, 20, 24 u. s. w.; falsch L. D. II, 22c.
+
+[49] L. D. II, 4, 5 u. s. w. Die zweite Form: L. D. II, 8, 9, 11, 15b,
+21 u. s. w.
+
+[50] L. D. III, 113c und fter.
+
+[51] DE MORGAN, Dahchour, Fig. 140 u. 143; Berl. Mus., No. 2774 u. s. w.
+
+[52] L. D. II, 43a. Die Kniginnengeisseln scheinen stets
+Lilienornamente zu zeigen.
+
+[53] PETRIE, Illahun, VI, 3, 5; ferner die Sulen in der unfertigen
+Basilika zu Luksor und einige Sulenstmpfe im mittleren Theile von
+Karnak.
+
+[54] DE MORGAN, Cat. I, S. 188.
+
+[55] L. D. III, 55a u. b.
+
+[56] L. D. III, 76d, 77c.
+
+[57] L. D. III, 76b.
+
+[58] S. PRISSE Hist. de l'art. g. Chapiteaux de la colonnade du Dromos
+de Philae; L. D. I, 108 No. VI.
+
+[59] Dr. SCHFER macht mich darauf aufmerksam, dass diese Sule
+vermuthlich aus einem unten zugehauenen, profilirten Holzschaft auf
+Steinbasis besteht.
+
+[60] L. D. I, 47; auch PETRIE'sche Photographien (im Berl. Mus.
+Ph. 1759), ein Stck der Sule im Berl. Mus. No. 1167; ausfhrl.
+Verzeichniss S. 76.
+
+[61] Aus Daschur, m. R., Dynastie 12-13 (?), DE MORGAN und LEPSIUS'
+Tagebuch; zwei Bruchstcke aus Kahun, m. R., (Dynastie 12), PETRIE,
+Illahun, Taf. VI, 4 und 11.
+
+[62] Z. B. im mittleren Reiche schon, an den Miniatursulen des
+Mentu-nacht aus Abydos (Dyn. 13). Berl. Mus. 1629 u. 1630, ausfhrl.
+Verzeichniss S. 65.
+
+[63] Nach einer Photographie aus einem Grabe zu Tell el Amarna. Berl.
+Museum Ph. 1818.
+
+[64] L. D. III, 106c; vgl. Petrie, Tell el Amarna, Taf. IX.
+
+[65] L. D. III, 106c.
+
+[66] Petrie, Tell el Amarna, Taf. IX.
+
+[67] L. D. III, 94 und 102 aus Tell el Amarna. (Zeit Amenophis' IV.)
+
+[68] Stark profilierte Sulen mit Inschriftquadraten kommen trotzdem
+vor, z. B. in der Thutmosiskapelle zu Luksor und in den inneren Rumen
+desselben Tempels (18. Dynastie).
+
+[69] S. z. B. in Gebel Silsile, aus der Zeit Ramses' II. (nach Berl.
+Museum, Ph. 140); aus Sakkara (Grab 27) L. D. I, 42 und fter, sogar
+aus der Sptzeit: in Medamt.
+
+[70] L. D. I, 86.
+
+[71] PETRIE, Illahun VI, 2 u. 5.
+
+[72] A. a. O. VI, 4.
+
+[73] In der unfertigen Basilika zu Luksor, Ende der 18. Dynastie
+(vgl. Zeitschr. f. gypt. Sprache, 1896, S. 134, Anm. 1) und in den
+westlichen Theilen von Karnak (18. Dynastie?).
+
+[74] L. D. III, 93.
+
+[75] L. D. III, 93, 97b, 99a und fter.
+
+[76] L. D. III, 98b und 106a.
+
+[77] S. Berl. Museum Ph. 119.
+
+[78] S. Berl. Museum Ph. 84.
+
+[79] S. Berl. Museum Ph. 142 u. 143.
+
+[80] Nur in L. D. III, 93. (Zeit Amenophis' III. und seiner Nachfolger,
+s. oben.)
+
+[81] In einem lteren, spter erweiterten Grabe zu Elkab findet sich
+ein Pfeiler mit einem sehr rohen Kapitell, das man vielleicht fr ein
+Palmenkapitell ansehen muss.
+
+[82] PETRIE, Illahun, VI, 7 u. 8.
+
+[83] L. D. II, 127.
+
+[84] L. D. III, 97b.
+
+[85] L. D. III, 103 u. 106a.
+
+[86] L. D. III, 109.
+
+[87] Auch im Berl. Museum No. 11996, 12003 u. s. w.
+
+[88] L. D. I, 119.
+
+[89] In Edfu, nach Berl. Museum Ph. 137 u. 139.
+
+[90] Dass Arundo-Arten, wie sie bei diesen Sulen wohl gemeint sind, im
+alten Aegypten vorkamen, zeigen Abbildungen, wie die in PETRIE's Tell
+el Amarna IV, 6. Beschreibung von Arundo in der Description, Theil 19,
+Seite 74.
+
+[91] PETRIE, Tell el Amarna, Taf. VII und S. 9. Betreffs der Decoration
+mit Gnsen s. oben S. 34.
+
+[92] Die bei PETRIE, Tell el Amarna, Taf. 8, abgebildeten Fragmente,
+auf denen auch Ranken einer Windenart abgebildet zu sein scheinen,
+gehren nicht in den Rahmen unserer Abhandlung. Diese Winden umranken
+nur als freies Flchenornament die Sule, diese selbst aber ist
+vielleicht berhaupt keine Pflanzensule, wenigstens lsst sich aus den
+erhaltenen Stcken dies nicht beweisen.
+
+[93] Diese Anspielung ist brigens einmal wirklich beabsichtigt: bei
+den Thutmosis-Pfeilern zu Karnak, die auf den Nordseiten Papyrus, auf
+den Sdseiten Lilien haben.
+
+[94] PETRIE, Tell el Amarna, Taf. 3-5 u. 37; S. 2 u. 3.
+
+[95] A. a. O., Taf. VII.
+
+[96] L. D. III, 96b, 99a, 103, 106a u. 109.
+
+[97] Aehnliches kommt fters bei Abbildungen von Baldachinen u. s. w.
+vor.
+
+[98] In einem Hathortempel zu El-Kab, 18. Dynastie (nach Berl. Museum
+Ph. 564, 1488); zu Dr-el-bahri, 18. Dynastie (Ph. 1794); zu Abu
+Simbel, 19. Dynastie (L. D. III, 192c.); zu Sarbut el Chadem, 19.
+Dynastie (MASPERO, Histoire, S. 475); zu Karnak Tempel S. 21. Dynastie;
+zu Dendera, Sp. Zt. (L. D. I. 66);
+
+in einem Mut-Tempel zu Karnak; n. R. (L. D. III, 245a);
+
+in einem Bast-Tempel zu Bubastis; n. R. (NAVILLE, Bubastis, Taf. 33a u.
+b; Taf. 34b vielleicht etwas lter);
+
+in einem Pacht-Tempel in Speos Artemidos, Zeit (?) (L. Tgb.);
+
+in einem Mehyt-Tempel zu Abydos, Zeit (?) (Mar. Ab.);
+
+in einem Isis-Tempel zu Philae; Sp. Zt. (L. D. III, 285a); in einem
+Isis-Wosret-Tempel zu Philae; Sp. Zt. (LYONS, Report Taf. 31) u. so
+fort.
+
+[99] Z. B. Perrot-Chipiez, S. 510, Abb. 343 (Dynastie 18).
+
+[100] Z. B. auf Srgen der 20. Dynastie; Berl. Museum, 11979, 11981,
+11984, 11985.
+
+[101] Mit einer dritten Art der wirklich als sttzend gedachten Sulen,
+der Zeltstangen-Sule (Abb. 88), hat es eine etwas andere Bewandtniss.
+Diese Sule, die brigens nur an einer Stelle in verhltnissmssig
+spter Zeit (L. D. I, 81; Dynastie 18) vorkommt und sonst nur aus
+Abbildungen (a. R.; L. D. II, 107 u. 111a; n. R.; L. D. III, 17a, 36a,
+49a u. b, 50b) bekannt ist, scheint mir direct eine Nachbildung der
+eine Zeltstange darstellenden Hieroglyphe [HG: **][HG: **] gross,
+zu sein. PETRIE erklrt brigens in Egyptian decorative art, S. 76,
+diese Sulenart ebenso. Bereits CHAMPOLLION (Champ. Not. II, 160)
+hat darauf hingewiesen, dass der Saal, in welchem jene merkwrdigen
+Sulen stehen, wohl mit einem Feste in Zusammenhang zu bringen ist,
+das in der Hieroglyphenschrift mit einer Halle [HG: **] determinirt
+wird, in welcher dieselbe vllig dem Zeichen [HG: **] gleichende Sule
+erscheint. Dieses [HG: **]-Zeichen, das ursprnglich eine Zeltstange
+darstellen sollte, wird in lteren Darstellungen (L. D. II, 18 nach dem
+Original im Berl. Mus. No. 1107 vergleichen) des [HG: **] durch eine
+einfache Gabelstange ersetzt: [HG: **] Diese Gabelstange ist nun aber
+gleichzeitig das allgemein bekannte Zeichen der Himmelssttze, wie aus
+Inschriften hervorgeht, die von der Macht irgend eines Knigs reden,
+und in denen es oft genug heisst, dieselbe reiche bis zu den [HG: **]
+vier Sttzen des Himmels. Es scheint also auch hier immerhin nicht
+ausgeschlossen, dass ebenso wie in dem Zeichen [HG: **] das [HG: **]
+an Stelle der eigentlichen Sttze [HG: **] getreten ist, so auch in
+dem bewussten Saale zu Karnak die dem [HG: **] nachgebildete Sule als
+Sttze der als Himmel gedachten Decke eingetreten ist.
+
+[102] Man vergleiche hierzu die Stellen der Pyramidentexte (P. 358 ff.
+und 698/9), auf die mich Dr. SETHE freundlichst hinwies: Sein (Pepy's)
+rechter Arm sttzt den Himmel mit Glck (? geschrieben mit einem
+Scepter) und sein linker Arm die Erde mit Freude.
+
+[103] z. B. L. D. II, 4, 8, 11 und oft, besonders an den Sceptern der
+Gttinnen.
+
+[104] z. B. an Ksten s. _de Morgan_, Dahchour, Fig. 258 und oft.
+
+[105] z. B. L. D. II, 3, 10 und oft.
+
+[106] z. B. L. D. III, 129 und oft in den Darstellungen Gefangener,
+auch an Schleifen z. B. _de Morgan_, Dahchour, Taf. 38, Fig. C.
+
+
+                  Druck von F. A. Brockhaus in Leipzig.
+
+
+
+
+  +------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Funoten wurden neu nummeriert und an das Buchende verschoben,   |
+  | durch eine Zeile "Anmerkungen:" abgegrenzt. Die Abbildungen in   |
+  | den Funoten haben hingegen ihre Nummerierung behalten, so dass  |
+  | sie nicht in Reihenfolge ihrer Nummerierung in Text auftreten.   |
+  |                                                                  |
+  | Satzzeichen und Klammern wurden ohne gesonderte Erwhnung        |
+  | korrigiert.                                                      |
+  |                                                                  |
+  | Folgende Inkonsistenzen wurden beibehalten, da beide             |
+  | Schreibweisen blich waren:                                      |
+  |                                                                  |
+  | Lotus -- Lotos                                                   |
+  | notwendig -- nothwendig                                          |
+  | Nymphaeen -- Nymphen                                            |
+  | Papyrus-Dolden-Kapitell -- Papyrusdoldenkapitell                 |
+  | Ptah-hotep -- Ptahhotep                                          |
+  | reconstruirt -- rekonstruirten                                   |
+  | structiv -- struktiv                                             |
+  |                                                                  |
+  | Folgende nderungen wurden im Text vorgenommen:                  |
+  |                                                                  |
+  | S. 5  "Jllahun" in "Illahun" gendert.                           |
+  | S. 5  "Bthenkapitellen" in "Blthenkapitellen" gendert.        |
+  | S. 6  "mittlern Reiche" in "mittlere Reich" gendert.            |
+  | S. 11 "Nymphaensulen" in "Nymphaeensulen" gendert.            |
+  | S. 13 "gytischen" in "gyptischen" gendert.                    |
+  | S. 20 "untergyptischene" in "untergyptischen" gendert.        |
+  | S. 22 "vermutlich" in "vermuthlich" gendert (Funote).          |
+  | S. 39 Nicht darstellbaren Akzent in "Twet-anch-amun" entfernt    |
+  |       (Beschriftung von Abbildung 65).                           |
+  | S. 41 Nicht darstellbaren Akzent in "Twet-anch-amun" entfernt.   |
+  | S. 44 "architektionisch" in "architektonisch" gendert.          |
+  | S. 45 "auf" eingefgt ("auf ... aufmerksam gemacht").            |
+  | S. 46 "nachweissbar" in "nachweisbar" gendert.                  |
+  | S. 47 Funotenanker 1) und 2) mit Funoten 2) und 3)             |
+  |       entsprechend ihrer Reihenfolge zugeordnet.                 |
+  | S. 52 "verticalen" in "vertikalen" gendert.                     |
+  | S. 55 "Pflanzelbndel" in "Pflanzenbndel" gendert.             |
+  +------------------------------------------------------------------+
+
+
+
+
+
+End of Project Gutenberg's Die gyptische Pflanzensule, by Ludwig Borchardt
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DIE GYPTISCHE PFLANZENSULE ***
+
+***** This file should be named 46014-0.txt or 46014-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/0/1/46014/
+
+Produced by Peter Becker and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

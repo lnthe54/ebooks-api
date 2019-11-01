@@ -1,0 +1,3657 @@
+The Project Gutenberg eBook, Agamemnon, by - Aeschylus, Translated by
+Kaarlo Forsman
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Agamemnon
+       Murhenytelm
+
+
+Author: Aeschylus
+
+
+
+Release Date: September 24, 2016  [eBook #53137]
+
+Language: Finnish
+
+
+***START OF THE PROJECT GUTENBERG EBOOK AGAMEMNON***
+
+
+E-text prepared by Tapio Riikonen
+
+
+
+AGAMEMNON
+
+Murhenytelm
+
+Kirj.
+
+AISCHYLOS
+
+Alkuteoksen runomitoilla suomentanut,
+johdannolla ja selityksill varustanut
+
+Kaarlo Forsman
+
+
+
+
+
+
+Porvoossa,
+Werner Sderstrm
+1897.
+
+
+
+
+JOHDANTO.
+
+
+Aischylos, kreikkalaisen draaman ensimminen suuri mestari, jtt
+viel vljn tilan epiikan ja lyriikan aineksille nytelmissn.
+Onpa hnen uskonnollinen katsantotapanakin viel yleens eepillisen
+runouden. -- Kun Iliadissa Achilles, krsittyn Agamennonilta
+solvauksen, vihoissaan jtt kansalaisensa mahtavaa apuansa
+vaille, opettavat mieshukka ja ahdinko jlkimist ett hn on
+pahoin tehnyt. Mutta ei Achilleen ylpeys myskn saa jd
+kurittamatta ja voitolle. Patroklon kuolema pakottaa hnt luopumaan
+itsekkisyydestn ja ryhtymn taisteloon, jouduttamaan kohtalon
+stm hvit Troialle ja -- omaakin kuoloansa. Nin ihmisten
+teot, silloinkin kun he luulevat vapaasti toimivansa, heidn
+intohimonsa ja rikoksensa ovat kohtalon ja jumalien ksiss
+vlikappaleina heidn tarkoituksiaan varten. Rikostenkin uhalla
+psee jumalallinen oikeus lopullisesti voitolle, kun rikos tulee
+hdetyksi ja ihmisten tytyy krsimysten kautta mielt opittuaan
+tunnustaa jumalien viisaus ja valta.
+
+Tm Homeron kanta on yleens Aischylonkin. Sit nhdksemme
+tarkastelkaamme vaan "Agamemnon" nytelm, jonka kantataru on
+otettu Troian sodan satupiirist, edellytten muitakin vanhempia
+satuja.
+
+Edessmme on Pelopiidein onneton ruhtinassuku, jossa rikos ja
+verinen vaino ky perintn polvesta toiseen aina kantaisst
+Tantalosta asti. Hnhn se, alkuaan oltuaan jumalien lemmikki,
+kiusatakseen heidn kaikkitietvyyttns, teurasti heille oman
+poikansa sytvksi ja siit systiin manalaan ikituskia krsimn.
+Poika Pelops virkosi henkiin ylhisien armosta ja eli onnellisena,
+kunnes hn jo vanhana samensi onnensa aviorikoksella. Mutta hnen
+poikansapa, Atrevs ja Thyestes, tulivatkin vasta tihoistaan kurjan
+kuuluiksi. Ensin he sovussa tappoivat prveljens, sitten syttyi
+heidn vlilln vimmattu kiista Mykenen vallasta. Atrevs ajoi
+veljens maanpakoon. Mutta Thyestes kosti siten, ett rysti A:n
+pojan Pleistheneen, jonka kasvatti iknkuin omaksi pojakseen
+ja lhetti hnet sittemmin tappamaan Atrevsin. Salamurhaaja
+saatiin kiinni, ennenkuin ehti aikeensa toteuttaa, ja sovitti sen
+kuolemallaan. Kun Atrevs sai tiet oman poikansa tappaneensa ja
+kun Thyestes sen lisksi oli hnelt vietellyt vaimon uskottomaksi,
+laati hn kamalan koston. Teeskellen sovinnollisuutta pyysi hn
+velje vieraakseen, jotta sovittaisiin pois vanhat vihat. Toinen
+tuli perheineen. Mutta Atrevs teurasti salaa veljens pojat ja
+pani ne vieraalleen sytvksi. Aurinko knsi kasvonsa mointa
+kauheutta nkemst. Mutta Thyestes huusi kirousta paetessaan.
+Saatuaan Aigisthos poikansa avulla Atrevsin murhatuksi[1] psi hn
+viel Mykenen kuninkaaksi. Atrevsin pojat -- tai toisinnan mukaan,
+joka tekee Pleistheneen heidn iskseen, pojanpojat -- Agamemnon
+ja Menelaos pakenivat julmaa setns Spartaan Tyndareos kuninkaan
+turviin, jonka tyttret he naivat, toinen Klytaimnestran, toinen
+Helenan. Appensa avulla valloitti Agamemnon takasin valtakuntansa,
+tappoi Thyesteen[2] ja karkoitti Aigisthon, mutta Menelaos ji
+Spartaan appensa vallan perijksi. Kun troialainen ruhtinas Paris
+rysti Helenan, ryhdyttiin kostosotaan, jossa Agamemnon tuli
+pllikksi. Hn psi juuri paraiksi sielt kotio, kun Aigisthos
+Klytaimnestran kanssa yksiss juonin pani hnt kohtaan toimeen
+kostotuuman, jota kauan oli hautonut. Sill vlin Agamemnonin poika
+Orestes eleli turvassa itins vainolta Fokiissa; tlt palasi
+hn aika miehen ystvns Pyladeen kanssa ja kosti isns kuolon
+Aigisthon verell. Mutta kun hn samassa surmasi itinskin, joutui
+hn Erinnyjen (kostotarten) vihaan. Harhailtuaan kauvan rauhatonna,
+sovitti hn vihdoin rikoksensa tuomalla Artemiin kuvan Tauriasta
+Attikaan, jolloin Athenan areopagi-tuomiosto julistaa hnet syyst
+vapaaksi, Erinnyt leppyvt ja niist tulee suopeat "Eumenidit". Nin
+seurasi rikos rikosta, jumalien sit salliessa, koska siten vanha
+rikos sai rankaisunsa uudessa toteutuvan koston kautta. Rikosten
+sarjan lopetti vasta heidn armonsa, joka karkoitti vainon hengen ja
+puhdisti suvun kirouksesta.
+
+Tmminen taru tarjosi erittin otollisen aineen runoilijallemme,
+joka halusta ksitteli vaikeita siveellisi pulmia ja ristiriitoja,
+ihmisten intohimojen ottelua keskenn ja yrmyily korkeampia
+valtoja vastaan, jumalallisen jrjestyksen toteutumista
+ihmiselmn sekasorrossa, jumalallisen viisauden voittoa ihmisen
+lyhytnkisyydest. Hn loi noista taru-aineista kolme, n.s.
+"Oresteian" trilogiaksi liittyv tragediaa: "Agamemnon",
+"Choeforoi" ja "Eumenides". Luokaamme viel silmys ensimmisen
+johtaviin aatteihin.
+
+Suvun peritty kirous painoi viel Agamemnonia, vanhastaan
+sovittamaton veri vaati viel kostoa. Mutta lisksi tuli omaakin
+syyllisyytt. Kun Artemis vihoissaan itselleen pyhitetyn riistan
+taposta pidtti Achaialaisten laivastoa Auliin satamassa Troiaan
+lhtemst, oli Ag. samalla lepyttkseen hnt ja pelastaakseen
+pllikkkunniansa -- joka olisi mennyt pilalle, jos olisi
+tyhjin toimin kesken palattu -- uhrannut tyttrens Ifigeneian
+jumalattarelle. Nin saivat isntunteet visty ja vallan otti
+kunnianhimo, "miel' irstas, pyh polkeva" (_Agamemnon_. 230). Isn ktt
+tahraava veri vaati kostoa. Kun edelleen sodan kestess niin
+moni Hellaan poika oli lytnyt hautansa vieraassa maassa, ja
+kansassa sentakia kuohui tyytymttmyyden nurinaa, karttui siit
+lis edesvastuuta ruhtinaille, jotka niin mitttmn syyn takia
+-- "yhden naisen thden vaan" -- olivat saattaneet kansansa sodan
+kurjuutta krsimn. Muuten tss -- sivumennen sanoen -- pilkist
+nkyviin runoilijamme tasavaltainen tendenssi. Ankarasti moititaan
+draamassamme ruhtinaita, kun he mittnten yksityisriitojensa
+vuoksi antavat kansojen krsi niiden surkeita seurauksia. Kansat
+saavat sovittaa ruhtinastensa erehdyksi. Niinp Paris ilkitylln
+syksi koko isnmaansa perikatoon. Vakavasti varotellaan senthden
+kuninkaita miettimn korkean asemansa edesvastuuta ja vaaroja: Valta
+viepi helposti ylpeyteen, josta siki vkivallat, rikokset, turmio.
+"Zeyn salamat iskevt vuorten huippuja".
+
+Mutta pasiana on kuitenkin osottaa, miten tmmisiss
+yleisiss onnettomuuksissa taivaan tuomiot toteutuvat. Jumalien
+vaa'alla ihmisten synnit painavat paljon. Joka rikkoo heidn
+iki-jrjestyksens, polkee Diken (Oikeuden) pyhyyden, sen siit
+tytyy iskut krsi, jotka kohtaavat hnt, jopa sukuansa ja
+kansaansakin, jos rikos on suuri ja rikkojan asema korkea. Eik
+siin lahjoilla voida lepytt jumalain vanhurskautta. "Miest
+murhan tahrimaa vaanii silm jumalain". Ilkityst syntyy uusi
+ilkity yh edelleen. Zevs sallii ihmisten tten aikansa kostaa
+toistensa rikoksia, hn suo heille sen verran tahdon vapautta, ett
+he noudattaen pahaa sisunsa nt samalla tyttvt hnen oikeutensa
+tuomioita. Vasta kun kaikki rikokset on sovitettu, pahantekijt
+hvitetty, loistaa hnen laupeutensa taas hurskaille. Kaikkien
+tytyy tunnustaa, ett Zevsin vanhurskaus ja viisaus vallitsee
+ylinn eik sied ihmisilt ryhkeytt ja rikosta. Nin jumalan
+voitto on hyvn voitto. Korkein viisaus on siis tyyty hnen
+johtoonsa ja kiitt hnt kohtalon myrskyjenkin temmeltiss.
+Tm viisaus on kallis ja usein vasta kovien krsimysten hinnalla
+ostettavissa. Kun kohtalo slimtt murskaa elon onnen, lohduttakoon
+edes se ajatus, ett voitolle psee jumalallinen pyhyys ja viisaus,
+ja ihmisen ylpeys, pahuus ja lyhytmielisyys kukistuvat, joiden ei
+sovi elmn oloja ohjata. Jumalill' on onnen ohjat. Ihminen erehtyy
+niin helposti; silloinkin kun luulee hyvin tekevns, eksyy hn
+rikoksiin. Senthden vaatii yksin jumalan rakkauskin ja huolenpito
+ihmisist rikosta htmn. Kun ihminen hiritsee siveellist
+mailmanjrjestyst, yltymll rajutihin, niin jumalat, tmn
+jrjestyksen valvojina, kurittavat hnt tarpeen mukaan kovastikin.
+Ylltinen menestys ei ole ihmiselle terveellinen, se kun helposti
+paisuttaa ja eksytt harhatekoihin. Siit tuo kuuluisa "jumalien
+kateus", jota niin yleisesti uskottiin ja karteltiin. Omituisesti kyll
+Aischylos omalta korkeammalta siveelliselt kannaltaan ei kuitenkaan
+hyvksy tmmist, jumalia halventavaa uskoa (Ag. 757): viatonten,
+hurskasten menestys ei hert hyvin armoluojain kateutta, vaan he
+suosivat hurskaita kaikissa oloissa.
+
+Nit aatteita draamamme esittelee juhlallisella vakavuudella,
+jossa vliin tuulahtaa iknkuin ylemmn inspiratsionin henki.
+Niit mietteit uhkuvat pitkt ja monet kuorolaulut, jotka senthden
+anastavat lyyrilliselle puolelle niin laajan alan, samoin kuin
+taas toisin paikoin pitkt, vaikka vilkkaat ja kauniit edellisten
+tapausten kertoilut edustavat eepillist ainesta lavealtikin.
+
+Agamemnonin traagillinen kohtalo etupss antaa aiheen nihin
+uskonnollis-siveellisiin mietiskelyihin. Ja tosiaan se on omansa
+mielt viehttmn elvn myttuntoon. sken saadun suuren
+voiton loisteessa palajaa kuningas kotia kansansa ylistettyn
+sankarina: kaikki kajahtaa juhlariemua ja uhrisuitsut kieriskelevt
+taivahalle. Silloin kohtalon pilvi kki synkist taivaan ja
+salama musertaa kerrassaan kaiken. Eip se sentn tapahdu aivan
+entehitt. Alakuloinen aavistus vrhyttelee kansan (sen edustajan
+kuoron y.m.) sydmi eik anna ilon ilolle tuntua. Tiedetn, ettei
+valtiaan kodissa asiat ole oikealla kannalla ja sovittamatonta verta
+on Pelopiidein huonetta tahraamassa. Kun siis rakastettu ruhtinas
+suistuu surmaan, srkee se kyll kipesti sydmi, mutta siin
+tytyy kuitenkin koettaa ymmrt jumalien jos ankaraakin johtoa ja
+viisautta, samalla kun heidn oikeudestaan on odotettava ett kosto
+viel saavuttaa pahan tehneetkin. Nmt psvyt soivat varsinkin
+kuorolauluista murhan jlkeen.
+
+Toinen henkil, jonka traagillinen kohtalo Agamemnonin jlkeen
+vaatii myttuntoamme, on Kasandra, tuo ennustustaitoinen troialainen
+prinsessa, jonka voittaja on tuonut kerallaan kotia. Hnkin kohtalon
+uhrina nuorena tylysti temmataan elvien keskelt, syyst ett hn
+on perikatoon tuomitun kansan lapsi, ett hn ei antaunut Apollonin
+lemmelle ja ett hnen kohtalonsa liittyy uuden isntns kohtaloon.
+Hnen tytyy sortua senthden, ett nyt oli pahojen aika pst
+voitolle, kunnes nidenkin rikokset kypsyivt tuomarin miekalle.
+Kasandran esiintymist perustaa kohtalon, "moiran" halu saada hnen
+suunsa kautta valmistaa mieli tulevia kauhuja kohtaamaan sek
+julistaa lopullista rauhaa myrskyjen jlkeen. Juhlallisen ylevi
+ja sydnt sattuvia sanoja Kasandra siin lausuu kuoron kanssa
+vaihetellen laulaessaan.
+
+Hnen vastakohtansa on Klytaimnestra, kavala, katala teeskentelij,
+joka maireilla sanoilla ja viehttvll ulko-olennolla lumoo
+miehenskin silmt nkemst kyyn myrkky kielens alla ja tiikerin
+sydnt uhkeassa rinnassaan. Ainoastaan hiklt pilkist
+liioittelevien hyvilysanojen ja ylistelyjen takaa nkyviin valhe,
+jonka tyystin harkittu hijyys on sit pirullisempi, kun hnen
+sanoissaan ehtimn takaa piilee kavala kahdamielisyys, puustavillisen
+mielen takana toinen pinvastainen. Hn on lausuvinaan iloa miehens
+tulosta ja hell rakkautta hnt kohtaan; mutta toisessa mieless
+sanoja kuullen havaitsee niiss kiukun myrkky ja katalaa kostoniloa.
+Uskottomuuteen omaa miestns kohtaan yhtyy mustasukkaisuus Kasandraa
+vastaan (jonka luuli nauttivan Agamemnonin lempe) kiihdytten hnen
+vihaansa viel tulisemmaksi -- omituisen ristiriitainen ja kuitenkin
+aivan todellisuuden mukainen luonteenpiirre, joka todistaa sekin ett
+Aischylos oli syvlle thystnyt ihmissydmen salasoppiin. Nin on
+siis tss mestarin kdell piirretty demoonillisen naisen perikuva,
+joku muinaisaikainen Lady Macbeth.
+
+Klytaimnestra ja Aigisthos ovat tosin ne aseet, joilla kohtalo
+korjaa kostonsa uhriksi Agamemnonin, ja he tajuavat sen itsekin,
+liiankin selvsti. Mutta ei heidn oma syyllisyytens silt lainkaan
+vhene. Klytaimnestra on omasta puolestaan miehelleen uskoton vaimo
+ja Aigisthos himoitsee kuninkaan purppuraa. Kummankin itseksten
+pyyteitten tiell on Agamemnon ja senthden on hn uhrattava. Tst
+heidn tyns saa varsinaisen rikoksen leiman. Turhaan yrittivt
+he, semminkin kuningatar, sofistiikalla syyt syyllisyyttns
+"kostonhengen" niskoille, jonka asiaa he ovat ajavinaan; turhaan
+hn latelee kauniita sanoja jumalien kostavasta vanhurskaudesta
+ja idinrakkauden kskyst kostaa Ifigeneian kuoloa. Hnt ei
+usko kukaan. Niin Aigisthoskin, Klytaimnestran kanssa vedellen
+samaa virtt ja hnen osaansa tydennellen, koettaa samanlaisilla
+perusteilla konnuuttansa kaunistella. Yht vhn onnistuu hnenkn
+uskotella ketn, ett hn on viaton. Kansa lausuu julkisesti inhonsa
+hnelle ja hnen teollensa eik lupaa totella konnan valtakskyj.
+Ja nin loppuu nytelmmme srkevn epsointuun. Vasta monien
+taistelujen, vaurioiden ja vaivojen perst valkenee sovinnon piv
+ja jumalien armo ja viisaus vallitsee maan pll. Ne aiheet ovat
+trilogian molemmat muut draamat ottaneet ksiteltvkseen.
+
+Nit aatteellisia aiheita syvsti ksittmll ja taitavasti
+runopukuun luomalla on Aischylos sepinnyt suurisuuntaisen
+nerontuotteen, joka uhkuu syvi ja korkeita, useinpa suloisiakin
+tunteita ja ajatelmia kielimuodossa, joka ei aina tunnu riittvn
+rikasta sisltn, noita pontevia, korkealle lentvi ajatuksia
+ilmi lausumaan. Hn on siten valaiseva ylevn runoustyylin esimerkki.
+Kieli vilisee rohkeita uusia sanasepityksi ja lauseknteit, on
+kuvikasta ja metaforain valinnassa uskaliasta, jonka lisksi tulee
+karkea vanhanaikainen pontevuus ja suorasukaisuus, joka vliin
+vivahtaa trivialisuuteen. Tuommoista esityst ei ole helppo muilla
+kielill mukailla. Melkein mahdottomia ovat kntjlle nuo monet
+omituiset sanayhdistelmt ja liittoperiset sanat, joiden jljittely
+usein tuntuu teeskentelyn tapaiselta. Monasti saa senthden tyyty
+lausumaan ajatuksen vaan ylimalkaan, luopuen sen omituisesta
+esitysmuodosta, joten taas knns vahingokseen melkoisesti menett
+alkuperist mehuansa.
+
+Oresteia esitettiin Athenassa ja sai ensi palkinnon Dionyson juhlassa
+v. 458 e.Kr.
+
+       *       *       *       *       *
+
+Suomennos perustuu etupss Schneidevin'in tekstiin. Hnelt on
+mys selityksi lainaeltu.. Muuten on suomentajalla ollut paras
+apu vaikeiden paikkain ymmrtmisess B. Risberg'in oivallisesta
+ruotsinnoksesta. Niinp on myskin noudatettu hnen sejakojansa.
+Helpottaakseni lyyrillisten osain lukemista olen sivujen alle
+kohdilleen lisnnyt runomittakaavat.
+
+_Suomentaja_.
+
+
+
+
+
+
+AGAMEMNON
+
+Aischylon tekem nytelm
+
+
+Kreikkalaisen alkuteoksen runomitoilla
+suomennettu ja lyhyesti selitelty.
+
+
+
+HENKILT:
+
+ Agamemnon, Argoon kuningas.
+ Klytaimnestra, hnen puolisonsa.
+ Aigisthos.
+ Kasandra, Priamon tytr.
+ Vartia.
+ Airut.
+ Kuoro, jona on kakstoista Argoon vanhusta.
+
+Nyttmn on kuninkaanlinnan edusta Argoossa. Perll nkyy linna
+sisnkytvineen. Edemp sivuilta pin nkyy hiukan kaupunkia ja
+taempaa merta. Koristeina jumalainkuvia.
+
+Tapaus vhn aikaa Troian valloituksen jlkeen.
+
+
+
+
+    Yll. Linnan katolla istuu vartia etlle thystellen.
+
+VARTIA.
+
+    Jumalilta pyydn ps nist vaivoistain,
+    vuoskautten vartiatyst, jossa, kyyryllin
+    kuin koira ylhll' Atreyn-linnan katolla,
+    oon iset thtiparvet tarkoin oppinut
+    ja ylilmain uljaat loistovaltiaat,
+    jotk' ihmisille lmpimn ja talven tuo
+    [nuo thdet milloin laskevat tai nousevat].
+    Ja yh varron vaan sen soihdun thte,
+    sen liekin vlkesanomaa, jok' ilmoittaa
+    jo Troian sortuneeksi.[3] Niinhn sntelee
+    tll' urhomaisna nainen, mieli toiveissaan.
+    Vaan maatessain ykasteisella, kolkolla
+    vuoteella, jossa unelmat ei poloista
+    ky katsomass' -- ah! unen eest ilmestyy
+    vain pelko, ettei silmluomet ummistuis --
+    kun mielin siin laulella tai hyrill
+    ja laulamalla loihdin torkan tuonnemmas,
+    tn linnan surkeutta tytyy surtani,
+    jot' ei, kuin ennen, kelpo neuvoin hallita.
+    Oi! jospa onni sois jo psn vaivoistain
+    ja riemuviestin lieska yst leimahtais!
+
+            kk valkean vlkett ilmanrelt.
+
+    Ha hei! ohoi!
+    Oi terve soihtu yn! S pivn kirkkahan
+    valoa ennustat, tn voiton vietnt
+    Argoossa juhlakarkeloilla, lauluilla.
+    Agamemnonin nyt puolisolle kertomaan
+    kyn: vuoteeltaan hn nousten kohta nostakoon
+    hovissa heljn riemunen raikumaan
+    tn vlkkeen vastineeksi, koska Ilion
+    on voitettu -- niin roihun liekki ilmoittaa --
+    ja tanssiin alkavaan ma riennn kohtipin;
+    sill' isntini onnennopan peliss
+    ma tulta thtmll parhaan heiton sain.
+    Vaan suotakoon mun kotiin tulleen ruhtinaan
+    kallista ktt painaltaa -- niin tyydynkin.
+    En muuta virka: salpa suuni sulkekoon!
+    Mut itsep t kartano, jos kielen sais,
+    paraiten kertois kaikki. Tietville vain
+    ma haastan, tietmttmille vaikenen.[4]
+
+                             Astuu alas linnaan.
+
+Aamuhmyss astuu esiin kuoro, ja lausumaan kypi
+
+KUORONJOHTAJA.
+
+    Jopa kymmenes vuos' siit' on, Priamon
+                kova kostaja kun
+    Zeylt' arvon ja valtikan saatuahan,
+    Menelaos ruhtinas ynn' Agamemnon,
+    tuo Atreidein pari muhkea lks
+    nilt' rilt viemhn Argiivein
+                tuhatlaivaista
+           varustust' apuretkelle vainon.
+    Sotahuutoa nostivat innoissaan
+    kahen tunturihaukan lailla ne, kun
+    murehissaan rystst poikasien
+    pesn kohtaa kiertvt korkealla,
+    siip'-airoin ilmoja soudellen,
+    surut turhaan nhty, vaaliessaan
+           pesn suojassa pienosiansa.
+    Mut Apollon, kuullen ylhlt
+    tai Zevs tai Pan rajanaapurien[5]
+    valitusta ja parkua, toimittaa
+                pahan tehneillen
+           toki koston iskuja vihdoin.
+
+    Nin vieraanholhoja valtava Zevs
+    vei naisen vuoks monisulhoisen
+    Aleksandroa[6] vastahan Atreidit:
+    moni tappelu turmiokas viri
+    niin Danaolaisillen kuin mys
+    Troalaisillen, sotatelmeess
+    tomuhun moni polvi jo hervahtuu,
+         moni keihs murtuvi. Kuinka kykin,
+         toteuntuu kohtalon tahto.
+    Viin'-uhrist' ei, palouhrist' ei
+    lepy, itkust' ei sula heltymtin
+    tuletonten uhrien kaiho.[7]
+
+    Me halveksittuina vartemme
+    ikkn vuoks, retkelt tuolloin pois
+    jtettiin; nyt lapsen tarmoa vaan
+          talutamme, turvana sauva.
+    Mehu nuoruuden, joka ennen niin
+    poven hyrskymn pani, hyytynyt on
+          in talveen; pois sotakunto.
+    Ikloppu, jolt' elon vehmaisuus
+    lakastuu, ei lasta se vahvemp' oo:
+    jalan kolmen horjuen, ilmestyy
+          unihaamuna keskell piv.
+
+Linnasta pin lhenee juhlakulkue, naispalvelijoita uhrimaljoineen.
+Kuningatar ky jonon pss.
+
+                  Mutta, Tyndaritar
+    Klytaimnestra, mi puuhana, ruhtinatar?
+    Mit uutta sa kuullut liet? Sanomaa
+                  mit uskoen, nin
+          ylt' ympri lyyli laadit?
+    Jumalitten, maatamme varjelevain,
+    ylilmaisten, manalaisten mys,
+    ovien, vkikenttien suojelijain
+          pyht liedet lahjoja leimuu.
+    Tuolta ja tlt' ylilmoillen
+                 tuli lieskahtaa,
+    sulavan pyhn ljyn virvokkeill'
+    elteltyn ilman vilppi, niin
+    kuninkaan parahin lemuhystein.
+    Mit mullen uskoa voit sek saat,
+                 sit kerro siis;
+    eptietoni tauti s lievenn,
+    joka milloin mieltni ahdistaa,
+    vaan milloin uhreistas viri
+    ihanaa valotoivoa, vistyy taas,
+          tuo murhe syntni syv!
+
+KUORONJOHTAJA.
+
+    Virteni kertoa saa sotaurhoin
+          retke, jolle
+          Zevs hyvt entehet soi.
+          Ik tarmosa viel
+                voimia siitt,
+    Luojiin luottaen laulan:
+    Kuink' Argonmaan kaks sopusaa yliherroa, kanssaan
+                nuoriso Hellaan,
+          kourassaan ase kostava ryntsi
+          Troiahan, oppaanaan raju kotka,
+    lintuin ruhtinas, ilmeten laivain
+          pruhtinahillen, musta ja toinen
+          lumivalkoinen tuoll' liki linnoa
+                peitsien puolla,
+          trmlln nkysll,
+          niellessn jn raukan
+          kohtuisan sikiineen,
+          kun silt juoksu kesken ji.[8]
+    Soi suruvirsi, vaan hyv voiton viekn![9]
+
+KOKO KUORO.
+
+    Soi suruvirsi, vaan hyv voiton viekn!
+
+KUORONJOHTAJA. (Vastaskeist.)
+
+    Vaan jalo tietj, kun nki uljahat
+                Atreyn poiat,
+          nuo eri-luontehet, koht'
+          lys oppahat ahnaat
+                vainomaretken.
+          Nin siis selvitti enteen:
+    "Kyll' aikanaan sortavi t sota Priamon vallan,
+                linnasta arteet,
+          porvarien kasatut tavaratkin
+          kohtalo rystv on vkivalloin,
+          kun ei vaan viha taivahan srje
+          kuolaimia Troiallen taotuita.[10]
+          Pahoillaan on Artemis-imp'[11]
+          isn liiteleville
+          hurtillen, repineille
+          karkaavan polosen
+          sikiineen synty vailla.
+          Hn inhoo kotkain atriaa." --
+    Soi suruvirsi, vaan hyv voiton viekn!
+
+KOKO KUORO.
+
+    Soi suruvirsi, vaan hyv voiton viekn!
+
+KUORONJOHTAJA. (Ptinlaulu.)
+
+          "Jos jalopeurain julmien
+          sa, kaunotar, pentuja holhoiletkin,
+          vaalit muun salomaankin karjaa
+          hentoa, rintoja syv, mynn
+          sentn enteillen sulo pts!
+          Lintujen, joita sa moitit,
+                      suo onnea tiet!
+                Paianiakin[12] viel' anon armollista:
+    lkhn siskonsa Hellaan laivoja vaan pidtelk
+                      rajutuulten estein,
+    vaatien uhria, sdytnt', uutta jot' ei sovi syd,
+    kiistaa tuottelevaa avioillen, heimolle! -- linnaan
+          ji asumaan salavaino;
+          ei lepy, julmana vaan
+          yltyy tuo, lapsia kostain." --
+    Nit ja paljon onneakin tielintujen noiden
+    Kalchas[13] perheellen kuningasten tietvn lausui.
+                Sointuen siihen,
+    soi suruvirsi, vaan hyv voiton viekn!
+
+KOKO KUORO.
+
+    Soi suruvirsi, vaan hyv voiton viekn!
+
+KUOROLAULU. (1. skeist.)
+
+          Zevs,[14] ken liekin hn -- jos nimi t
+          hlle vain on mieleinen --
+          sill hnt mainitsen.
+    Kun ma kaikkia harkitsen,
+          Yksin Zevs, ei kukaan muu
+    ptelkn, joko huoleni saan ihan heitt
+          suotta mielt painavan.
+          Jumalaa, jok' ennen halliten[15]  (1. vastaskeist.)
+    korskui uhkamielin,
+    ei nyt en mainita.
+
+    Hn, jok' ohjat sitte sai,[16]
+          lysi voittajansa mys.
+    Ken Zeyn voittoa vaan sydn nyrn kiitt,
+          keksi tiedon korkeimman.
+
+          Zevs meit' ohjaa oppimaan,  (2. skeist.)
+          vahvistaa sen totuuden:
+          vauriosta viisastuu.
+          Tuskan karvas neste yllkin
+                tihkuu tuon syyllisen
+          sieluhun; mieli malttaa tytyy vaan.
+          Luojan armo pyhlt' istuimelta
+          laivaa ohjaten sen ss.
+          Niinp silloin[17] ylhinen  (2. vastaskeist.)
+          Kreikan laivain pllysmies,
+          soimaamatta tietj,
+          nyrtyi alle kolkon kohtalon.
+          Mutta kun vastatuul'
+          evt si, miehet nntyi, vrjttin
+          Kalchiin vastapt[18], miss tyrsky
+          pauhaa Avliin rantahan --
+                Lens' viivyttin myrsky Strymonista:[19]  (3. skeist.)
+          vei valkamat; nljn, ruokaretket
+                toi miehillen;
+          ei sstnyt purtta, kytt -- miehet
+          jo vartoessa pitkksyivt; --
+    kukat se kaas', Kreikan urhot uljaimmat.
+          Niin myrskyn vimmahan
+          tietj ruhtinaille,
+          viitaten Artemiiseen,
+          ankaramman viihdykkehen
+          ehdotti; n survasivat
+          maankamaraan sauvoillaan.
+          Vierip itkuki heilt.
+    Nin lausumaan ky nyt korkea herra:[20]  (3. vastaskeist.)
+          "kyll' raskast' on, ellen taivu kskyyn;
+                mut katkeraa,
+          jos lapsosein, linnan pivpaisteen,
+          ma surmaan, taaton ktt tahraa
+          tn immen ver', alttarille vuotaen.
+          Oi vaali vaikein!
+          Voinko ma laivat jtt,[21]
+          liittoveljeni pett?
+          En! ett nyt nin himotaan
+          uhria tuult' uinuttavaa --
+          tyttni vert' -- ihmek tuo?
+          Olkohon onneks siis se!"
+                Nin taivuttain niskan ikeen alle,  (4. skeist.)
+          jo toinen tuul' miehen mielen knsi,
+          miel' irstas, pyh polkeva,
+          mi huimin pin kiihtyi hirmutyhn.
+          Kun ihmislaps' astuu harhatielle,[22]
+          hn hurjaa rohkoa saa, yltyy, paatuu.
+          Jo its' uskaltaa
+          hn last' uhrata onneks retken nais-
+                ryst kostavaisen,
+          laivojen lhtuhriks.
+                Kyll' impi huus' is parkusuulla;  (4. vastaskeist.)
+          ei sst tuo neitopivn kukkaa
+          kuningas kalpakiimassaan.
+          Vaan is ksk' urhoin nuorten nostaa
+          rukoiltuaan neidon alttarille,
+          poloisen, murtunehen uhrivohlan
+          vaippaan verhotun,
+          ja suun kaunihin nt valvoa
+                kostoa kirkumasta
+          ruhtinashuonehelle.
+                Siteill suult' nen tie suljettiin:  (5. skeist.)
+          Hlt' alhappin keltavaippa[23] vaipuu,
+          ja tappajiin helln silmn
+          hn luopi, heilt' armoa pyytin:
+          sanoitta kuin maalaus hn lausuvan
+          nkyypi niille,[24] joille hn
+          isns luon' ennen juhlittaissa
+          ol' laulellut: kaino[25] imp' ihanasti
+          ol' taaton kultaisaa onnea kiitellyt,
+                kun viini vuoti maljat.
+                Nyt seuraavaa nhnyt en, lausu en:  (5. vastaskeist.)
+          ei pettnyt Kalchaan taito, Dike[26]
+          vast' oppins' suo krsineille.
+          Mit' eess' on, aikanaan se kuuluu.
+          Kuin huokaus ennen aikojaan, niin on
+          uteilukin suottainen.
+          Viel' kerran kaikk' ilmi valoon astuu.
+          Oi, valjetkoon vasta viel' ilopiv!
+          Sen hnkin soisi, mi tnne astelee,
+          maan ainoa turvantuoja.
+
+              Klytaimnestra astun ulos linnasta.
+
+KUORONJOHTAJA.
+
+    Sun valtaas, Klytaimnestra, kunnioittaen[27]
+    ma saavuin: valtaistuin vaatii kunniaa,
+    miesruhtinaasta tyhjn, sen vaimollen.
+    Nyt soisin tiet, suotuisanko saatuas
+    sa sanoman vai hauskan tiedon toivossa
+    nin uhraat. Vaan en moiti mys, jos vaiti jt.
+
+KLYTAIMNESTRA.
+
+    Nyt nouskoon aamu -- niinkuin sananparsi on --
+    yn itihelmast', onnen viesti huulellaan!
+    Saat kuulla riemun toivomaasi suuremman:
+    Argiivein halluss' on nyt Priamon kaupunki.
+
+KUORONJOHTAJA.
+
+    Mi sanas ol'? Sit' epilylt' en lynnyt.
+
+KLYTAIMNESTRA.
+
+    On Troia meidn. Joko lausuin selvsti?
+
+KUORONJOHTAJA.
+
+    Mun valtaa riemu, kyynel vierii silmhn.
+
+KLYTAIMNESTRA.
+
+    Sun silms ilmaisee sun kelpo sydnts.
+
+KUORONJOHTAJA.
+
+    Mut onko tuosta todistus sull' erheetn?
+
+KLYTAIMNESTRA.
+
+    On niin! -- jos joku jumal' ei lie pettnyt.
+
+KUORONJOHTAJA.
+
+    Lumooko mielts unten haamut viekkahat?
+
+KLYTAIMNESTRA.
+
+    En usko torkkuvaisen sielun ilveihin.
+
+KUORONJOHTAJA.
+
+    Mut ehk' on maine siivetn[28] sun hurmannut?
+
+KLYTAIMNESTRA.
+
+    Sa soimaat jrkein kuin tytt heilakan?
+
+KUORONJOHTAJA.
+
+    Ja mihin aikaan valloitettiin kaupunki?
+
+KLYTAIMNESTRA.
+
+    Sin' yn -- tieds -- jonka laps' t piv on.
+
+KUORONJOHTAJA.
+
+    Ja ken niin sievn ehtinyt ois kertomaan?
+
+KLYTAIMNESTRA.
+
+    Hefaistos, luoden loiston kirkkaan Idalta,[29]
+    toi lentoviestin tnne roihu roihulta
+    nin jrjestns: Ida Hermeen-trmlle
+    Lemnossa; saarelt' otti vastaan valkean
+    kolmanneks' Athos, Zevsin pyh tunturi.[30]
+    Ja liekin kaukoviestin vientiin suostuen
+    viritti vahti nuotion viel' uljaamman.
+    Ja halki ilman, poikki seljn siintvn
+    tuon kulkevaisen soihdun voima riemuiten
+    auringon lailla sihkyin kultaloistoaan
+    Makiston[31] vartialle saatti sanoman.
+    T uneen uupumatta vahingossakaan
+    riens' viipymtt viestin tointa tyttmn.
+    Ja lieskan loimu kertoo kauas Euripon
+    vuolletten poikki vartioille Messapion.[32]
+    N vastatakseen kokon kuivaa kanervaa
+    sytyttin liekkiviestin veivt eteenpin.
+    Vkev lieska riutumatta riennostaan
+    Asopon kentn halki huilaten kuin kuu
+    valoisa kiiti Kithaironin[33] harjalle,
+    sielt' uuden kulkuliekin pannen liukumaan.
+    Gorgopis-jrven[34] poikki lensi loiste taas,
+    ja pstyns Aigiplankton[35] vaaralle
+    se vaati tulta puuttumatta puuhaamaan.
+    Ja varojansa sstmtt nostettiin
+    ylemms vuorta, jonka otsa katselee
+    Saronin salmeen, tulipyrst tuuhea;
+    Arachnaion se leimullansa valaisee,
+    thystysvuoren kaupunkimme kyljess.
+    Vlhti vihdoin Atreiidein linnahan
+    tuo vlke, Idan valkeasta vesonnut.
+          Noin soihdut kilpajuoksun[36] jrjestettyn
+    ne pertysten seurasivat toisiaan
+    ja pitkin sarjaa saivat voittopalkinnon.
+    Tn todisteen ja merkin sanon sulle siis,[37]
+    kun Troiast' antoi tiedon mulle mieheni.
+
+KUORONJOHTAJA.
+
+    Rukoilen, ruhtinaatar, kohta taivasta.
+    Vaan kertomustas viel kuulla mielisin
+    ja herkeemtt ihmetell. Kerro siis!
+
+KLYTAIMNESTRA.
+
+    Achaijit tnin isnnivt Troiassa. --
+          Luulenpa sielt sekamelskeen kuuluvan.
+    Etikkaa yhteen astiaan ja ljy
+    sekoita -- riidoin erkanee ne toisistaan;
+    nin sekaisin soi kahdellaisen kohtalon,
+    niin voittajain kuin voitetuiden ni.
+    N miestens ja veljiens ruumiita
+    syleillen, lapset isins hellsti,
+    jo orjan ikeen painaessa niskojaan,
+    armainten surmaa vaikeroivat surkeaa.
+    Noit' isen miekkamelskeen vaivat, harhatiet
+    ja nlk kskee atrioimaan, mink vaan
+    saa kaupungist', ei jrjestyst katsota,
+    vaan kuinka onnen arpa osuu kullekin.
+    Jo Troialaisilt' ottamiinsa taloihin
+    majautuen ja pstyns viimeinkin
+    kosteista sist taivasalta, rauhassa
+    nyt saavat yns vahtimatta nukkua.
+          Ja jos nyt voitto-maansa suojahengille
+    ja temppeleille suovat hurskaan kunnian,
+    ei voitto heilt vaurioksi vaihtune.
+    lknp ahneus vaan kansaa vietelk
+    semmoista, jot' ei ryst saa, himoitsemaan!
+    Sill' onnell' ei  kotiin psty ennen, kun
+    on kaksoisradan toinen jakso[38] juostu mys.
+    Jos palanneekin solvaamatta pyhyytt
+    vkemme, voivat haamut nousta vaineestaan[39]
+    tuhoksi, jos muu turmio ei tullekaan.
+          En muuta tienne nainen nist lausua.
+    Nyt vaakamaljass' onni enin painakoon![40]
+    Sen nautinnon jos kuinka paljost' ottaisin.
+
+KUORONJOHTAJA.
+
+    Tuon, rouva, virkoit viisaasti kuin jrkimies.
+    Ja nyt kun varmat merkit meille ilmoitit,
+    ma jumaloille laadin kunnon kiitokset.
+    Sill' arvokkaasti vaivamme nyt palkittiin.
+
+                         Klytaimnestra lhtee linnaan.
+
+          Oi valtava Zevs, oi armias Y,
+                sin loistavan kunnian suoja,
+          joka saarsit Ilion tornit niin
+          tuho-verkkohos, ett' uro ei pakohon,
+          ei laps' sen poimuja pssyt, tuon
+                hjyn orjuuden
+                hpe, joka kietasi kaikki!
+          Siis Zevsi, vierahien jumalaa
+          ylistn, joka tuon teki, aikaa jo
+          Aleksandroa thdten jousellaan,
+          jott' aiattomast' ei ampunut ois
+                vasamaans', ei pilvihin hukkaan.
+
+KUOROLAULU.
+
+ENSI KUORORIVI.
+
+    Niin lens' Zeyn nuoli, iski vamman,  (1. skeist.)
+    mi kyll' on kansan nhtviss.
+    Hn[41] korjas tyns palkan. Vaan ken vitt
+    ei sopivan jumalain huolia,
+    vaikk' ihmiset polkevat
+    pyhyytt -- ei hurskas lie.
+    Kas selvn kosto li[42]
+    ne, jotka korskuivat
+    sotaista mielt liikamrin
+    kopeina, koska aartehista
+    heill' uhkui maa -- vaurioks. Suotakoon
+          mun vain mielellisn
+          leipni tyytyin syd.
+
+KOKO KUORO.
+
+                Eip rikkaudesta
+                turvaa turmion sille,
+                ken on polkenut ylvstin
+                Diken templi pyh.
+
+ENSI KUORORIVI.
+
+    Mut hirmuinen on luulosuuruus,  (1. vastaskeist.)
+    tuo huimamielen ilkilapsi.
+    Ei pysty lke tuohon tautiin. Piiloon
+    ei hukka j, hirmuiseks lieskahtaa.
+    Kuin kehno vask' tummenee
+    kolhuista, niin koeteltaiss'
+    ei hllen kiilto j;
+    hn houkaks arvataan:
+    pyys' siipilinnun lennost' ottaa
+    ja turman tuotti kurja maalleen.
+    Sen palve ei taivosiin kuulu, maan
+          plt Dike perkaa
+          sen, joka mointa puuhaa.
+
+KOKO KUORO.
+
+                Moinen mies oli Paris;
+                Argoon tultua linnaan
+                vieraspytien pyhyyden
+                rikkoi, rysten vaimon.
+
+TOINEN KUORORIVI.
+
+    T jtti maamiehilleen kilpien  (2. skeist.)
+    ja kalpojen kalskinaa, sotapurtten puuhaa,
+    ja Troiaan toi hn mytjisiks turmion,
+    kun hiipi hiljaa kaupunkiin
+    ja julkes juljetonta. Tietjt[43]
+    vain vaikeroi, linnan viisahimmat:
+    "Voi linna sua! voi te linnan valtiaat!
+    hvuode voi! lehtolemmen harhatiet! --
+    Vait' istuu vaan ruhtinas[44] murheissansa, ei
+    hn soimaa solvaistunakaan,
+    vaan merten taa mennyttn
+    kaivaten, varjoks kohta kuihtuu."
+
+KOKO KUORO.
+
+                Sorjimmat kuvapatsaat
+                hnt' ei voi ilahuttaa;
+                kullan silmi kun ei n,
+                tyhj kaikk' ihanuus on.
+
+TOINEN KUORORIVI. (2. vastaskeist.)
+
+    "Ja kaiho luo harhanyt hlymn
+    unissa yn; ei ne huolia huojentaa voi.
+    Kun luulet onnen lytneesi, luiskahtaa
+    lumoova hahmo helmastas
+    ja siivin unten tiell liehuvin
+    taas kiirehtii tietmttmiin se." --
+    N ahdingot vrjyy koissa ruhtinaan;
+    vaan toinen on tuska ankarampikin:[45]
+    Kot'-suojihin Hellaanmaan kaikkiin, joista pois
+    vei vaino urhot, murhe suur',
+    mi synt sy, pesiytyi.
+          Totta niin! huolt' on monta meill.
+
+KOKO KUORO.
+
+                Keit on sotatielle
+                pantu, tietvt kaikki.
+                Miesten eest' isnmaahan vaan
+                tuhkauurnoja tuodaan.
+
+KOLMAS KUORORIVI. (3. skeist.)
+
+    Sill' Ares[46] tuo ruumisten vaihtomies
+    hoitelee vaakaa melskehesskin;
+    hn hiiltyneen tuhkan vain,
+    jot' itketn, Troiasta
+    rakkahille tynt taas,
+    sievn uurnaan suljetun:
+    tuhka miehist' yksin ji.
+    Heit' itkusilmin kiitelln,
+    ket' oivaks' taistotaidoltaan,
+    ket' urhon-kuolon saaneheks' --
+    muukalaismiehen[47] vaimon vuoksi.
+    Sit kansa nurkuu hiljaa,
+    salakaihon karvas kuohu
+    kuninkaita soimaa.
+
+KOKO KUORO.
+
+                Noilla on maja ahdas
+                Troian muurien luona.
+                Tuolla kaukana vieras maa
+                ktki voittajat multaan.
+
+KOLMAS KUORORIVI. (2. vastaskeist.)
+
+    Vaan suuttuneen kansan n' raskas on,
+    julkisten kirousten arvoinen.
+    Mua ahdistaa aavistus:
+    yn-synke kuulla saan!
+          Miest murhan tahrimaa
+          vaanii silm jumalain;
+          kelt vilppi onnistuu,
+    hlt' onnen vihdoin vaihtavat
+    yn kosto-immet, syyten
+    sen yhn tietmttmiin,
+    sinnep loisto tyhiin sammuu.
+    Viha mainehelle on raskas.
+    Zevs vuorten kukkuloita
+    salamoillaan ampuu.
+
+KOKO KUORO.
+
+                Halvan mie valikoisin
+                onnen. Linnoja murtaa
+                en sois, sortuen itse en
+                orjan pivi viett.
+
+          Riemuhuutoja ulkopuolelta nyttm.
+
+YKSITYISI NI.
+
+    I.
+
+    Ka, liekki lens viestineen
+    niin riemusuin kaupunkiin!
+    Liek totta juttu tuo
+    vai jumalainko luoma harha -- ken sen ties?
+
+    2.
+
+    Ken on niin lapsekas ja lyhjrkinen,
+    ett' innostuis kuullessaan
+    tuon lieskasuu-viestin, kohta kydkseen
+          vaiheen tullen allepin?
+
+    3.
+
+    Ken ylistis onneaan
+    se ennenkun syntyy -- muu kuin nainen vaan?
+
+    4.
+
+    No akanpa hommaan hetahat ollaan luottamaan!
+    Kuin tuuli leveni, tuuleen mys
+          se haipuu pois naisen turha toitotus.
+
+KUORONJOHTAJA.
+
+    Pian saamme kuulla, tokko liekit loistosat,
+    tuo vaihetulten pitk sarja kertonut
+    on totta, vaiko unten lailla mieltmme
+    tuo loisto pilkkaa luoden sulotuntehet.
+    Rannalta tnne astuvan nen airuen
+    oliiviseppel pss; hiekka janoinen,
+    tuo liejun sisko, tuoksahdellen todistaa,
+    ettei hn mykk lie, ei tuone tietonaan
+    vaan turhanpiten palavan hongan sauhua
+    ja tulta. Ei! hn lausuu riemun sanoillaan,
+    tai... ei! ma vastakkaisen mielen karkoitan.
+    Oi, saakoon oiva alku jatkon onnekkaan!
+
+PUOLIKUORONJOHTAJA.
+
+    Ken toisin meidn kaupungille toivottaa,
+    hn nurjuutensa viljat itse puikohon![48]
+
+                               Airut astuu esiin.
+
+AIRUT.
+
+    Oi terve Argos synnyinmaa! Jo kymmenes
+    aastaika vierii, kun sun jlleen nhd sain.
+    Ja vaikka moni toivo raukes, silyi yks':
+    en luullut en Argon maassa saavani
+    ma haudan rauhaa rakkahinta kuoltuain.
+    Oi terve siis nyt maani, terve aurinko,
+    ja maani herra Zevs ja Python valtias,
+    jok' ells en nuolillas meit' ampuko,[49]
+    Skamandron vierill' armoton kyll' oltuas!
+    Vaan nyt s meit auttaos ja suojellos,
+    Apollo herra! Kaikki suuret jumalat,
+    rukoilen teit, Hermes,[50] armas puoltajain,
+    s airueitten ylpeys; ja sankarit[51]
+    te, jotka meit saatoitten, oi ottakaa
+    keihilt jnyt vki vastaan suopeina!
+
+    Oi terve kuningassalit, armaat asunnot,
+    pyht istuimet,[52] te jumalat pivnhohtoiset,
+    jos koskaan, nytp silmin iloa sihkyvin[53]
+    kuningast' isost' aikaa juhlariemulla
+    tervehtik! Agamemnon saapui saattamaan
+    valoa yhn teille ynn kaikillen.
+
+    Hn hartaat tervetuliaiset ansaitsee,
+    kun Troian muurit mursi maahan, kostajan
+    Zeyn kuokkimella[54] penkoi pellot, tanteren
+    tasalle kaasi uhriliedet, temppelit,
+    ja ihmistaimet maasta kitki kerrassaan.
+
+    Sen ikeen pantuansa Troian niskallen
+    Atrevsin aimo poika voittoriemuisna
+    on tullut, ansainneena parhaan kunnian
+    tn-aikaisist'! Ei Paris voi, ei kansansa
+    kehua tytn suuremmaks' sen kostoa.
+    Tuo varkauden ja rystn syyhyn saatuna
+    menetti saalihinsa, saatti turmioon
+    yht' aikaa kotikartanon ja synnyinmaan.
+    Velkansa Priamon perhe maksoi kaksittain.
+
+KUORONJOHTAJA,
+
+    Achaialaisten airut, tervetultuas!
+
+AIRUT.
+
+    Oi kiitos! Tyydyn kuolemaan, jos taivas suo.
+
+KUORONJOHTAJA.
+
+    Tulikos siell kotimaata ikvs?
+
+AIRUT.
+
+    Niin, ett ilost' itkevt nyt silmni.
+
+KUORONJOHTAJA.
+
+    Suloinen tauti vaivas teit siell siis?
+
+AIRUT.
+
+    Suloinen? tuot' en tajua selvittmtts.
+
+KUORONJOHTAJA.
+
+    Te sairastitte kaipaavia kaivaten.
+
+AIRUT.
+
+    Ikvik maa siis kaipaavia poikiaan?
+
+KUORONJOHTAJA.
+
+    Niin ett poveni taajaan huokas kaihoaan.
+
+AIRUT.
+
+    Miks painoi kansaa moinen synkkmielisyys?
+
+KUORONJOHTAJA.
+
+    Vait'olon lkett oon kauan kyttnyt.
+
+AIRUT.
+
+    Kammoitko ketn kuninkaan poiss' ollessa?
+
+KUORONJOHTAJA.
+
+    Niin, ett, kuten virkoit, kuolla mielisin.
+
+AIRUT.
+
+    Kai, hyvin phn psty. Tuoll' elm
+    niin pitkll' ajall' oli kuinka kulloinkin
+    ikv jos joskus hauskaakin. Ken ainiaan
+    tll' el huoletonna saa pait jumalat?
+    Jos matkan vaivat, niukan levon vuoteilla
+    kurjilla, huonot maallepsyt kertoisin,
+    en hetkeks' saisi laata vaikeroimasta.
+
+    Vaan manterella koitui vasta kurjuutta,
+    kun vainolaisen vallin ress' asuttiin
+    ja taivon ves ja lettoluhtain kosteus
+    liotti meit, ett rohtui ruumiimme
+    ja tukka pedon karvan lailla prhttyi.
+    Ja mainitsenko talven, lintuintappajan,
+    jonk' Idan lumi saattoi sietmttmks',
+    tai keskuuman, konsa lounaslevollaan
+    meri aallon, tuulen tuntematta uinailee! --
+    Mut miksi surra? Onhan vaiva mennytt,
+    on mennyt menojaan jo vainajilta niin,
+    etteivt en huolis henkiin hert.
+    Miks lukisin siis kuolleet, eloon jneiden
+    sanoisin viel vammojansa potevan?
+    Hyvsti ijks' jkt murheet mennehet!
+    Ja meille, jotka Argoon vest silyimme,
+    vie hyty voiton, murhe ei sen vertaa.[55]
+    Auringon loiston eess voimme kerskata
+    yli maiden merten lentvill sanoilla:
+    "kun Argoon urhojoukko vihdoin Troian kaas',
+    se saaliit Hellaan jumaloille lahjottain[56]
+    ikikaunisteiks' ne templisuojiin riipustaa."
+    Tllaista kerrottaissa onniteltakoon
+    niin kansaa kuin sen kaitsijoita, saakohon
+    Zevs tyst kiitoksen! -- Nyt kaikki kuulit s.
+
+KUORONJOHTAJA.
+
+    Sun puhees voitti epilyni; mynnn sen.
+    Min kest ik, kest oppimistakin.
+    Klytaimnestran ja hovin tytyy enimmin
+    tst' iloita, vaan hauskaa on se mullekkin.
+
+                      Kuningatar astuu ulos linnasta.
+
+KLYTAIMNESTRA.
+
+    Jo sken riemuhuutohon ma remahdin,
+    tn' yn ensin liekkiviestin saatuain,
+    mi Troian valloituksen ties' ja vaurion.
+    Ivaili kyll muutamat: "vai luuletko
+    s soihtotuliin luottain Troian sortuneen?
+    Niin naiset ain' on herkt intoon hehkumaan!" --
+    Mua tll lailla hupsumaiseks herjattiin.
+    Ma lyylit laadin kumminkin, ja kaupunki
+    soi kauttaaltansa naisten kiitosriemua,
+    ja kaikilt' alttareilta uhrivalkea
+    levitti, syden suitsuketta, tuoksuaan.
+
+    Nyt sult' en kaipaa kertomusta tarkempaa:
+    kuninkaan suusta kaikki kohta kuulla saan.
+    Vaan riennn parhaimmasti vastaanottamaan
+    ma palannutta arvoisinta miestni.
+    Nhneek vaimo piv kauniimpaa kuin se,
+    jon' aukasee hn linnanportin miehelleen,[57]
+    sodasta taivaan auttamalle? Kske siis
+    kansansa ikvim tnne rientmn:
+    Hn lyt kotona puolisonsa uskoisan
+    sellaisna kuin sen jtti, talonsa vartian,
+    lempeen hlle, ilkeille nurjana,
+    kaikessa muuten moisenaan. Ei rikkonut
+    sinettin hn, vaikk' ol' aika pitkkin.
+    Kas moinen moite, toisen miehen hauskutus,
+    on mulle oudompaa kuin vasken vrjys.[58]
+    Ei kelpo naisen kainostella tarvis oo
+    nin kerskatessa, totuuteen hn turvautuu.
+
+                                    Menee linnaan.
+
+KUORONJOHTAJA.
+
+    Sun tiettvkses puheen pitnyt hn on[59]
+    noin sievin sanoin, seikat selvn kertoen.
+    Vaan kuules, airut, nyt m tiet mielisin
+    Menelaostakin, palasko hn kanssanne
+    eheen kotiin maansa armas valtias?
+
+AIRUT.
+
+    En valhetella hyv voi, jott' ystvt
+    siit' aikaa-voittain korjaisivat hyty.
+
+KUORONJOHTAJA.
+
+    Yht' iloisaa kuin totta puhees olkohon!
+    Ei salaa erkane ne kaksi toisistaan.
+
+AIRUT.
+
+    Se mies Achaian vest tietmttmiin
+    on mennyt laivoineen. En laske valheita.
+
+KUORONJOHTAJA.
+
+    Yksink lks hn Troiasta, vai tempasko
+    hnet seurastanne myrskyn vaino yhteinen?
+
+AIRUT.
+
+    Kuin tarkka joutsimies nyt ammuit pilkkahan:
+    lyhyesti suuren vauriomme ilmaisit.
+
+KUORONJOHTAJA.
+
+    Vaan eik muilta laivureilta kuulunut
+    huhua, liek kuollut hn vai elk?
+
+AIRUT.
+
+    Ei kukaan tied tarkempaa siit' ilmoittaa
+    paits' elon tuottajainen maalle -- aurinko.
+
+KUORONJOHTAJA.
+
+    Siis kerro, kuinka taivaan vimma myrskysn
+    lhetti laivastolle, kuinka pttyi tuo!
+
+AIRUT.
+
+    Ei onnenpiv turma tieto himment
+    sais -- ei se soinnu taivaallisten kiitokseen.
+    Kun airut, kammo silmissns, kaupunkiin
+    tuo murheviestin sotajoukon surmasta,
+    ja kansa siit saapi haavan yhteisen,
+    ja Areen kaksoisruoska[60] monet sankarit
+    kotoa ajaa, turmioon ne vihkien,
+    tuo kaksoispeitsi, murhan kaksoisvaljakko --
+    semmoinen krsimysten kuorma harteillaan,
+    hn totta kostotarten virtt laulaa voi.
+
+    Mut pelastuksen onniviestin tuoja kun
+    on riemuitsevaan kotiseutuun pssyt -- ei!
+    miks iloa katkeroittaisin ma murheella,
+    ja myrskyn taivaan-nostaman ma kertoisin?
+
+    Sill' liittoon yhtyi, mitk' ei muuten toisiaan
+    voi siet, ves ja valkea, valan vahvistain
+    hvitti Argoon joukot surkuteltavat.
+    Tuo turman tyrsky nousi yll riehumaan,
+    ja Thrakian vihuri[61] laivat viskoi vastakkain
+    ja kiskoi, ruhjoi, sateen mert piestess;
+    ne myrskyn pyrittiss puski toisiaan
+    ja paimenensa ajoon hurjaan hukkuivat.[62]
+
+    Kun vihdoin pivn soihtu syttyi loistamaan,
+    Aigeian meri Argon urhoin ruumiita
+    ja haahden pirstaleita nhtiin kukkivan.
+    Mut' meidt laivoinemme ehjin anturoin
+    kynsist surman sieppas taikka tarttuen
+    melaamme varasti[63] jumal' eik ihminen.
+    Ja Onni[64] kulta istui laivaan varjellen,
+    ettei sen saumoist' aallon hyky vuotaisi,
+    ei rantariutan krkihin se srkyisi.
+
+    Nin Ahdin[65] kuiluun hukkumasta psty,
+    kirkkaalla pivll', uskomatta onnea,
+    me tuskitellen uutta huolta haudoimme,
+    laivaimme laitaa surkeaa, ven kuolemaa.
+    Jos jotkut heist henkiin jivt, puhuvat
+    he meist nyt kuin vainajista -- miksei niin!
+    ja mennehiksi mekin heit luulemme.
+    Vaan hyvin kaikki kykn! Ennen muita voit
+    Menelaoa kotiin saapuvaksi vartoa.
+
+    Jos pivn pilkistyskn hnen nhnyt on
+    Zeyn neuvost' ilmi-haamussansa henkivn,
+    jok' ei tn heimon viel salli hukkua,
+    on toivo ett kotimaan viel' lyt hn.[66]
+    Tn totta kertoneeni tied kuultuas.
+
+                                   Airut menee.
+
+KUOROLAULU. (1. skeist.)
+
+          Kenp, ellei taivainen
+          eelt nhden kohtalon
+          ynn kielens' oikeaan ohjaten,
+          sattuvasti kutsui nin
+          _Helenaksi_ kiistojen
+          tuottajan, miekkamorsion?
+          Tappelun _hlin_, kalvan _helin_[67]
+          urot kaasi, laivoja poltti, kun
+                hn karkasi, jttin
+          utuhienot uutimensa,
+          rajun lnnen lentimill.
+          Ajamaan ryntsi riistaa hurmerinnoin
+          raju kilpimiesten joukko
+                laivan jlki kaikonneen --
+                Simoin lehvrannan
+                alla jo ankkuroivan.
+          Huoliks' totta huoli[68] hn:  (1. vastaskeist.)
+          noilla hill Troiaa li[69]
+          taivon vimma, vihdoinkin kostaen
+          vieraspydn ynn Zeyn
+          liedensuojan solvaisun
+          niillen, joiden suusta soi
+          morsion kunniaksi hiden
+          runo, jonka sallima silloin soi
+          tuon lankojen laulaa.
+          Jopa toista virtt laulaa,
+          suruvirtt vanha Troia[70]
+          pian sai oppia. Vaikeroiden kutsuu
+          "surusulhoks'" hnt nyt kun
+                "Paris-parka" jo ennen ol'.
+                Urhojans' itkee Troia
+                systyj surman suuhun.
+          Ers mies kasvatti leijonan  (2. skeist.)
+                pient pentua pirtissn,
+                rintaa juur' imenytt.
+                Tuo elon aamuna leikki
+                aljona lasten kanssa,
+                vanhojakin ilahutti.[71]
+                Kun sylivauvaa kanneltiin
+                pentua paljon paijattiin,
+                ktt nuoli se mairesuin,
+                ruokaa kun maha mieli.
+          Vaan kun vahveni, luontoaan  (2. vastaskeist.)
+                synnynnist se ilmi toi:
+                hoidon huolia maksain,
+                atrian kutsumatonna
+                si peto, raiskasi karjaa.
+                Kun veri tahrasi huoneen,
+                isnnn mielt karvastaa
+                surman saalis hirmuinen.
+                Nin ss' sallima: perheellen
+                kasvoi turmion[72] pappi.
+          Samoinpa mys saapui Troian kaupunkiin --  (3. skeist.)
+          jos saan sanoa -- tuuleton lammen likkyhenki,[73]
+          kuin helm' uus', armas aarreloisto,
+                lempe nuoli silmissn,[74]
+                synt polttava lemmen kukka.
+                Heti muuks' muunsihe, knsi
+                sulolemmet kurjaan loppuun.
+                Pahan tyn kostaja Zevs
+                Priamoille syyti vaivan;
+                kot'risti koituvi tuost',
+                itkumorsian koston.
+          Ky ihmisten kesken lause vanhastaan:  (3. vastaskeist.)
+          "jos saa ihmisonni maan pll vehmastella,
+          se pois ei kuole lapsitonna;[75]
+          loistava onni heimollen
+                siitt reti surkeutta."
+                Mulla ei miel' ole muiden,[76]
+                oma miel' on: konnantyst
+                siki tultua aijan
+                samanlainen jlkelinen.
+                Vaan hurskasten sukupuu
+                onnen oksia versoo.
+          Sill' ilkity[77] vanha luop' uudenkin ilkityn  (4. skeist.)
+                nyt tai toiste hurjillen,
+          siks, kunne koittaa kamala kosto aikanaan;
+          ei visty tuo vainotar[78] veitsi, ei peitsi,
+                kun katosalle kerran ps
+                ryhke rietas Ate,
+                siittjiens lainen
+                                                    (4. vastaskeist.)
+          Vaan Diken[79] net loistavan pirtinkin piilossa,
+                kelpomielt suosii hn;
+          vaan kultalinnat liatut syntiin jtt hn
+          pois kntynein silmin, hn hurskahan luo vaeltelee,
+                loistoa rikkaan halveksuin,
+                jost' ihastuupi turhuus.
+                Kaikki hn ohjaa mrn.
+
+Agamemnon tulee voittokulkueineen nyttmlle, ajaen loistovaunuissa,
+vieressn Kasandra.
+
+KUORONJOHTAJA.
+
+          Oi valtias, Ilion murtaja sie,
+                vesa Atreyn oi,
+          mik ois sopivin puhe, kunnioitus,
+                etten kiitostas
+          korottais ylen, en sit halventais?
+          Moni kyll' ylist valekiiltoa vain,
+                tosikuntoa polkien maahan.
+          Valitellen kurjia armahtaa
+          moni mies haluaa, vaikkei sydmeen
+                kipu liene pistnyt yhtn.
+          Iloisien kanss' on iloitsevinaan,
+          hymyhyn jr suu vkisin sulataan.
+          Hyv paimen tuntevi karjans'; ei
+          lumota sen silmi petturi voi,
+          joka ystvn lmp henkivinn
+                metisen simasuisena liehii.
+
+          Olithan sinkin -- sit' en vaieta voi --
+          Helenan vuoks[80] lhtiesss sotahan
+          vhmielen merkitty kirjahani,
+          ajatuksia ohjaamaan kyvytn,
+                kun kuolevihin
+                viritt koit intoa tyhj.
+          Jo nyt symmeni pohjasta riemuitsen,
+                kun on onnella puuhasta psty.
+          Viel' aikanas tutkien nhd voit,
+          kuka tointansa tarkoin tyttnyt on,
+                kuka vilpin keinoja koitti.
+
+AGAMEMNON
+
+    On kohdallaan, ett' Argost' ensin tervehdin
+    ja maani jumaloita, jotka sallivat
+    mun Priamon kansaa rangaisseena palata.
+    Sill' yksin neuvoin turmioksi Ilion[81]
+    he, suullisesti lausumatta mielin,
+    ver'-uurnaan miesten tuhoks' nens laskivat.
+    Kurotti kyll kttn toivo tarttuen
+    toiseenkin uurnaan, mutta t ei tyty vaan.
+    Nyt sauhu Troian rauniot vaan ilmaisee.
+    Siell' el tuhon myrsky, tuhka uhkuaa
+    mehuista aarteen kry hiiliin hiipuviin.
+
+    Tst' Ylhisille suoritettavamme on
+    hartaimmat kiitokset, kun koston pauloihin
+    kiedoimme viholliset, Troian kaupungin
+    tuon naisen vuoksi Argoon hiisi maahan kaas,
+    tuo vainovarsa,[82] urhojoukko kilviks.
+    Niin, Seulaisthden laskun aikaan leijona[83]
+    sylsn karkas linnan muurin piirihin
+    ja ruhtinasten verta latki kyllltn.
+
+    Nin pitklt' alkulauseeks' jumalille nyt!
+    Sun perusaattees teroitan ma mieleeni,[84]
+    ma seison puolellas ja samoin aattelen.
+    Harvanpa luonnonlaatu sallii suosia
+    kadehtimatta onnellista ystv.
+    Suomattomuuden myrkky sieluun sypynyt
+    tuon kurjan tuskat kaksin verroin tuimentaa:
+    hnt' omain krsimysten kuorma rasittaa
+    ja mielt kalvaa toisen onnen ilmaus.
+    M tiedn koittaneena -- tarkoin katsellut
+    oon kanssakynnin peiliin[85] -- varjon kuva vaan
+    on ystvilt nyttvisten ystvyys.
+
+    Odyssevs yksin, ensin retkeen innoton,
+    valjaissa kerran seisten, veti kanssani
+    kyll' yht kytt. Liek hn viel' elossa?
+
+    Pian saamme muuten valtion ja jumalain[86]
+    asioista neuvotella kansan tultua
+    yhteisiin kerjiin; ja olkoon huolenain
+    ett' oivaks' nhty tila silyy eellehen.
+    Vaan miss lkitysten tenho tarvitaan,
+    lempeesti siin leikellen tai poltellen
+    koetamme vamman juurtajaksain parantaa.
+
+    Nyt tultuani kotilinnan liesillen,
+    pin jumaliin ma ensin kteni koroitan,
+    kun kauvas vietyn mun, kotiin toivat taas.
+    Ain' uskollisna jkn mulle voitto vaan!
+
+Aikoo astua alas vaunuista. Samalla tulee Klytaimnestra
+palvelusneitojen kanssa, jotka kantavat purppuravaippoja.
+
+KLYTAIMNESTRA.
+
+    Oi kunnon kansalaiset, Argoon vanhasto,[87]
+    en hpee teille lemmellist luonnettain
+    ma tunnustaa, sill' aikaa myten haihtuu pois
+    ujous ihmiselt'. En muilta kuulemaa,
+    vaan omaa kurjaa eloa kerron pitkilt
+    ajoilta, mieheni Troian luona viipyiss.
+    Kotona yksin urhotonna vrjtt --
+    se siltns jo surkeaa on vaimollen;
+    ja monta pahaa huhua hn kuulla saa:
+    siin' uutisniekat hypp kertoin yhtenn
+    ain' ikvmp, htkelloa hlistin.
+    Jos miestni niin monin haavoin lyty ois,
+    kuin jutut tnne kertoivat, niin enemmn
+    lpi hness' ois, kuin verkoss' silmi.
+    Jos kuollut ois hn aina, kuin niin kerrottiin,
+    hn vois, kuin toinen kolmihaamu Geryon,[88]
+    kehua usein multaverhon saaneensa
+    maan pll' -- en virka maanalaisest' -- yllens,(89)
+    jos kuollut ois hn kerran joka haamulta.
+    Tuollaisten huhuin aina hakarrellessa,
+    vkisin usein paula kirvotettu on
+    mun kaulastain, kun tuska tahtoi hirtehen.
+
+                                        Agamemnonille.
+
+    Ja noista syist' ei seiso tss vieressin
+    hn, jonka pitis, rakkautemme vastike,
+    Orestes poikas: ells tuota kummeksi!
+    Sun kelpo kalpaveljes, fooki Strofios
+    kasvattaa hnt. Tuopa vaaran pyrivn
+    kuvaili mulle: jos sun kohtais kommellus
+    tuoll' Iliossa, kansanmelske kukistaa[90]
+    vois neuvoston jon ssit -- niinhn ihmiset
+    jo sortunutta viel sortaa tahtovat.
+    T selvitys, saat uskoa, on vilpitn.
+
+    Mult' itseltn' on itkun vuolas lhde niin
+    jo ehtynyt, ettei siin pisaraa.
+    On silm, myhn unta saaden, himmennyt,[91]
+    sun soihtutultas turhaan thdystellessn
+    ja itkiessn siit. Jos ma torkahdin,
+    niin oitis hyttysenkin siiven hyrinn
+    svhdin, nhtyin sun luonas kammoja
+    enemmin, kuin tuon unen hetkeen mahtuikaan.
+    Iloiten mielin nyt, kun kestin kaiken tn,
+    ylist miestni: hn talon koira on,
+    on laivan turvakysi, linnan korkean
+    on valtapylvs, isn lapsi ainoinen,
+    purjehtijoiden arvaamatta nhty maa,
+    suloinen huomen myrskyn jlkeen valjennut,
+    ves'lhde, matkamiehen janon virvoke...
+    Ihana vaan nyt ahdingosta psy on.
+
+    Kyll' ansaitsee n tervehdykset multa hn.
+    Pois kateus vistykn! Jo kyllin krsitty
+    on htpiv. Nytp, armas valtias,
+    vaunuista astu! Ells, herra, kuitenkaan
+    pane maahan jalkaa, jolla Troian tallasit!
+    Miks viivyttenkin, naiset, joiden kskettiin
+    katella vaipoin kytvns polkua?
+    Tie oitis purppuroitakoon, jott' ansio
+    hnt' ohjata sais linnaan uottamattomaan![92]
+
+    Muut tehtvt mun virkku, valpas huoleni
+    jumalten mielt myten oikein toimikoon!
+
+Purppuravaipat levitetn vaunuilta linnan keskiportille.
+
+AGAMEMNON.
+
+    S Ledan sukutaimi, taloni vartia,
+    mun pitkn poissaoloni mukaan puheeskin
+    ol' pitk. Vaan jos soveliaasti kiitelln,[93]
+    sen kunnian sopii _toisten_ suusta lhte.
+    S lls muuten henttumaisna liehi noin
+    mun eessin, kuku kunniaani orjaillen,
+    iknkuin oisin itmainen ruhtinas.
+    l purppuroiten moitteenalaiseksi tee
+    mun tietn! Yksin jumalat sen arvon saa.
+    Ei vaaratonna kuolevainen[94] mielestin
+    nin loistavilla kirjovaipoill' astele.
+    Mua kunnioita ihmisiks', l jumaliks!
+    Kyll' loistomattoon jalkaa pyyhkimttkin
+    kajahtaa maine. Nyr suhtamielisyys
+    on parhain taivaan lahja. Onnitella voi
+    vaan sulo-rauhass' elon phn pssytt.
+    Jos tapahtuis nin aina, oisin pelvoton.
+
+KLYTAIMNESTRA.
+
+    Vaan noudata nyt sentn minun mietettin!
+
+AGAMEMNON.
+
+    En turmele ma mietettin -- se tiets!
+
+KLYTAIMNESTRA.
+
+    Sen lupasitko jumalalle jollekkin?
+
+AGAMEMNON.
+
+    Jos ken, ma tieten taiten lausuin sanani.
+
+KLYTAIMNESTRA.
+
+    Min, luulet, Priamos tekis voitost' iloissaan?
+
+Agamemnon.
+
+    Hn loistovaattehelle varmaan astelis
+
+KLYTAIMNESTRA.
+
+    Miks' siekin ihmismoitteita siis arkailet?
+
+AGAMEMNON.
+
+    Vaan paljon painaa ihmistenkin haastelut.
+
+KLYTAIMNESTRA.
+
+    Se onni kyh, jot' ei kukaan kadehdi.
+
+AGAMEMNON.
+
+    Ei kiistan kiihko[95] naista suinkaan kaunista.
+
+KLYTAIMNESTRA.
+
+    Mut vist onnellista miest kaunistaa.
+
+AGAMEMNON.
+
+    Niin suureks' voiton tss kiistass' arvaat siis?
+
+KLYTAIMNESTRA.
+
+    Nyt mynn mulle voitto suosiolla vaan!
+
+AGAMEMNON.
+
+    No, jos niin tahdot! Joutuin joku riisukoon
+    mult' uskolliset jalkaneuvot, kenkni!
+
+           Kengt riisutaan ja hn astuu, alas vaunuista.
+
+    Ja elkn, tiet purppuraista kulkeissain,
+    mua jumalista kateen katse kohdatko!
+    Olenpa arka turmelemaan[96] taloa,
+    jos jalvoin tallaan hopeanarvo-vaatetta.
+
+    Mut sikseen tuo! Nyt suopeasti saata mys
+    tuo neito linnaan! Lempet voittajaa
+    jumalat ylhlt' armosilmin katsovat.
+    Ei kanna kukaan orjan iest mielelln.
+    Hn, rikkaan saalihimme valiohelmen,
+    mua seuras sotajoukon arvolahjana.
+
+    Mut kun nyt taivuin tss sinua kuulemaan,
+    ma astun linnaan purppuraista polkuas.
+
+                                Astuu linnaan pin.
+
+KLYTAIMNESTRA.
+
+    Niin -- meri on -- ja ken sen tyhjks ammentaa! --
+    mi viljoin hopean-arvoist' uhkuu purppuraa,
+    ain' uutta mehua, vaatteen painenestett.
+    Ja varaa soivat linnallemme jumalat[97]
+    noit' ostaa, herra; ei se tunne kyhyytt.
+    Monetkin vaipat poljettavaks' luvannut
+    ma oisin, jos sen ennuspappi snnyt ois,
+    kun aprikoin tn[98] hengen pstinhintoja.
+    Jos juurt' on, versoo huoneen viereen lehvpuu,
+    ja laajan suopi suojan Sirion poltolta.
+    Niin siekin, perhelieden luokse tultuas,
+    tulokas talvikylmn lmpimksi luot.
+    Kun happamesta raakilasta kypsent
+    Zevs viinin, vilvastuu jo ilma saleissa,
+    Jos miesi tarmokkaasti taloa hallitsee.
+
+                                Agamemnon menee sisn.
+
+    Zey, Zey, s perille-viej, tyt pyyntni
+    ja huolehdi, mit' aijot toimeen panna nyt!
+
+Menee sisn seurueineen. Kasandra ylln tietjnpuku -- jalkoihin
+ulettuva viitta, villanauhat krittyin kaulan ympri, sauva kdess
+-- istuu liikkumatta vaunuissa.
+
+KUOROLAULU. (1. skeist.)
+
+                Miksi liehuu yhtenn
+                kumma kauhu silmissin
+                ahdistellen synt aavistuksin?
+                tietjvirteni palkati kskyti soi nin?[99]
+                Miksei reima luottamus
+                torju unten usvaisten
+                maille pois pelkoain,
+                istu mielt ohjaamaan,
+                vaikk' aikaa jo kajahti rantakalliot,[100]
+                kydet kun pstettiin,
+                urhojoukon laivoillaan
+                lhtiess Ilioon?
+                Silmtietoon luottaa sais,  (1. vastaskeist.)
+                paluun itse nhtyn.
+                Mutta lyyryn myt sointumatta,
+                sieluni oppima kostajalaulu se soi vaan;
+                enk taida turvata
+                toivon armaan johtohon.
+                Vaisto ei turha lie
+                vilpitnten rinnass', ei
+                sydnkn, hirmu-pyrtehiss viskelty.
+                Soisin sen kuitenkin,
+                ettei pelko totta ois,
+                vaan se tyhjiin raukenis.
+                Terveys ei uhkeakaan riemua suo:
+                tauti kun naapuri on seinkkin,
+                meilt henke vaanien aina.
+                [tautihin lie apu tok'. --].
+                Trmt kiitessn
+                voi salariuttahan ihmis-onni;
+                vaan jos liika ahdostaan
+                karttavaisuus aikanaan
+                heitt taiten suunnaten,[101]
+                ei huku huone[102] kaikkineen,
+                vaikka vonkuu vaivoissaan;
+                aalto purtt' ei ahmaise.
+                Zeylt vuotava rikkaus runsas
+                ja vainio viljoillaan joka vuosi
+                nlkvaivan ht pois.
+                Surma[103] kun li haavoja, kun ihmisen vert'
+                tulvi maan multahan, oi kenp voi
+                pyrrytt sit loihtuja laulain?
+                Ainoan tuon, joka tais[104]
+                vainajat virvottaa,
+                ehksi Zevs varotellen muita.
+                Ellei Luojain stmst'
+                alhaisilta ylhiset
+                estis puheet rohkeat,
+                kielen mieli ennttin
+                varmaan kaikki ilmaisis.[105]
+                Nyt se yrmyy yksissn,
+                hautoen huolia, ei tohi koskaan
+          toivoa voivansa suoria pulmat:
+                tuska polttaa rinnassain.
+
+                    Klytaimnestra astuu ulos linnasta.
+
+KLYTAIMNESTRA.
+
+    Ky taloon siekin -- sua, Kasandra, tarkoitan --
+    kun Zevs sun salli pst meille juhlahan.[106]
+    Kaiheksumatta muiden orjain kanssa siis
+    s saaliinsuojan[107] liett astu likemms.
+    Vaunuista alas lhde, lk ylpeile!
+    Muinoinpa Alkmenenkin poika[108] myytyn
+    nyrsti orjan iest kuulun kantaneen.
+    Jos sattuu siis se onnenpakko, kiittkn
+    ken isnniks saa vanhastansa rikkahat.[109]
+    Vaan ketk arvaamatta onneen nousivat,
+    ne orjiansa kohtelevat julmasti.
+    Mi kohtuullista suinkin on, sen meill saat.
+
+                        Kasandra ei liiku paikaltaan.
+
+KUORONJOHTAJA.
+
+    Emnt sulle selvn lausui tahtonsa[110]
+    Kun kohtalo siis kietonut on paulaansa
+    sun, tottele, jos mielit! Ehk'et mielikn.
+
+KLYTAIMNESTRA (kuoronjohtajalle).
+
+    Niin, ellei ehk hn, kuin mik pskynen,[111]
+    ties mit outoa kapulakielt kangerra;
+    s virka hlle ksky mieleen tepsiv!
+
+KUORONJOHTAJA.
+
+    Ky pois! Ei mitn parempaa tarjonas.
+    Jtpp vaunun istuimes ja tottele!
+
+                             Kasandra ennelln.
+
+KLYTAIMNESTRA.
+
+    En jouda kauemmin sun thtes viipy
+    tll' ulkona, kun teurahat jo seisovat
+    linnassa alttarin ress' uhrattavina.
+    Niin toivomatta suotiin meille ilo t.
+    Jos totella siis tahdot, rienn joutuhun!
+    Jos muukalaisna kieltmme et ymmrr;
+    niin sanain eest viittiliden haastele!
+
+           Viittaa Kasandraa tulemaan. Tm ei liikahda.
+
+KUORONJOHTAJA.
+
+    Nkyyp selv tulkitsijaa kaipaavan
+    tuo vieras, on kuin otus[112] sken pyydetty.
+
+KLYTAIMNESTRA.
+
+    Hn vnkp on, nurjaa mielt noudattaa,
+    linnasta sken vallatusta tultuaan.
+    Ei kuolainta hn viitsi pit suussansa,
+    ennenkuin verivaahtoon kiukku vljhtyy.
+    En alentaudu sanaa lis tuhlaamaan.
+
+                                       Menee.
+
+KUORONJOHTAJA.
+
+    En suutu sulle mie, ma sinua surkutan.
+    Ky sisn, rukka! jt vaunut, visty nyt
+    s tytymyst! Taivu outoon ikeeses!
+
+VUOROLAULU.
+
+KASANDRA (astuen alas).
+
+          Oi voi! kauheaa! voi!  (1. skeist.)
+                Apollon! Apollon![113]
+
+KUORONJOHTAJA.
+
+    Mit' Apollonille voivotat niin surkeaa?
+    Ei hn se, ken mieltyy vaikeroimisiin.
+
+KASANDRA.
+
+          Oi voi! kauheaa! voi!  (1. vastaskeist.)
+                Apollon, Apollon!
+
+KUORONJOHTAJA.
+
+    Taas huutaa herjaten hn sit jumalaa,
+    jonk' ei sovi olla lsn vaikeroitaissa.
+
+KASANDRA. (2. skeist.)
+
+                Apollon, Apollon!
+          S tiejumala, taas poloisen
+    mun poljit, polkujumala, suohon kurjuuden.[114]
+
+KUORONJOHTAJA.
+
+    Hdstn ennustaa hn nytt aikovan.
+    Viel' orjan sieluss' asuu voima ylhinen.
+
+KASANDRA. (2. vastaskeist.)
+
+                Apollon, Apollon!
+          S polun herra, miks poljit mun?
+    Oi minne johdit tieni, kenen kartanoon?
+
+KUORONJOHTAJA.
+
+    Atrevsin linnaan. Ellet itse oivalla,
+    sen sanon. Totta sanoneeni nhnet pian.
+
+KASANDRA. (3. skeist.)
+
+          Siis petoluolahan taivahan inhomaan,
+          niin rumia tihoja tietvn,
+          jok' uipi verta, ihmisi teurastaa.
+
+KUORONJOHTAJA.
+
+    Neidolla nytt koiran vainu olevan:
+    hn verta vainustaa -- jot' onkin lytv.
+
+KASANDRA. (3. vastaskeist.)
+
+          Niin, todistajani lausuntoja kerron vaan:
+          laps'raukat surevat tappoaan
+    ja paistetuita lihojaan, joit' is si.
+
+KUORONJOHTAJA.
+
+    Sun ennustajamainees meille tuttu on,
+    mutt' emme kaipaa ollehien tietj.
+
+KASANDRA. (4. skeist.)
+
+          Oi korkiat! mi tuhon aikomus?
+                Tekoa uutta hirve,
+    yn-synkk omilleen hn hautoo linnassa!
+          Ei miest', ken ky torjumaan.
+                Kaukosalla
+                viel' apu viipyilee.[115]
+
+KUORONJOHTAJA.
+
+    T[116] ennustus on outo mulle. Toiset taas
+    kyll' ymmrsin: koko maahan niist juttelee.
+
+KASANDRA. (4. vastaskeist.)
+
+          Voi, herja! tyhs joko ryhdyt, vai?
+                miehes, aviokumppalis
+    kylvyss pestys[117] ... ei! sanani kesken j.
+                Kas, on kiire ty: ktt ks
+                tyntelee -- jo
+                se pian tehty on!
+
+KUORONJOHTAJA.
+
+    Ei tuosta synny selvemp. Mun ymmllen
+    saa kaihisilm ennustelmas pulmineen.
+
+KASANDRA. (5. skeist.)
+
+          Oi julma! taivas! taas
+          mi nk ilmestyy?
+          Vai tuonelanko verkko![118]
+    Oma vaimo permen laati, surman syyn on.
+          Tuo parvi,[119] kun sukua vainoten
+          ei lepy, riemuitkoon uhristaan!
+          Kivitettv!!
+
+KUORONJOHTAJA.
+
+    Mit kostotarta kutsut tnne linnahan
+    niin riehumaan? sun sanas mielen synkist.
+    Mun sydmeeni suihku puna-hurmetta
+    hurahti, helln kohtahan koskettain,
+    se eloni riutuvan sammuttaa -- oi!
+    tuho kiiruhtaa kulkuaan.
+
+KASANDRA. (5. vastaskeist.)
+
+                Ah voi! oi katsokaa!
+                Oi aja sonni pois
+                pian lehmn luota![120] Kietoo
+          sen mustasarvi viekas vaipan poimuihin.
+          Jo li hn! mies vajosi kylpyhyn!
+          S salasammion murhatyn
+                kuulit nyt.
+
+KUORONJOHTAJA.
+
+    En kerskaa, ett ennuskielt arvaamaan
+    oon nrv; vaan tuo turmiolle kuulostaa.
+
+KUORO.
+
+          Ei inehmoille ennustus iloa suo,[121]
+          ei ilosanoja taide monimielinen.
+          Se surun ennustaa, hirmuhaamuineen
+                se sielun vain
+                sikytt.
+
+KASANDRA. (6. skeist.)
+
+                Ma onneton! voi mua!
+                kohtaloa surkeaa!
+                S[122] panit parkuhus
+                mun oman kurjuuten' --
+    Oi miks mun raukan toikaan nille maille tuo?[123]
+    Siks' ett ynn kuoltaisiinko? Niinp niin!
+
+KUORO.
+
+          Sun lumos ylhisempi noin hourimaan.
+                Soi virs' soinnuton,
+          itsests stms, niinkuin
+          satakiel' lintu harmaa ei kyllsty
+          "Itys" itkemn, kun suru seppeli
+                sen in yhtenn.[124]
+
+KASANDRA. (6. vastaskeist.)
+
+                Ei hele-nisen
+                linnun ht ollenkaan,
+                kun puvun sulkaisen
+                se jumalilta sai.
+    Oi pivt armaat sai se vaaroist' erilln.
+    _Mua_ isku vartoo, kalpa kaksisulkainen.
+
+KUORO.
+
+    Miks raju houreen vaiva sinut ylltt?
+                sen ss taivas kai?
+          Kamala n' virsisss rikyy
+          sek kamaloita kuvia vaan hahmoilee.
+          Oi, miks ptyi tietjties mrhn
+                tuhon-enteiseen?
+
+KASANDRA. (7. skeist.)
+
+    Voi Paris, jonka ht suvulle tuhoa toi!
+    Skamandron[125] laine, oi juomani kotoinen!
+    Sa mua vaalit rannoillasi silloin,[126] niin
+                ylenin onneton
+    Vaan kohta saanen ennusvirtt laulella
+    ma Kokyton ja Acherontin tyrill.[127]
+
+KUORO.
+
+    Mit sanas thts, selv on liiankin;
+    sen taisi tajuta lapsikin.
+    Mun viils' synt niinkuin veriveitsell
+    tuo jkolkko sun kohtalos, jost' uikutit
+                mieleni murroksiin.
+
+KASANDRA. (7. vastaskeist.)
+
+    Voi vaivat kaupungin perti raiskatun!
+    Voi uhriteuraat, kun muuria suojellen
+    tapatti laitumiltaan is summittain!
+                Ne ei varjelleet
+    kansaani krsimst krsittvin.
+    Valanpa minkin kohta vereni lmpimn.
+
+KUORO.
+
+    Se sanas edellisten kanss' sopusoinnuss' on.
+    Sua huimaa jumala suuttunut,
+    jok' yl'voimallansa sua rynnki --
+    ja niin kuolemas kaihovirtt' uikutat.
+                Loppua arvaa en.
+
+KASANDRA.
+
+    Nyt ennustuksen' siis ei en katsova
+    harson alta kuten hiss morsian;
+    vaan kirkasna kuin aamutuuli lentkn
+    se pivn koita kohden, valoon vierittin
+    kurjuutta tyrskyaallottain viel' suurempaa
+    kuin omani on. En ongelmoin sua eksyt.
+
+    Todistakaat, ett' ennen tll tehtyjen
+    rikosten psin jljille m tsmlleen!
+    Ei linnast' en koskaan visty kuoro tuo,
+    jonk' ni riemun riist, soinnutonna soi.
+    Se ihmisverta juoden rohkaistuakseen[128]
+    saleissa juhlii telmien -- ja vaikeaa
+    on raivotarten siskosarjaa ht pois.
+    Nyt veisaavat he virttn linnan juurella
+    tuost' alkurikoksesta,[129] vuoroon kiroten
+    vihoissaan myskin veljesvuoteen raiskaajaa.[130]
+          Harhaanko thtsin vai pilkkaan ammuinko?
+    Hepakko lienk kiertolainen valhesuu?
+          Vakuuttakaa siis valall',[131] ett linnan tn
+    ikivanhat synnit kaikki tiedn tarkalleen!
+
+KUORONJOHTAJA.
+
+    Mit' apua valan siteest' ois, jos lujaankin
+    se solmittais? Mut ihme, ett vieraan maan
+    laps', kasvaneena tuolla puolen merta, voi
+    kuin omin silmin nhnyt kaikki kertoa.
+
+KASANDRA.
+
+    Apollon, ennusluoja ss sen toimeksein.
+
+KUORONJOHTAJA.
+
+    Lempeenk syttyneen, vaikka jumala?
+
+KASANDRA.
+
+    En thn asti juljennut sit tunnustaa.
+
+KUORONJOHTAJA.
+
+    Niin, onnen pivin' ollaan aina ylpeemmt.
+
+KASANDRA.
+
+    Mua syleili hn, lemmen tulta hehkuen.
+
+KUORONJOHTAJA.
+
+    Ja soitko tyydykett mys tuon lemmellen?
+
+KASANDRA.
+
+    Ma suostuin, mutta petin sitte Loksiaan.[132]
+
+KUORONJOHTAJA.
+
+    Joko silloin ennustaitoa sa harjoitit?
+
+KASANDRA.
+
+    Jo kansallein ma kaikki turmat ennustin.
+
+KUORONJOHTAJA.
+
+    Ja kuink' ei Loksias sua tuosta rangaissut?
+
+KASANDRA.
+
+    Tuon vilpin jlkeen ei mua kukaan uskonut.
+
+KUORONJOHTAJA.
+
+    Luotettavasti ennustat meist' ainakin.[133]
+
+KASANDRA.
+
+    Voi voi, voi hirve!
+    Taas huimistaa mua, ennushengen valloissa
+    ma vrjyn, hirmu-ilmehet mua pyrist.
+    Nuo pienokaiset ntk tuossa istuvan
+    ovessa, unihahmoin moisna hilyvn?
+    Kaks poikalasta, omaistensa tappamaa,
+    selvsti kourat tynn omia lihojaan,
+    sisusta, sydmmyst -- kurja kantamus! --
+    joist' isn syd tuodaan eine kauhea.
+
+    Ja siksi sanon ern velton leijonan,[134]
+    patjoilla piehtaroiden, surmakostoa
+    herralle vasta palanneelle puuhaavan,
+    mun herrallen' -- kun sttiin mulle orjan-ies.
+    Ja laivain pllysmies ja Troian voittaja
+    ei arvaa, kuinka koira liukaskieli tuo,
+    kun ktt nuolee, korviansa lerputtaa,
+    salasurman hlle vehkeilln on suoriva.
+    Tmmist julkee nainen -- tappaa miehens!
+    Hn on -- mihink hirmu-petoon vertaisin
+    paraiten hnt? -- kyy tai Skylla, luolastaan
+    mi pist pns laivureita niellkseen,
+    vimmattu hornan siki, k puhkuva
+    ikuista omaisiinsa. Kuinka riemastui
+    iknkuin voiton vietosta tuo kunnoton!
+    Tulosta puolisons' on iloitsevinaan.
+    Ellette usko -- yhtkaikk' on. Tuleepa
+    min tulla tytyy. Pianpa itse itkien
+    mynntte tietneeni totta liiankin.
+
+KUORONJOHTAJA.
+
+    Thyesteen eineen lapsiensa lihoista
+    kyll' ymmrsin ja kauhistuin. Mua hirvitt,
+    nin kaunistelematta kuullen totuuden.
+    Muut kuullessain mult' eksyi lyni suunniltaan.
+
+KASANDRA.
+
+    Viel' surman suussa nhd saat Agamemnonin.
+
+KUORONJOHTAJA.
+
+    Vait' uhkarohkee! suusi siivoks suhdita!
+
+KASANDRA.
+
+    Mut eip siit sanast' ole pstj.
+
+KUORONJOHTAJA.
+
+    Ei, jos noin kypi. Mutta elkn kyk niin!
+
+KASANDRA.
+
+    S toivot; toiset murhan pit huolenaan.
+
+KUORONJOHTAJA.
+
+    Mi miesi mointa konnantyt aprikoi?
+
+KASANDRA.
+
+    Pahoinpa silms eksyi ennusteistani!
+
+KUORONJOHTAJA.
+
+    En lynnyt, ken ky sen juonen toimihin.
+
+KASANDRA.
+
+    Ja selv Hellaan kielt sentn haastelen.
+
+KUORONJOHTAJA.
+
+    Niin oraakelitkin; hmrt ovat kumminkin.
+
+KASANDRA.
+
+    Haa! mik liekki lensi taaskin plleni![135]
+    Apollon oi Sudensurmaaja![136] voi mua! voi mua!
+    Kaksjalka naarasleijona tuo maattuaan
+    suden[136] luona, uljaan leijonan poiss' ollessa,
+    mun kurjan tappaa. Kostomaljahansa hn
+    sekoittaa mausteheksi minunkin rankaisun.
+    Hioen miekkaa puolisonsa surmaksi,
+    hn murhall' uhkaa kostaa minunkin tuontini.
+
+    Miks' ilkuksein[137] siis nit en kantaisin,
+    kdess sauvaa, kaulass' ennuskreit?
+    Sun srjen, sauva, ennen omaa kuoloain.
+    Pois hornaan, kryt! Itse seuraan teit pian.
+    Mun eestn' joku toinen onneen saattakaa!
+
+Murtaa sauvan ja repii kreet. Tietjn puku valuu ylt maahan.
+
+    Kas nin! Apollon itse riisuu yltni
+    n ennusverhat, nhtyn mun nisskin
+    koruissa pilkkaa nurjilt' ystviltni[138]
+    selvsti muka "hourupn" krsivn.[139]
+    Sain siet kurja nlkn nntymisillin,
+    ett' kerjuriks', maankiertjks' mua herjattiin.
+    Ja ennusjumal', tietjks mun pantuaan,
+    nyt tuonenkohtaloon mun saatti tmmiseen.
+    Teurastuspenkki, eik isin alttari,
+    vereni kuuman punattava, vartoo mua.
+    Tok' ei j Luojan kostamatta kuoloni,
+    sill' idinsurman-taimi, taaton maksaja[140]
+    viel' kerran meille kostajaksi ilmestyy.
+    Pakolaisna kaukomailta kotiin tultuaan,
+    rikosten plle harjakiven[141] nostaa hn.
+    Sill' jumaliss' on kallis vala vannottu,
+    ett' isn kaatumus tuon kotia tuopa on.
+
+    Mit' auttaa siis mun kurjuuttani kuikuttaa?
+    Kun kerran Troian kaupungin ma krsivn
+    nin, min se krsi, ja sen valloittajankin
+    noin onni vaihtui tuomiosta jumalain,
+    niin sisn kyn kuin kynkin. Kuolla uskallan.[142]
+
+    Te portit, Tuonen portteina teit' tervehdin!
+    Mun kohdatkoon, sen toivon, isku tappava,
+    jott' ilman kuolon tuskaa, hurmeen virtanaan
+    hetteistn vuotaessa, silmt sulkisin!
+
+KUORONJOHTAJA.
+
+    Oi neito, tuiki onneton ja samalla
+    niin viisas! puhuit pitklt. Jos kohtalos
+    todella tiedt, kuinka kyt niin tyynesti,
+    kuin teuras talutettu, uhrilietes luo?
+
+KASANDRA.
+
+    Mit' auttais vitkastus? Ei vitteen varaa oo?
+
+KUORONJOHTAJA.
+
+    Mut arvataanhan viime hetki kalleimmaks.
+
+KASANDRA.
+
+    On tullut aikani. Enp hytyis pa'osta.
+
+KUORONJOHTAJA.
+
+    Vaan tied: uhka-urheutes sun hukkaan vie.
+
+KASANDRA.
+
+    Mut kuolla kunniall' on kaunist' ainakin.
+
+KUORONJOHTAJA.
+
+    Ei tmmist' onnellisten kuulla lausuvan.
+
+KASANDRA.
+
+    Oi is parka! jaloja lapsi raukkojasi
+    lhenee porttia, mutta ei hirvi menn.
+
+KUORONJOHTAJA.
+
+    Mik' arveluttaa? kammo sinua knnytt?
+
+KASANDRA.
+
+    Oi voi!
+
+KUORONJOHTAJA.
+
+    Mit voivotat? jokinko mielts hirvitt?
+
+KASANDRA.
+
+    Nuo majat hnk murhan hurmehuurretta.
+
+KUORONJOHTAJA.
+
+    Oi eihn! Suitsutus vain hyryy liesilt.
+
+KASANDRA.
+
+    Nenni nousee niinkuin kalman katkua.
+
+KUORONJOHTAJA.
+
+    Et linnaa kiit Syrian lemuvoiteista!
+
+KASANDRA.
+
+          Oi vierahat!
+    En syytt vaikeroi, kuin lintu sikhtin
+    pensasta.[143] Tm todistakaa mun haudallain,
+    kun nainen naisen thden kaatuu, thteni,
+    ja surmiksensa naineen miehen thden mies!
+    Tn palvelun ma pyydn teilt kuollessain.
+
+KUORONJOHTAJA.
+
+    Oi raukka! stty kohtalos mua itkett.
+
+KASANDRA.
+
+    Viel' itsestin ma mielin sanan virkahtaa.
+    Niin totta kuin nyt viime kerran auringon
+    steit katson, maksakoot mun kostajat
+    samoilla mitoin surman surmaajilleni,
+    vaikk' orjan kaasivatkin, halvan saaliin vaan!
+    Ah ihmiskohtaloita! Onnen suosion
+    voi varjo vaihtaa; onnenhukka pyyhkisee
+    kuin mrk sieni sielust' ilon kuvat pois.
+    ja tp katkerimmin koskee sydmmeen.
+    Vaan -- linnaan lhden itkemn Agamemnonin
+    ja omaa onneain. Oon kylliks' elnyt.
+
+                                      Menee sisn.
+
+KUORONJOHTAJA.
+
+          Ei kyltynyt onnehen milloinkaan
+          viel' ihmislaps'; ei linnojenkaan
+          komeain[144] ovilt' onnea ksket pois
+            evten: l ky sin meill!
+          Tosin taivas soi hnen[145] valloittaa
+                Priamon kotomaan;
+          jalon maineen saatua hn palajaa.
+          Vaan jos isien verisakkoja hn
+          saa suorittaa, soviteltava on
+            tapetuille murhia muiden,
+          kuka kerskannee tt kuullessaan:
+          min onnen hetken synnyin?
+
+AGAMEMNON (sisll).
+
+    Voi mua! ma iskun, kuoliniskun sain!
+
+PUOLIKUORONJOHTAJA.
+
+    Vaiti! kuka kuoliniskun saanehensa huudahtaa?
+
+AGAMEMNON (kuten ennen).
+
+    Voi voi mua taaskin! uuden iskun sain!
+
+KUORONJOHTAJA.
+
+    Ty jo nytt tytetylt; silt kuului kuninkaan
+    huuto. Keskustellaan sentn mik nyt ois tehtv!
+
+1:NEN KUORONJSEN.
+
+    Ma lausun teille tuumani: ett' avuksi
+    huudamme tnne linnaan kansalaisia.
+
+2:NEN KUORONJSEN.
+
+    Ei, rynntkmme oikopin -- niin arvelen --
+    kdess miekka sisn seikkaa tutkimaan!
+
+3:S KUORONJSEN.
+
+    Ma yhdyn samaan tuumahan ja tointa vaan
+    nyt ehdotan. Tpriss' ei auta viipy.
+
+4:S KUORONJSEN.
+
+    Se selv on, sill' alkavathan vehkeitn[146]
+    nuo, niinkuin hirmuhallitusta hommaten.
+
+5:S KUORONJSEN.
+
+    Me kuhnailemme. Mut ei torku noiden ks':
+    maineettomiin ne vitkailuksen polkevat.
+
+6:S KUORONJSEN.
+
+    En tied lausua, mi neuvo parhain ois.
+    Se neuvon antakoon, ken aikoo toimia!
+
+7:S KUORONJSEN.
+
+    Niin arvelen m mys; sill' enp ymmrr,
+    mitenk sanat kuolleen voivat virvottaa.
+
+8:S KUORONJSEN.
+
+    Henkemme vuoksko vistyisimme kartanon
+    hvisijit, herroiks' heidt tunnustain?
+
+9:S KUORONJSEN.
+
+    Ei, sit' ei sied! Parempaa on kuolokin.
+    Sen kohtalo tok' orjuutta on lievempi.
+
+10:S KUORONJSEN.
+
+    Vaan parkaisunko perusteihin nojaten
+    me arvaisimme sankarimme sortuneen?
+
+11:S KUORONJSEN.
+
+    Pois kiivastus nyt, kunnes varmaa tiedetn!
+    Sill' ei luulo selvn tiedon vertainen.
+
+KUORONJOHTAJA.
+
+    Sen tuuman varsin hyvksyn, ett' tarkalleen
+    me tiedustamme, Atreyn pojan laitoa.
+
+He aikovat astua linnaan, kun keskiportti aukenee ja sielt vieri
+esiin lava, sill Agamemnonin ja Kasandran ruumiit. Vieress seisoo
+Klytaimnestra.
+
+KLYTAIMNESTRA.
+
+    Vaikk' ennen puhuin, kuinka vaati kulloinkin,[147]
+    en ujoile nyt haastaa toiseen suuntahan.
+    Mitenp muuten, mieliess vahinkoon
+    vihollista, jok' ystvyytt teeskelee,
+    tuon saartais surman paulaan psemttmiin?
+    Ei -- vanhaan riitaan juurtuen t taistelo
+    tapahtui myhn, kauan suunniteltuna.
+
+    Nyt seison tss tillni, miss' iskun lin.
+    Niin toimitin -- sit'en m kiell -- ett hn
+    ei tainnut surmaa vltt eik torjua.
+
+    Kuin kalan verkkoon, kiedoin hnet viittahan
+    lvettmn, niin -- pukuun tuiki tuhoisaan.
+    Kahdesti iskaisen, kaks kertaa kiljaisten
+    hn hervotonna lysmht; viel' kolmannen
+    lyn iskun kaatuneesen lupauslahjaksi[148]
+    Manalle, vainajoiden armahtajalle.
+    Niin vaipui, henghtin hn viime huokuunsa:
+    rajusti hurme hurskahtaa ja vihmanaan
+    se tummaa vert prskhytt plleni,
+    jok' elvyn siit niinkuin kaste virvottaa[149]
+    nuort' elonkortta thkn olless' tupellaan.
+
+    Nin tapahtui se, Argoon ukot arvoisat.
+    Iloitkaa nyt tai surkaa! -- min riemuitsen;
+    ja jos ois kiitospalve sopiva kuolossa,
+    tss' ois se oikein, liian oikein kohdallaan.
+    Niin kirousta ja kurjuutta hn tyteen kaas'
+    sen maljan, jonka itse vihdoin juoda sai.
+
+KUORONJOHTAJA.
+
+    Me kummeksimme kielts herjan rohkeaa,
+    kun kuolleen miehes luona kehtaat kerskata.
+
+KLYTAIMNESTRA.
+
+    Mua kiusaatte kuin naista lyhytjrkist.
+    Mut sydn pelvotonna lausuu kumminkin,
+    min tiedtte jo -- kiittk tai moittikaa!
+    se yht mulle --: mieheni Agamemnonin
+    t ruumis on, ty jonka kteni suoritti
+    aseena oikeuden. Niin sen laita on.
+
+KUORO. (skeist.)
+
+          Min sit myrkyn, kyy?
+          maan kasvamanko, sytvn?
+          Vai veden tuomanko? Raivosi hurjuudess'
+          et kiroustakaan kansasi peljnnyt,
+    pois syksit,[150] surmasit. Maas sun karkottaa,
+                ihmisten iki-inhon!
+
+KLYTAIMNESTRA.
+
+    Maanpakohonko tuomitset mun, krsimn
+    ihmisten inhon, kansan kiroushuutoja;
+    etk' ennen tuota miest yhtn moittinut,
+    vaikk' yht huoleti, kuin lampaan teurastaa
+    mies, jonka laidun villakarjaa vilisee,
+    hn oman lapsens' uhras, syntykipuni
+    suloimman saalaan, pohjoistuulta tyyntkseen!
+    Maast' ajettavas eiks ollut ois se mies
+    tekonsa hijyn sovitteeks? Mut kuullessas
+    mun tyni, tuima tuomar' olet. Neuvon vaan
+    sua uhkaamaan, jos varustettu voitolla
+    on ktes hallitsemaan mua samaten
+    kuin mun on. Vaan jos toisin salli jumala,
+    saat vanhaks tultuaskin mielt oppia.
+
+KUORO. (vastaskeist.)
+
+          On isot aikehes,
+          ja povesi rajuna riemuitsee;
+          kun tapot onnestui, hurjana herskut nyt,
+          ja veripirska -- hyi! -- kiiltvi otsallas:
+          siit' tili tekev oot. Kaikkein hylkyn
+                maksat kohluja kohluin.
+
+KLYTAIMNESTRA.
+
+    No, kuuleppas nyt minunkin valani lausetta!
+    Niin totta kuin mun lapseni kuolon kostikin
+    Dike, ja mieheni uhrasin Erinnyille,[151]
+    ei pelvon vilahdusta astu suojiini,
+    niinkauan kuin Aigisthos hoitaa valkiaa
+    mun liedellin, mua hellien kuin hellii hn.
+    Hn mulle aimo uskalluksen kilpi on.
+
+    Siin' on nyt kellelln tuo vaimons' solvaaja,
+    Chryseen tytrten, troiatarten lemmitty,
+    ja vieress' sotasaalis, enteenkatsoja,[152]
+    yn unten selvittj, armas hellukka,
+    mi virui hnen vierellns teljoilla
+    laivassa, Nyt he perivt palkan ansaitun.
+    Kas, siin' on mies, ja tuoss' sen lempilintunen,
+    iknkuin joutsen kuolinkaihon svelt
+    laulettuansa, lep. Oivan mausteen hn
+    mun patjahekkumallein sill valmisti.
+
+VUOROLAULU.
+
+1:NEN KUORORIVI. (1:nen skeist.)
+
+    Oi tule, tuoni, pian, runtelematta mua
+    tautivuoteella kauan!
+    Mun unta suo keskeytymtt
+    nukkua aina, kun sortui meilt
+    maan hyv paimen, tultuaan
+    naisen vuoks krsimn. Nainenhan
+    hengenkin hlt on nyt ottanut.
+
+KUORONJOHTAJA. (2. skeist.)
+
+    Helene, pahan mainehes syyst s sait!
+    Mont' urhoa Troian luo hukutit,
+    mont' ihmishenke yksin.
+    Perinpohjin nyt [tuhotys sin teit?]
+
+-- -- -- -- -- -- -- -- -- --[153]
+
+KOKO KUORO. (3. skeist.)
+
+    Ei veri unhotu, prskym plles lhde.
+    Linnallen olit silloin[154]
+    sa urojen hukka, kiistanhenki.[155]
+
+KLYTAIMNESTRA. (4. skeist.)
+
+    l kuoloa kohtalonas ikvi,
+          tt[156] raskaksuin;
+    Helenaan l knn mys vihojas,
+    muka surmaajaan, joka yksin mont'
+    uronhenke hukkasi kansaltas,
+    surun tuottain vertoja vailla!
+
+1:NEN KUORORIVI. (1. vastaskeist.)
+
+    Henki, jok' ahdistat linnaa ja Tantalon
+    sukua, velje kahta,
+    siis naisellen valmistit sa voiton
+    katalan, syntni vihloavan.[157]
+    Niin kuni kaarne raateljas
+    vainajan pll' ylvstin seisoo hn,
+    riekkuen: "riemu syyst raikukoon!"
+
+KLYTAIMNESTRA. (4. skeist.)
+
+    Osavammin nyt sanans' ohjasi suus,
+          nimetesssi tuon
+    iki ahman perheemme vaanijan,[158]
+    joka sen ytimiss' verennlk ain'
+    eltt: siks' vertyvi vamma uus',
+          vaikk' ehjn ei ole vanha.
+
+2:NEN KUORORIVI. (5. skeist.)
+
+    Linnassa temmeltvn
+    lausuit hirven kostohengen.
+    Ah voi! tarinaasi synkk
+    turmiosta mi koskaan
+    ei kylly! -- Zevs sen salli, hn
+    ken kaikki johtaa, toimittaa.
+    Mit' ilman Zeyt ihmisille sattuu?
+    Mik' ei nist' ole taivaan tit?
+
+KUORONJOHTAJA. (6. skeist.)
+
+    Kuninkaani voi! kuninkaani voi!
+          Miten itkenen sua?
+          Mit rintani rakkaus lausuis?
+    Lukin seittiin kietoutui elms,
+          kiro-murhasta henkesi heitit.
+
+KOKO KUORO. (7. skeist.)
+
+    Voi murhavuode, kun levon kurjan soi
+    Kavalasti surmas sun[159]
+    vaimosi viiltm kaksois-haava.
+
+KLYTAIMNESTRA. (8. skeist.)
+
+    Tmn tyn tekijks' mua soimaat siis.
+                l nin puhuen
+    sano mua Agamemnonin vaimoks vaan!
+    Ei! vanhapa "kostaja" -- kestitsijn
+    tylyn, Atreyn nostama -- hirve tuo,
+    kuningattaren haamussa ilmestyin,
+                sovitukseks tuon
+          ison uhrasi pienien eest.
+
+2:NEN KUORORIVI. (5. vastaskeist.)
+
+    Ken todistaa sua vois
+    viattomaks' thn murhatyhn?
+    Ken? Lie suvun kostonhenki
+    suonut mys apuansa.
+    Heimosten hurmetulvissa
+    ky synkk Ares[160] rynnten;
+    miss' astuneekin, toimeen surmatyn
+    nin laps'synti kostaaksensa.
+
+KUORONJOHTAJA. (6. vastaskeist.)
+
+    Kuninkaani oi! kuninkaani oi!
+          Miten itkenen sua?
+          Mit rintani rakkaus lausuis?
+    Lukin seittiin kietoutui elms,
+          kiro-murhasta henkesi heitit.
+
+KOKO KUORO. (7. vastaskeist.)
+
+    Voi murhavuode, kun levon kurjan soi!
+    Kavalasti surmas sun
+    vaimosi viiltm kaksois-haava.
+
+KLYTAIMNESTRA. (8. vastaskeist.)
+
+    Ole vai! talohon veti turmion tuo
+          kavaluudellaan!
+    Jos taimeni mullen tuost' ylennyt,
+    sulo Ifigeneia, jot' ain' ikvin,
+    isltn koki julmaa, julmaa mys
+    kokekoon is! kalvan lymn nyt
+          sovittain tihotyn
+    Manalass' isotelkoon siit!
+
+3:S KUORORIVI. (9. skeist.)
+
+    No tartuinhan vaikeaankin pulmaan!
+    Neuvoa, kunne kntyis,[161]
+    ei keksi ly, huonehan jo horjuu.
+    Jo rankan ver'-satehen linnan kaatavan
+    ma varon, kun lakkas vihmapirske.[162]
+    Jo Dike sieraan uuteen hioo asettaan:
+          hll' ollee mieless' uusi turma.
+
+KUORONJOHTAJA. (2. vastaskeist.)
+
+    Oi maa, josp' oisit ktkenyt mun
+    povehes, enk' ois hnen vuodettaan
+          hopeaisess' ammeessa nhnyt!
+    Kuka hautaan vie hnet, itkevi hnt'?
+    joko julkenet sie, oman surmattuas
+    uros, itkien viett peijaisiaan,
+    vale-lempe sielulleen osottain
+    sovittaa pedontytsi vrin?
+
+KOKO KUORO. (3. vastaskeist.)
+
+    Ken jalon sankarin haudalla hlle lausuu[163]
+    vilpittmll mielin
+    kiitokset itkua vuodatellen?
+
+KLYTAIMNESTRA. (10. skeist.)
+
+    Siit' ei sovi lausua huoltasi sun:
+          _mun_ lymn hn
+    sai surman, mie hnet hautaan mys,
+    ehk' ei kotolaiset itkekn,[164]
+    Kyll' Ifigeneiakin, kohdatessaan
+          tytr taattonsa siell'
+    suruvirran[165] vuolteilla, hellsti, niin
+          kuni kohtuus on,
+    hnet suudellen helmaansa sulkee.
+
+3:S KUORORIVI. (9. vastaskeist.)
+
+    T solvaus solvaisun on palkkaa;[166]
+    tuomio tuskallist on.
+    Hn lyjn li, murha kosti murhan.
+    Niin kauan kuin seisoo Zevs, hn snnn ss:
+    jos pahoin teet, pahoin ky sun. Niin on![167]
+    Ken talost' ajais lapsen pois, ken kiskaltaa
+    vois renkaan heimovitjast' irti?
+
+KLYTAIMNESTRA. (10. vastaskeist.)
+
+    Kas, siin' lysit tosi lauselman![168]
+          Ja siksip mie
+    Pleistheniidein[169] kostonhengelle teen
+    valan, ett' osahain olen tyytyv, jos
+    kovahankin, kun tyly tst'edes vaan
+    talon jttvi, lhtien heimoa muut'
+    vlinisill murhilla murtelemaan.
+          Enp riistojakaan
+    kysy suuria, kunpahan linnasta vaan
+          iks' karkoittaa
+    sukumurhan vimman ma voisin.
+
+Aigisthos tulee, ylln kuninkaanpuku, aseellisia seuranaan.
+
+AIGISTHOS.
+
+    Oi kostopivn kirkkaus sa riemuisa!
+    Nyt tiedn, ett taivahasta katsellen
+    maan plle jumal' ihmisharhat rankaisee,
+    kun kostotarten kutomissa verkoissa
+    ma riemumielin nn tuon miehen makaavan,
+    isns kden ilkijuonet korvaten.[170]
+
+    Maan kuningas tll, Atrevs, tmn is nt --
+    nyt tarkoin kaikki kertoaksein -- karkoitti
+    kotoa, kansan keskelt' isni, veljens
+    Thyesteen, kun he valtikasta kiistivt.
+    Palattuansa parka turvaa pyyten,
+    Thyestes turvan saikin eik tarvinnut
+    kotonsa multaa hurmehellaan verist.
+    Mutt' teeskennellen riemupivn vietnt
+    tuon herja is Atrevs, elki mielessn,
+    asetti kohteljaasti isni rehen
+    tn omain lasten lihaa -- herkku-ruoaksi,
+    kun varpahat ja ktten krjet silponut
+    ja ktkenyt ol' yksin istujalta pois.[171]
+    T pahaa arvaamatta ryhtyi paistihin
+    ja si -- sukunsa vaurioksi, niinkuin nt.
+    Havaittuansa sitte tyns hirmuisen,
+    hn kiljas, syksyi seljin, oksens murhakset,
+    ja vannoin hirmusurmaa Pleistheniideille
+    kiroopi vieraspydn pyhn poljentaa:
+    "Pelopsin koko heimo samoin sortukoon!"
+
+    Kas, nist syist kaatuneena net nyt tuon.
+    Ja tysin syin ma murhatuumaa sommitin;
+    sill' is raukan kanssa karkoitettiin mys
+    ma kolmas laps' kapaloihin viel kritty.
+    Vaan kun ma miestyin, Dike toi mun tnne taas.
+    Jo ulkomailla tuota miest tavoitin
+    ja juonta hlle sommitin jos montakin.
+    Nyt kuolokin vois nytt mulle hauskalta,
+    tuon Diken paulaan tarttuneena nhtyin.
+
+KUORONJOHTAJA.
+
+    Aigisthos, ei saa onnetonta pilkata!
+    S kerskaat varsin tappaneesi miehen tn,
+    tuon itkettvn murhan yksin harkinnees.
+    M sanon vaan: sun phs tilin pivn
+    iskeepi kansan kirous ja kivitys.
+
+AIGISTHOS.
+
+    Noin lrpttk, alihankaa soudellen,
+    vaikk' istuu laivaa ohjaamassa perimies?
+    Viel' ukkonakin nhd saat, kuink' ikv
+    on vanhempana soukkaa suuta oppia.
+    Mut oivat ihmeentekijt on vankeus
+    ja nln vaiva vanhoihinkin oppiaan
+    teroittamaan. Kuink' et sa tervein silmin n?
+    l potki vastoin tutkaint', ettei pist tuo!
+
+KUORONJOHTAJA.
+
+    S mm, muiden olless' sotaretkell
+    kotona viruit, aviovuoteen raiskasit!
+    Tn murhan mietit sotajoukon herralle!
+
+AIGISTHOS.
+
+    Viel' itku it sulle noista nuhteistas.
+    Sun kieles aivan toisin soi kun Orfevsin:
+    hn laulun viehkkeell kaikki kiinnitti;
+    s joudut itse kiinni, jos viel' rsytt
+    mua haukunnallas. Kylls viel pehmit!
+
+KUORONJOHTAJA.
+
+    Vai sinustako paisuis Argoon valtias,
+    joka vainajalle harkittuas murhatyn,
+    sit' omin ksin toimittaa et rohjennut!
+
+AIGISTHOS.
+
+    Olihan selvn naisen tointa vietell
+    tuo paulaan. Vanhaks vihaajaks mua epiltiin. --
+    Mut tst puolin koetan kansaa hallita
+    tuon tavaroilla. Kirelle valjastan
+    ma niskurit, etteivt aisan vieress
+    ne kirmaa liikaa sytyn. Kai nlk pian
+    ja kolkko pimeys niilt niskan nyrist.
+
+KUORONJOHTAJA.
+
+    Mut miks et itse, kurja raukka, riistnyt
+    sa sankarilta henke, vaan puoliso
+    maan jumalain ja kansan kauhuks surmas sen?
+    Vaan kyll' Orestes el viel jossakin,
+    ja onnen turviss' tultuansa kotihin
+    hn voitollisna tappaa teidt kummankin.
+
+Kasandran ja Agamemnonin ruumiit poistetaan nkymlt.
+
+-- -- -- -- -- -- -- -- -- --
+
+KUORO.
+
+    Kohta nhtnee, kuink' aiot uhkaukses tytell.
+
+AIGISTHOS.
+
+    Yls oivat aseveikot! tss' ei toimi kaukana.
+
+KUORONJOHTAJA.
+
+    Hei, siis kalpa kourahan ja valmis olkoon joka mies!
+
+AIGISTHOS.
+
+    Enp miekn, miekka kiss, totta kammo kuolemaa.
+
+KUORONJOHTAJA.
+
+    Kuole vain! Sen sanoit oikein. Koetellaanpas onnea!
+
+KLYTAIMNESTRA (astuu esiin).
+
+    Ells suinkaan, armas urho, en pahaa kylvk!
+    Onhan ennestnkin laiho korjattava kurjakin.
+    Krsimyst' on kyllin saatu; elkn verta vuotako!
+    ja te ijt, kotikorsuun menk kukin, ennenkun
+    pahaa tehden pahan ntte. Meidn tytyi tehd nin.
+    Jos ois taudin lievikett, kyll' ois siihen turvattu,
+    vainoojan kun koura meit' on surkeasti runnellut.
+    T on naisen mielipide, jos se kuulla kelvannee.
+
+AIGISTHOS.
+
+    Vaan kun suotta soimausta noin ne syyt silmillein,
+    onnen ptst' odotellen eksyvt noin maltistaan,
+    herjaten mua valtiastaan -- sit' en jaksa krsi.
+
+KUORONJOHTAJA.
+
+    Argoolaisten ei tapa mairitella konnaa, ei!
+
+AIGISTHOS.
+
+    Annas ijn menn tulla -- viel niskas notkistan.
+
+KUORONJOHTAJA.
+
+    Et, jos onnetar Oresteen ohjaa tnne saapumaan.
+
+AIGISTHOS.
+
+    Tiednhn maankarkulaisten toiveistansa elvn.
+
+KUORONJOHTAJA.
+
+    Paisu, turvo, maahan survo oikeutta, saadessas!
+
+AIGISTHOS.
+
+    Tied, herjaukses saat s viel kerran sovittaa.
+
+KUORONJOHTAJA.
+
+    Keikaile nyt uljastellen, kukko kanas kyljess!
+
+KLYTAIMNESTRA.
+
+    Mits tyhmin haukunnoista! Linnan haltioina me
+    kahden kaikki jrjestmme oikealle tolalle.
+
+Kaikki poistuvat nkymlt.
+
+
+
+
+Viiteselitykset:
+
+
+[1] Nit y.m. sadun piirteit Aischylos ei ny lukuun ottaneen.
+
+[2] Nit y.m. sadun piirteit Aischylos ei ny lukuun ottaneen.
+
+[3] Agamemnon oli luvannut vuorten huipuille viritetyill valkeilla
+lenntt kotia sanoman voitostaan.
+
+[4] Oikeastaan kuvapuhe: "hrk multa sulkee suun".
+
+[5] Nit jumalia palveltiin korkeitten vuorien huipuilla.
+
+[6] Aleksandros s.o. Paris.
+
+[7] Pariin ja Helenan hiss ei polttouhrit ottaneet hyvin
+syttykseen, joka ilmaisi jumalien mielipahaa.
+
+[8] Nin Troiakin aarteineen sai kki-hukan, kun iloitsi luullen
+Achailaisten jo lhteneen.
+
+[9] Oikeastaan: "Laula _ailinos_ j.n.e." Linos laulajan tai
+nuorukaisen surullisen kuolon johdosta syntyi ailinos niminen laulu,
+joka tss merkinnee vaan yleens suruvirtt. _Tietj_ = Kalchas.
+
+[10] kuolaimet = Achailaisten sotajoukko.
+
+[11] Viittaus siihen, ett Artemis on vihainen Atreideille, joitahan
+nuo kotkat osottavatkin.
+
+[12] _Paian_ on Apollon lkejumalana.
+
+[13] Kalchas, kreikkalaisten ennuspappi.
+
+[14] Mailmassa vallitsee korkea siveyden laki, jota Zevs edustaa. Hn
+rankaiseekin parantaakseen meit, armosta. Se ajatus lohduttaa kuoroa.
+
+[15] Uranos.
+
+[16] Kronos.
+
+[17] _Silloin_: Argoosta lhdettaiss.
+
+[18] Euboian salmessa. .
+
+[19] _Strymonista_; Thrakiasta. Se oli pohjoismyrsky.
+
+[20] herra: Agamemnon.
+
+[21] Kunnianhimon tielt alkavat isntunteet visty.
+
+[22] Ensimmist surkeaa harha-askelta seuraa yltymys rohkeuteen,
+hurjuus, paatumus -- hukka.
+
+[23] "sahraminkellerv" viitta.
+
+[24] kaunis ja puhumaton kuin kuva.
+
+[25] _kaino_, ei mikn lepakko laulajanainen.
+
+[26] _Dike_, oikeuden jumalatar.
+
+[27] Klytaimnestra oli kutsunut vanhukset kokoon, ilmoittaakseen
+heille hauskan tiedon.
+
+[28] joka _siivetnnkin_ lent nopeasti. Ivalla sanottu
+
+[29] _Hefaistos_: tulen jumala, Panu. Agamemnon oli luvannut
+tulimerkeill ilmoittaa Troian valloituksen kotia (kts. v. 8).
+Tuliviestin lentoa vuorenhuipulta huipulle kerrotaan tss nyt.
+_Ida_: vuori Troian likell.
+
+[30] _Athos_ vuori Chalkidiken niemell.
+
+[31] _Makistos_: pohjois-Euboiassa.
+
+[32] _Messapion_: itisess Boiotiassa.
+
+[33] _Kithairon_: etel-Boiotiassa.
+
+[34] _Gorgopis_: Megariin kaakkoisosassa.
+
+[35] _Aigiplankton_: liki Isthmoa.
+
+[36] Asiaa verrataan jumalain juhlissa tapahtuvaan soihtujuoksuun,
+jolloin juostiin kilpaa palavat soihdut kilvissn ja se voitti, ken
+ensin psi perille, soihtunsa sammumatta.
+
+[37] Kirpelhk vastaus kysymykseen edell skeess "Mut onko tuosta
+todistus sull' erheetn?"
+
+[38] Kilparata eli "diaulos", kaksoisrata: oli juostava rata
+edestakasin. Retki Troiaan oli radan ensi puoli, paluu sielt sen
+jlkipuoli.
+
+[39] Klytaimnestra erottaa keskenn vainajain kostohenkien tuottamat
+rankaisut ja "muun turmion", s.o. merimyrskyt ja muut vastukset
+paluuretkell.
+
+[40] Kuoro luulee tss toivotettavan sotajoukolle onnellista
+kotiintuloa, vaan Klytaimnestra ajattelee aivan toista. Salajuonen
+onnistuminen olisi hnen "nautintonsa."
+
+[41] _Hn_: Paris.
+
+[42] Kuoro uskoo, Solonin mukaan, ett rikkaudesta syntyy kyllstys,
+ylpeys ja ryhkeys, joka loukkaa jumalia ja vie vkivallan tekoihin,
+mist koituu kosto ja kurjuus viel ryhkeilijn jlkelisillekin.
+
+[43] _T_: Helena. -- _Tietjt_: Helenos ja Kasandra.
+
+[44] _ruhtinas_: Menelaos kaiketi. (Kohta nytt olevan
+lukuparsiltaan pilalla).
+
+[45] Hellaan ht ja sen ruhtinaita uhkaava turmio.
+
+[46] _Ares_, sodanjumala, harjoittaa ruumiskauppaa, saaden elvi
+ruumiita ja antaen ne tuhkana takasin uurnoissa, joita hnell on
+lajiteltu varasto. Niiss ei ole kultahiekkaa. Vaakamaljoissaan
+punnitsee hn elm ja kuolemaa.
+
+[47] _ruhtinaan_; vrt. [44].
+
+[48] Viittaus Klytaimnestraan. --
+
+[49] Python valtias: Apollon, joka suojeli troialaisia ja ampui
+Achillevsinkin. Ruton nuolilla hn mys kaasi kreikkalaisia Troian
+luona.
+
+[50]. Hermes on jumalien airut.
+
+[51] Vanhat sukusankarit, heerokset (Danaos, Pelops, Persevs, Adrastos
+y.m.) seurasivat viel vainajinakin -- niin uskottiin -- hartaalla
+myttunnolla ja avulla jlkelistens toimia.
+
+[52] _pyht istuimet_: kuningasten kunniasijat kansankerjiss. =
+Aamuaurinko heijasti juuri jumalankuvain (Apollon Agyievs'in y.m.)
+kasvoilta.
+
+[53] "Maksakaa valosta valoa!" -- Isnnn, valtiaan poissa ollessa on
+iknkuin y pimentisi kotoa ja kansaa.
+
+[54] s.o. Zevn salamalla.
+
+[55] Metafora: tulomme voittaa menot; murhe ei vastaa puntarilla ilon
+painoa.
+
+[56] Airut mainitessaan templeihin annettavia lahjoja ("anathemata")
+ajattelee niille sopivaa omituskirjoitusta.
+
+[57] Katselija saattoi tss ajatella Manalan porttia.
+
+[58] Pian hn oli nyttv osaavansa tavallaan senkin keinon --
+verell vrjt vaskikalpaa!
+
+[59] Kuoro ivailee, tajuten miten paljo tosiper tuossa puheessa on.
+
+[60] Sodan kaksoisvitsaus (sota ja rutto?) ly valtiota ja yksityist.
+
+[61] Nim. ukonsalama ja merenmyrsky -- s.o. pohjoistuuli.
+
+[62] Laivat ovat sarvikarja, jota paha paimen, rajutuuli kaitsee.
+
+[63] _varasti_: veden ja valkean vallasta.
+
+[64] _Onni_: onnen hengetr.
+
+[65] _Ahdin_: oikeastaan Meri-Hadeksen.
+
+[66] Airut vntelee ja kntelee sanojansa, uskotellakseen
+toivovansa ett Menelaos viel palajaa ja peitellkseen pelkoansa.
+
+[67] Nill sanoilla on koetettu sepitt jotakin vastaavaa
+alkuteoksen, suomentajalle miltei mahdottomalle sanapilalle Helenan
+nimell: Helenaus, Helandros, Helepiolis = "laivain-, miesten
+kaupungin hvittj." Suomentaja ei uskaltanut sanoa: "heimonsa
+_helvetti_." Nomen est omen.
+
+[68] Kedos = huoli; ht. Sanapila.
+
+[69] Paris ja Helena vastaanotettiin Troiassa ilolaululla, joka
+sitten muuttui suruvirreksi.
+
+[70] Vanhan on vaikea oppia!
+
+[71] Priamoa ja Hekabea miellytti kaunis minins.
+
+[72] _turmion_: oik. "Aten". Hirvin tappamat ovat uhria Atelle.
+
+[73] s.o. Helena.
+
+[74] Silmien lempinuolet sattuivat miesten sydmmiin.
+
+[75] Ken mielisi kuolla lapsetonna? Rikkauden lapsi on hekuma,
+ylpeys, lankeemus.
+
+[76] Kuoro (= runoilija) ei hyvksy vanhaa luuloa, ett jumalat ovat
+katehet lahjoistaan. Pahuus vaan siitt turmion, hurskaus onnen --
+ajattelee hn.
+
+[77] _ilkity_: "hybris", ryhkeyden rikos.
+
+[78] _vainotar_: "Ate", hybriin siki. Sen kokivat trojalaiset, eivt
+voineet vltt koston tuhoa.
+
+[79] _Dike_: hybriin vastakohta.
+
+[80] _Helenan vuoksi_: niin huonosta syyst.
+
+[81] Ilion kohtalo ratkaistiin muka jumalien krjiss.
+
+[82] _hiisi, vainovarsa_: vihjaus kuuluisaan puuhevoseen.
+
+[83] _urhojoukko, leijona_: originaalissa sanapila: kansa (leos)
+muuttui kki jalopeuraksi (leon). -- Seulaisthden lasku = yll.
+
+[84] Vastaus skeesen edell "kuka tointaan tarkoin tyttnyt on."
+
+[85] = tyhj peilikuva. Arvaamattansa Ag. kuvaa oman puolisonsa
+luonnetta.
+
+[86] Tekij ilmaisee Athenan kansalaisen tasavaltaisia mielipiteit.
+
+[87] Klytaimnestran puhetta voi tsskin ymmrt kahtalaisesti: voi
+ajatella hnen tarkoittavan joko Aigisthoa (kuten kuoro sen ksitti),
+tai Agamemnonia (kuten hn itse tahtoi ymmrrettvn).
+
+[88] Ers 3-ruumiinen satuhirvi. Agamemnon olisi tarvinnut monta
+kertaa kolme ruumista, kun hoettiin niin usein kuolleeksi.
+
+[89] Infernum letum. Klytaimnestra ilmaisee salaisimmat aatoksensa.
+
+[90] Kansa ei sied ylimysten valtaa. Aischylon demokratiaa.
+
+[91] Silmt oli rietas elm himmentnyt.
+
+[92] Hn ajattelee sydmessn Manan toivotonta "linnaa". Vnkelt
+ja haeksitut sanat, samoin kuin edelliset ylenmriset ylistelyt
+aavistuttavat takatarkoitusta.
+
+[93] Agamemnon kaipaa puolisonsa korupuheissa, joita hn
+leikillisesti moittii, enemmn vilpitnt tunnetta.
+
+[94] "Jumalat ovat kateet!"
+
+[95] Ei asetappelu eik sanakiista.
+
+[96] _turmelemaan_: ei mattojen takia, mutta herttmll
+kateellisten jumalain mielipahaa.
+
+[97] Talo on tyhjenemttmn rikas kuin meri -- kerskaa hn.
+
+[98] _tn_: kahdamielisesti sanottuna voi mys merkit hnt itsen.
+
+[99] Kuorolaulu muuttuu ihan kuin itsestn ennusvirreksi.
+
+[100] Auliin rannasta lhdettiss.
+
+[101] Ettei heit liika paljon eik liian vhn.
+
+[102] Huonetta kuvataan metaforisesti laivaksi.
+
+[103] Ifigeneian uhraus on kuoron pelon aiheena. Se on parantumaton
+vamma, seurauksiltaan tuhokas.
+
+[104] Asklepios hertti kuolleita, kunnes Zevs iski hnet nuolellaan.
+Luonnon ikijrjestys pysyy.
+
+[105] Kuoro ei rohkene lausua pahoja aavistuksiaan.
+
+[106] _juhlahan_: oik. ktten pesijisiin, joka kvi juhla-atrian
+edell.
+
+[107] _saaliinsuojan_: Zevsin. Neito oli itse uhriksi aiottu.
+
+[108] = Herakles.
+
+[109] arkhaiploutoi ja neploutoi.
+
+[110] "Min tunnen emntsi: ei hn ole niin lempe kuin milt
+nytt."
+
+[111] Helleenien korvissa muukalaiskielet kuuluivat pskyn (tai
+papukaijan) pakinalta.
+
+[112] _otus_: siis huimapinen, ksy.
+
+[113] Apollon on valon ja ilon jumala.
+
+[114] Sanapilaa katkerassa mieless. Oikeastaan: "Apollon, joka
+turmelit mun" (apollon hemos).
+
+[115] Orestes.
+
+[116] _T_: Agamemnonin murha; _toiset_: Thyesteen kamala atria.
+
+[117] Hn on nkevinn, kuinka Klytaimnestra hommaa miestn
+kylvettin.
+
+[118] _tuonelan verkko_ ss.: Klytaimnestran salajuonten kudos
+miehens turmioksi.
+
+[119] _parvi_: Erinnyt, kostonhenget.
+
+[120] = mies ja vaimo orakelin kieless.
+
+[121] Orakeleista mieli vaan hmmentyy; vasta asian oma pts antaa
+selvn tiedon.
+
+[122] _sin_: kuoro.
+
+[123] _tuo_: Agamemnon.
+
+[124] Satakieli oli tarun mukaan alkuaan nainen, Filomela, joka
+muutettiin linnuksi, kun hnen poikansa, Itys, kuoli surullisen
+kuoleman; viel lintunakin hn valittelee poikaansa, huutaen "Itys,
+Itys!"
+
+[125] Er. virta Troian luona.
+
+[126] _silloin_: ennen Pariin ilkityt.
+
+[127] Manalan virtoja.
+
+[128] Sille ei kelpaa juhlajuomaksi rypleen mehu.
+
+[129] Atrevsin rikos.
+
+[130] Thyesteen rikos (kts. johd.).
+
+[131] Attikan oikeustojen edess vannoi todistaja, ollakseen
+ptinen, ern "ennakkovalan".
+
+[132] Loksias = Apollon.
+
+[133] Kasandra on nyt saanut tahtonsa: kuoro uskoo hnt.
+
+[134] _leijonan_: Aigisthos.
+
+[135] Uusi ennuspuuska kipuineen.
+
+[136] _Sudensurmaaja_: Apollo "Lykaios"; Lykos, susi. Sanapilaan kts.
+seur. _susi_: Aigisthos.
+
+[137] _ilkuksein_: kun niist ei ole minulle apua.
+
+[138] Troialaisilta, jotka eivt uskoneet hnt, vaan pilkkasivat
+hulluksi.
+
+[139] eli: mun ilmeisesti syyttmn krsivn.
+
+[140] Orestes.
+
+[141] _harjakiven_: iknkuin rikosten rakennukseen.
+
+[142] "niin minkin sulkeudun samaan tuomioon".
+
+[143] _pensasta_: siell piilev vihollista, _tm_: ett kuolin
+pelkmtt.
+
+[144] _komeain_: "sormin osotettavien".
+
+[145] _hnen_: kuninkaamme.
+
+[146] Kuoro arvaa Kasandran puheista, ett se on Klytaimnestran ja
+Aigisthon tointa yksiss juonin. Aischylon vapaavaltainen mieli
+ilmenee tsskin.
+
+[147] Klytaimnestra puhuu aluksi jotenkin tyynesti, mutta yltyy
+vhitellen hurjan intoisaksi.
+
+[148] Agamemnon voi nyt en odottaa armoa vaan manalaisilta! Ivaa.
+
+[149] Murhaaja sovittaa itseens kauniin vertauksen pirullisen
+kauheasti.
+
+[150] _syksit_: Oresteen, _surmasit_: Agamemnonin.
+
+[151] _Dike_ Oikeuden jumalatar; _Erinnyt_ kostottaret.
+
+[152] Katkeralla vihalla kasailee Klytaimnestra nimityksi
+Kasandralle ajatellen: virukoot viel kuolemassakin vieretyksin!
+
+[153] Alkuteoksessa aukko, jonka alkuperist sislt helpompi
+arvata kuin varmaan tiet.
+
+[154] _silloin_: jo Atridein luo tultuaan oli Helena salasyyn ja
+aiheena Agamemnonin tulevaan perikatoon.
+
+[155] _kiistanhenki_: "Eris".
+
+[156] _tt_: omaa tuhotytns hn tarkoittaa.
+
+[157] hnen henkens mukaisen, s. o. katalan, kuten kaarneen on
+voitto ja voittokulu.
+
+[158] Klytaimnestra kaunistellen tekoaan, lykk sit "deemonin"
+syyksi, jonka ksitett hn vrentelee toiseksi kuin mit kuoro
+tarkoitti, vrt. seur. 8. skeistn "sano mua..."
+
+[159] Kuoron korkeampi ksitys "deemonista"; sill ei saa puolustaa
+konnantit.
+
+[160] _Ares_: sodanjumala.
+
+[161] Klytaimnestran sofistiikka panee kuoron ymmlle: Klytaimnestra
+on (nennisesti) oikeassa, kun kosti pahan pahalla, harjoitti
+selv oikeutta. Se vain tuntui niin oudolta, ett rankaisu tuli
+_sieltpin_, oman vaimon kdest.
+
+[162] _pisaroiminen_ ennustaa suurempaa sademyrsky. Myrskypilven
+takaa vlkkyy jo Oresteen miekka.
+
+[163] _epitofios lgos_ oli runoilijan ajan tapaa.
+
+[164] Heidn osaa ottamattakin. Ajatus lienee tydennettv: Eik
+Argoon kansalaiset tule olemaan saapuvilla.
+
+[165] s.o. Tuonelan virralla.
+
+[166] Kuoro mynt ett "jalo sankari" on hnkin tehnyt "solvaisun",
+moitittavan tyn. --
+
+[167] Rikoksen siki on kosto. Klytaimnestra ajattelee tuoksi
+sikiksi tytrtns; katselija saattaa luulla sill tarkoitettavan
+Oresteen tulevaa kostoa. Hmryys on tahallinen.
+
+[168] "tosi lauselman": oik. orakelilauseen. Aavistamattansa hn
+sill sanalla vahvisti todeksi, ett Orestes oli tuleva.
+
+[169] Pleistheneen suku = Atreyn suku.
+
+[170] Aigisthos jtt mainitsematta, ettei Thyesteskn ollut
+suinkaan viaton, hn kun oli vietellyt veljens vaimon.
+
+[171] Nyttkseen jlestpin vieraalleen, mit t oli synyt.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK AGAMEMNON***
+
+
+******* This file should be named 53137-8.txt or 53137-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/3/1/3/53137
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,2186 @@
+The Project Gutenberg EBook of Ajas, by Sophokles
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Ajas
+       Szomorujtk
+
+Author: Sophokles
+
+Translator: Gergely Csiky
+
+Release Date: April 4, 2018 [EBook #56920]
+
+Language: Hungarian
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK AJAS ***
+
+
+
+
+Produced by Albert Lszl from page images generously made
+available by the Google Books Library Project
+
+
+
+
+
+
+AJAS.
+
+SZOMORUJTK.
+
+IRTA
+
+SOPHOKLES.
+
+GRGBL FORDITOTTA, BEVEZETTE S JEGYZETEKKEL KISRTE
+
+CSIKY GERGELY.
+
+BUDAPEST.
+
+FRANKLIN-TRSULAT
+
+MAGYAR IROD. INTZET S KNYVNYOMDA.
+
+1902.
+
+FRANKLIN-TRSULAT NYOMDJA.
+
+
+
+
+BEVEZETS.
+
+Achilles halla utn fegyvereit a hadi tancs, leginkbb Agamemnon s
+Menelaos befolysa alatt, Odysseusnak itlte. Ajas Telamon fia, szintn
+ignyt tartott e fegyverekre, mint Achilles utn a hadsereg legjobb
+hse, ki egy zben az egsz sereget megmentette btorsga ltal.
+Elkeseredve az itlet miatt az egsz tbor, klnsen a nyertes Odysseus
+s a kirlyi testvrek ellen, szrny boszt kszlt venni; jjel
+kirohant storbl, hogy a sereg sszes vezreit meggyilkolja. De Pallas
+Athene rltsget kldtt a dhng agyra; s ez a vezrek helyett a
+tbori barmokra s juhnyjakra rontott, s azokat rszint lekaszabolta,
+rszint foglyok gyannt strba vitte. Reggel kitnt a nyj kzt mvelt
+nagy pusztts, a kirlyok tancsa Odysseust kldte ki a tettes
+flfedezsre, s itt kezddik a tragdia cselekvnye, melynek els
+rsze Ajas stra eltt, msodika a tengerparton trtnik.
+
+
+
+
+
+
+AJAS.
+
+
+
+
+SZEMLYEK.
+
+  Athena.
+  Odysseus.
+  Ajas.
+  Kar: salamisi hajsok.
+  Tekmessa.
+  Hirmond.
+  Teukros.
+  Menelaos.
+  Agamemnon.
+
+(Tengerpart; a kzpen Ajas stra, tvolabb ms strak Athena fellegbe
+burkolva ll Ajas stra fltt. Odysseus a tborbl j.)
+
+    Athena. Sznetlen ltlak tged, Lartes fia,
+  Tprengve, mint vess trt az ellensg el;
+  S most itt a parton ltlak, Ajas strai
+  Krl, a tbor legutols rhelyn,[1]
+  Rgta mrve friss jrs nyomait,
+  Vadsz gyannt, hogy megtudd, strban van-e,
+  Vagy nincs ott? s valban, mint a sprtai
+  Kopt szaglsa, lpted j nyomon vezet.[2]
+  Mert ott benn van a frfi, s homlokn
+  Verejtk gyngyz, vrtl prolog keze.
+  Nem szksges ht leskeldnd ajtajn,
+  Mondd el csupn e szorgos kmkeds okt,
+  S a mit tudnod kell, tlem megtanulhatod.
+    Odysseus. Athena hangja, oh te ki az istenek
+  Kztt nekem legkedvesebb vagy  br szemem
+  Nem lt  red ismertem s lelkembe hatsz,
+  Mint rczajk tyrrhni krt ers szava.[3]
+  Most is jl lttad, hogy az ellensg nyomt
+  Kerlgetem, Ajast, kit a nagy pajzs fedez;[4]
+  Mert t lesem mr rgtl fogva, senki mst.
+  Megfoghatatlan dolgot mvelt ellennk
+  Ma jszaka, ha  volt, a ki ezt tev;
+  Mert biztosat nem tudva, csak tallgatunk;
+  S n ezt a munkt kszakarva vettem t.
+  pen most vettk szre, hogy a nyjakat
+  Elpuszttottk egytl egyig s lelk
+  Emberkezek, s a nyjrzket is velk;
+  S mindenki csak Ajasra rja ezt a bnt.
+  Egy km is ltta t a skon egyedl
+  Rohanni vrztatta karddal, s ezt nekem
+  Elmondta; n azonnal kvetem nyomt,
+  Egyik jel r vall, majd msikra akadok,
+  Mely megzavar; hov forduljak, nem tudom.
+  Jkor jvl ht; mert mint eddig szntelen,
+  Most is kezed vezrel minden lptemen.
+    Athena. Tudom, Odysseus; s rgta rkdm,
+  Seglyre kszen, vizsgld tadon.
+    Odysseus. Igy, kedves rnm, nem hiban fradok?
+    Athena. Nem, mert e frfinak mve volt a bn.
+    Odysseus. S mi vitte e megfoghatatlan tettre t.
+    Athena. Harag gytr Achilles fegyvere miatt.
+    Odysseus. De mrt sujt a nyjat boszul heve?
+    Athena. Azt hitte, vretekbe mrtja kezeit.
+    Odysseus. Ht argos serge ellen hajt szndoka?
+    Athena. S be is tlttte volna, ha nem rkdm.
+    Odysseus. Min mernylet ltal, mily bsz terv szerint?
+    Athena. Csellel rohant retok jjel egymaga.
+    Odysseus. S vajon kzel frt hozznk, czljig jutott?
+    Athena. A kt vezri stor ajtajig rt.[5]
+    Odysseus. S mi tart vissza vrre szomjaz kezt?
+    Athena. n voltam az, ki megcsalm bsz vgyait,
+  S hi kpekkel kprztatva el szemt,
+  A nyj ellen fordtm, melyet a mezn
+  riztek, a zskmnyolt barmokkal vegyest;
+  Rjok rohant, s a szarvas llatok kztt
+  Nagy vrontst tett mindentt, majd azt hivn,
+  Hogy a kt Atridra sujt gyilkos keze,
+  Majd ismt, hogy ms hadvezrnek oszt hallt.
+  S mg fel s al szgulda, rjng dht
+  n egyre sztva, mind messzebbre hajszolm.
+  Midn e nagy munktl vgre megpihent,
+  Ktlre fzve a mg l barmokat
+  S a tbbi nyjat, storba hurczol,
+  Hadi foglyok s nem szarvas llatok gyannt;
+  S bilincseikben otthon most vrig veri.
+  Tanja lszsz ez rjngsnek magad,
+  Hogy a mit lttl, elmondd Argos npinek.
+  Maradj itt btran, s ne flj, hogy bajt hozand
+  Red e frfi; mert szemnek sgart
+  Elfordtom, hogy meg ne lssa arczodat.
+
+(A stor fel kilt.)
+
+  Tged hiv hangom, a ki foglyaid kezt
+  Bilincsre verted, tged hivlak, jjj el;
+  Ajas, halld hangom, lpj ki storod el!
+    Odysseus. Mit tszsz Athena? Semmikp se hivd ki t.
+    Athena. Hallgass, lgy nyugton; flelem csak nem fog el?
+    Odysseus. Az istenekre, hagyd el; jobb ha benn marad.
+    Athena. Mitl remegsz? Nem volt elbb is frfi?
+    Odysseus. Bizonynyal ellensgem volt, s az is maradt.
+    Athena. Ellensgen nevetni nem legdesebb?
+    Odysseus. Elg nekem, ha el nem hagyja stort.
+    Athena. rjng embert szinrl szinre ltni flsz?
+    Odysseus. Ha sznl volna, nem kerlnm flve t.
+    Athena. De most pen nem fogja ltni szinedet.
+    Odysseus. Hogyan, ha nyitva tartja s rm veti szemt?
+    Athena. Homlyt bortok n a lt szemre is.
+    Odysseus. Igaz, istennl minden megtrtnhetik.
+    Athena. Hallgass teht s maradj megllva helyeden.
+    Odysseus. Itt maradok, de inkbb lennk messzire.
+    Athena. Oh Ajas, halld, msodszor hvlak tgedet!
+  Mrt tartod ily kevsre frigytrsad szavt?
+
+(Ajas kilp a storbl.)
+
+    Ajas. Oh dvzlgy, Athena, Zeus szent gyermeke,
+  Ki oly hiven mellettem lltl! Most arany
+  Zskmnynyal kestlek gyzedelmemrt.
+    Athena. Helyes beszded. mde mondd el most nekem,
+  Megztatd Argos vrben kardodat?
+    Ajas. Dicsekszem ezzel s nem mondok r nemet.
+    Athena. S az Atridk is rzk fegyveres kezed?
+    Ajas. Ajasra tbb nem hoznak gyalzatot.
+    Athena. Meghaltak ht, ha jl rtettem szavadat?
+    Ajas. Meghalva hadd ragadjk most el fegyverem.
+    Athena. Jl van. De ht hov lett Lartes fia?
+  Mit tettl ezzel? Elkerlte tn karod?
+    Ajas. Az lnok csalfa rka az, kirl beszlsz?
+    Athena. Igen; Odysseust rtem, ellensgedet.
+    Ajas. Ott benn l, rnm; stramban, legdesebb
+  Zskmny gyannt; nem fog meghalni egyhamar.
+    Athena. Mit tszsz elbb, mit kivnsz rajta nyerni mg?
+    Ajas. Elbb a stor oszlophoz ktzm [6]
+    Athena. Mily bntetssel sujtod a boldogtalant?
+    Ajas. Vrig verem majd htt, gy haljon meg ott.
+    Athena. Ne knozd ily nagy gytrelemmel a szegnyt.
+    Ajas. Legyen, Athena, minden ms kedved szerint;
+  De t ekknt s nem ms mdon bntetem.
+    Athena. No ht, ha mr e tettben rmed telik,
+  Fogj hozz, hajtsd egszen vgre szndokod.
+    Ajas. Megyek munkmra; s tled azt krem csupn,
+  Lgy mindig oly h frigytrsam, mint most vall.
+
+(El a storba.)
+
+    Athena. Im lsd, Odysseus, mily ers az g keze;
+  Hol leltl embert, a ki ennl valaha
+  Tancsban blcsebb, jzan tettben jobb vala?
+    Odysseus. Valban nem talltam; mde sznom t,
+  Boldogtalant, br ellensg gyannt gyll,
+  Hogy ily rossz vgzet tartja fogva lett.
+  Mert benne p gy ltom ennen sorsomat.
+  Bizony, kik itt e fldn lnk, nem vagyunk
+  Hi rnyknl, dlibbnl egyebek.
+    Athena. Okulj teht e pldn, s az istenek
+  Ellen ne ejtsen ajkad ggs szt soha,
+  Ne fjjon fl kevlysg, ha ers karod
+  Vagy gazdag kincsed ms embernl tbbre tesz.
+  Mert egy nap porba sujtja vagy flemeli
+  Az ember dolgt; m az istenek eltt
+  Csak a j kedves, gyllt minden, a mi rossz.
+
+(Mindketten el. A kar fellp.)
+
+    Kar. Telamon fia, tengervezte
+  Salamis fldnek fejedelmi ura,
+  Szivem rl, ha szerencse mosolyg rd;
+  De ha Zeus boszja sujtja fejed,
+  S Danaok haragos szava vszszel ijeszt,
+  Remegs fog el s megriadok,
+  Mint flnk szem rpke galamb.
+  Ime most a letnt jjel utn
+  Feldlja szvem nyugodalmt
+  A szgyent hr,
+  Hogy tszguldtad a mnlegelt,
+  S lel a nyjak barmait s
+  A hadi zskmny maradkt
+  Villml kardod aczlja.
+  Igy klti Odysseus rossz hredet,
+  Igy sugja tele mindenki flt,
+  S hisznek a sznak;
+  rmest hiszik rlad a rosszat,
+  S a ki hallja, jobban rl, mint a ki mondja,
+  Gnyolva gytrelmeidet.
+  Mert a ki nagy lelkekre lvi
+  Nyilt, soha sem tveszti a czlt el;
+   Rlam ilyesmit senki se hinne. 
+  A nagyok nyomain csszkl az irigysg.
+  Pedig nagy emberek nlkl a kicsinyek
+  Gyengn vdik meg a vrat;
+  Mert a cseklynek a nagy ad ert,
+  s a nagyot a csekly emeli.
+  m a botort lehetetlen
+  E blcsesgre tantni.
+  Im ellened ily np szava kl,
+  S neknk nincs harczra ernk
+  Tled elszaktva, kirly!
+  Ha szemed sugart messze kerltk,
+  Zajt tnek, mint cseveg madarak,
+  Tvol a nagy keselytl;
+  De hirtelen jelenj meg elttk,
+  S nmn elbjnak azonnal.
+
+
+Versszak.
+
+  Tn a boszs sziv Artemis[7] ze ki 
+  Oh iszony szavak, oh
+  Szgyenem forrsai! [8]
+  Fegyverrel a np nyjai, barmai ellen?
+  Mert tn kezedbl nem nyert gyzedelmi djt,
+  A hadi prda kzl,
+  Vagy a vadszat ds zskmnyaibl?
+  Vagy tn az rczpajzs Enyalios[9] gylt
+  Bosszra megvetett segedelme miatt,
+  S tle jtt ez ji varzslat?
+
+
+Ellenversszak.
+
+  Hisz soha sem rohanl, Telamon fia,
+  Esztelenl azeltt
+  A mezk nyjaira;
+  g kldte rd e krt. De az argosi npnek
+  Gonosz beszdt Zeus s Phbos nmtsa el;
+  m ha titokban e hrt
+  A nagy kirlyok[10] bosszja fogja red,
+  Vagy Sisyphos feslett ivadka[11] taln:
+  Ne rejtsd kirly, stradba ne rejtsd magadat,
+  Oh ne adj ert e beszdnek!
+
+
+Vgdal.
+
+  Fel, fel uram, valahra hagyd el a strat,
+  Hol rgta pihensz a harcztl, s bajod
+  Lngja felcsap az gig immr. Fktelen
+  Dhng ellenid nyelve,
+  Szl nem jrta erdk kzt;
+  Krs-krl felcsattan
+  Gnyos kaczagsuk.
+  S a kn gytr engem.
+
+(Tekmessa j a storbl.)
+
+    Tekmessa. Oh, kik Ajas hajin eveztek,
+  Fldszlte Erechtheus ivadka,[12]
+  Hangos panaszokba trnk ki
+  E messze fldn Telamon hza miatt.
+  Mert Ajast, a nagyot, az erset,
+  A rettenetest,
+  Letiporta a kr szrny viharja.
+    Kar. Mily vszt adott cserben az j
+  A mult napokrt?
+  Oh Teleutas lenya, beszlj!
+  Te, kit a hs drdja fogolyly,
+  Szerelme nejv tett, te tudod
+  Legjobban, te mondhatod azt el.
+    Tekmessa. Hogy mondjam el a mondhatatlant?
+  Szrny, mint a hall, mit hallani fogsz.
+  Mert a dics Ajasra gyalzatot
+  Hozott rjngse ez jjel.
+  Ott lthatod a stor alatt
+  Szttpett, vrbortotta
+  ldozatt a csatnak.
+
+
+Versszak.
+
+    Kar. Mi szrny hrt mondott
+  Ajkad az iszony frfi fell!
+  S nem futhatunk e sztl.
+  Mert a sereg fejedelmei hirdetik azt,
+  s a tmeg szja nagytja.
+  Jaj, jaj, szivem fl a jvtl; hogy a hall
+  Lesujtja t is, kinek rjng keze vres
+  Szablyjval a nyjat s psztorait lekaszabolta.
+    Tekmessa. Oh jaj! Innen, innen hozta haza
+  A nyj barmait sszektzve;
+  S a mg ezt megl a fldre tiporva,
+  Derekn kett hastotta amazt.
+  Megragadott kettt a fehr lbu kosokbl,
+  S levgva fejt s nyelvt az egyiknek,
+  Eldobta magtl,
+  Oszlophoz ktz a msodikat,
+  S kezbe ragadva a gyeplszijat,
+  Ketts suhog korbcscsal t,
+  Gnyszavakat mondva, melyekre csak isten,
+  s nem ember tantotta.
+
+
+Ellenversszak.
+
+    Kar. Itt az id mr, itt,
+  Hogy betakarva lepelbe fejnk,
+  Lopzva elosonjunk,
+  Vagy kezeinkbe ragadjuk a gyors evezt,
+  S tengeri szl hajtsa hajnkat.
+  Oly szrny vszszel fenyeget a kt Atrida haragja!
+  Kvek zpora sujt engemet is hallra,
+  Egytt  vele, kit lebilincsel a rettenetes lz.
+    Tekmessa. Tbb nem. Lepihent dhe mr,
+  Mint villmtalan dli vihar.
+  De ntudatos szive j knokat rez.
+  Mert ltni a bajt, melyet egyedl
+  Sajt keze tett, semmi egyb:
+  Iszony bnatot breszt.
+    Kar. Hisz az szerencse, ha lecsillapult dhe;
+  Az elmult baj knnyebben elviselhet.
+    Tekmessa. Ha rajtad llna, inkbb mit vlasztanl:
+  Magad jlte mellett kedvesid bajt,
+  Vagy mindkettnl egyenl fjdalmakat?
+    Kar. A ketts bnat, oh asszony, mindig nagyobb.
+    Tekmessa. Igy ht betegsg nlkl rosszabbul vagyunk.
+    Kar. Mit rtesz ezzel? Nem fogom fel szavadat.
+    Tekmessa. Ajas, mg fogva tart rjng dhe,
+  Boldog volt a bajok kzt, melyek ellepk,
+  Csak mi szenvedtnk, a kik jzanok valnk;
+  De most, hogy meggygyulvn, elhagy a kr,
+  Az  lelkt is sujtja szrny bnata,
+  S mi nem kevsbb szenvednk, mint azeltt.
+  Nem lett-e ht egy bajbl ketts gytrelem?
+    Kar. Elismerem, s rettegek, hogy isteni
+  Kz sujtja t; mert mskp, elmulvn a kr,
+  Mirt ne volna boldogabb, mint azeltt?
+    Tekmessa. Valban gy van, a mint mondod, tudd meg azt.
+    Kar. Mint lepte meg kezdettl fogva ez a baj?
+  Mondd el neknk, kik bnatodban osztozunk.
+    Tekmessa. Tudj meg ht mindent, mert rszvttel krdezed.
+  A ks jszakban, hogy az esteli
+  Tz mindentt elhamvadott mr, felkap
+  Ktl kardjt, s tra kszlt czltalan.
+  n intem t, s gy szlok: Ajas, mit akarsz?
+  Mirt rohansz csatra ily hivatlanul,
+  Nem hallva sem a hirnk, sem a krt szavt?
+  lomba van merlve az egsz sereg.
+  De  a szzszor hallott szval vlaszolt:
+  Oh asszony! asszony kessge hallgats.
+  Elnmultam ht, s  kirohant egyedl.
+  Mi minden trtnt ott kinn, el nem mondhatom;
+  De megjvn, nagy szarvas zskmnyt hajta be,
+  Sok sszefztt barmot s nyjrz ebet.
+  Ezt lefejezte, megfojt a msikat,
+  Azt felkonczolta, oszlophoz ktvn t
+  A tbbit, mintha ember volna mind e nyj.
+  Majd kirohant az ajtn s nagy hangon beszlt
+  Egy rnyhoz, a kt Atridrl, majd megint
+  Odysseusrl, hangos kaczags kztt,
+  Hogy mily szgyennel sujt ket bosszuja.
+  Aztn ismt strba rontott hirtelen,
+  S lassanknt vgre visszatrt eszmlete;
+  S mindenfell szemllve a borzalmakat,
+  Fejre tve felkiltott, s a holt
+  Brnyok vres romjai kz rogyott,
+  Dhs krmkkel tpdesvn nnn hajt.
+  Hossz idig lt a fldn sztlanul;
+  Majd rettent szavakkal fordult ellenem,
+  Ha el nem mondom vgtl vgig nyomort;
+  Krdezve, hogy van s mi lett belle most?
+  S n, kedvesim, fltemben elmondtam neki
+  Mindazt, mi trtnt, s gy a mint magam tudm.
+  Knos nygsben trt ki erre hirtelen,
+  Mint nem hallk tle azeltt soha;
+  Mert mindig mond, ily nyszrgs egyedl
+  A gyva, gyenge lelk emberhez val,
+  Soh sem hallottam tle hangos jajgatst,
+  Nygse, mint bik, mly s tompa volt.
+  De most lerogyva szrny vgzete alatt,
+  Ott l e frfi tlen, itlan, csendesen,
+  A kardja lte vres llatok kztt;
+  S nyilvnval, hogy rosszat forral szelleme;
+  Beszde, jajgatsa tisztn hirdeti.
+  Oh kedvesim  mert ez volt jttm czlja most 
+  Jertek segtsgre, mdotok szerint;
+  Oly embert, mint , meggyz a barti sz.
+    Kar. Teleutas lenya, szrny dolgokat beszlsz
+  A frfirl, kit rltt tett baja.
+    Ajas (a storban). Oh jaj nekem!
+    Tekmessa. S a baj, mint ltszik, egyre n. Halljtok-e
+  Ajas szavt a storban, miknt kilt?
+    Ajas. Oh jaj nekem!
+    Kar. Bizonynyal vagy beteg mg, vagy a rgi kr
+  Emlke tlti most el bnattal szivt.
+    Ajas. Jaj fiam, fiam!
+    Tekmessa. Oh n szegny! Eurysakes, tged kilt.
+  Mi szndoka? Hol vagy fiam? Oh n szegny!
+    Ajas. Jer Teukros! Hol van Teukros? Ht sznetlenl
+  Zskmny utn fog jrni? S n itt elveszek!
+    Kar. Ugy ltszik, szre trt mr. Nyisd fel ajtajt;
+  Tn szgyenben elhallgat, ha rnk tekint.
+    Tekmessa. Im felnyitom; most ht szemeddel lthatod,
+  Mit tett e frfi, mily sors rte t magt.
+
+(Kinyitja a stor ajtajt. Bell ltszik Ajas, fldn lve a legyilkolt
+llatok kztt.)
+
+
+Els versszak.
+
+    Ajas. Oh jaj!
+  H bajtrsak, egyedli bartim,
+  Kiket igaz szv mg hozzm csatol,
+  Tekintsetek rem, mi szrny vrzn hullmain
+  Hajt a vihar haragja.
+    Kar (Tekmesshoz). Jaj! ltom, mindaz, mit mondl, nagyon igaz;
+  A tett mutatja, hogy rtelme elhagy.
+
+
+Els ellenversszak.
+
+    Ajas. Oh jaj!
+  Oh emberek, ti gyes hajsok,
+  Kiknek keze gyors evezt hajt,
+  Ti, csak ti vagytok egyedl seglyre ksz bartim:
+  Emberek, ljetek meg!
+    Kar. Mondj jzanabb szt, s roszszal ne orvosold
+  A rosszat; csak nagyobb tennd tkodat.
+
+
+Msodik versszak.
+
+    Ajas. Im lsd a hst, a rettenthetetlent,
+  A csatatr btor harczost,
+  Mint kaszabol szelid llatokat!
+  Oh jaj, mi gny! Mi szgyen sujtja fejemet!
+    Tekmessa. Ne szlj gy, oh ne szlj gy, Ajas, n uram!
+    Ajas. Ki innen! El! Fordtsd vissza lptedet!
+  Oh jaj! oh jaj!
+    Tekmessa. Az gre, engedj s trj magadhoz, oh uram!
+    Ajas. Boldogtalan n! Karom
+  Meneklni engedi a gazokat, helyettk
+  Szarvasbarmokat tall, s mekeg
+  Juhoknak ontja vrt.
+    Kar. Mirt kesergesz a bevgzett m miatt?
+  A megtrtnten vltoztatni nem lehet.
+
+
+Msodik ellenversszak.
+
+    Ajas. Oh te, minden gonoszsg mestere,
+  Lartes kmszem ravasz fia,
+  Te a seregnek legundokabb szemete,
+  Most nemde rmedben hangosan kaczagsz!
+    Kar. Isten kld az emberre srst, nevetst.
+    Ajas. Oh vajha ltnm! Habr ily kn gytr.
+  Oh jaj nekem!
+    Kar. Ne szlj ily vakmeren! Lsd, hov jutl.
+    Ajas. Oh Zeus, fajom se![13] Br
+  Meggyilkolhatnm e gonosz csalfa gazembert,
+  s vele a kt Atrida kirlyt!
+  Hadd haljak n meg aztn!
+    Tekmessa. Ha ezt kivnod, gy az n hallom is
+  Krd istentl. Mrt ljek, ha te elveszl?
+
+
+Harmadik versszak.
+
+    Ajas. Oh jaj!
+  Homly, te vagy napom!
+  Oh komor j, te vagy ragyog sugaram!
+  Fogadj, fogadj ledbe engem,
+  Fogadj be! Mert immr sem az isteni kztl,
+  Sem a haland embertl nem vrhatok seglyt.
+  Zeus hatalmas
+  Lnya ldz,
+  S gytri hallra szivem.
+  Merre futhatok?
+  Nyugtot hol lelek?
+  Ah hiban minden kzdelem,
+  rjngsem ldozatjai
+  Kzt fekszem, s az egsz sereg
+  Gyilkot emel rm.
+    Tekmessa. Oh jaj, hogy gy beszlhet egy hs frfi!
+  Ily szt ajkra nem vett volna azeltt.
+
+
+Harmadik ellenversszak.
+
+    Ajas. Oh jaj!
+  Ti zuhog habok,
+  Ti hullmverte barlangok, te parti rt,
+  Mita, ah mita lttok
+  Itt engem Trja eltt! De soha, tbb soha sem
+  Lttok itt lve. Hallja ezt, ki rti a szt.
+  Oh Skamandros
+  Habja, Argos
+  Jakar frigyese,[14]
+  Tbb nem fogod
+  Ltni partodon
+  Azt a frfit, kihez foghatt
+  (Nagy szt mondok) hellenek kztt
+  Nem ltott Trja. S most ily becstelenl
+  Fekszem a porban.
+    Kar. Nem tarthatom fl e beszdet, de tovbb
+  Igy szlni nem hagyhatlak sok bajod kztt.
+    Ajas. Oh jaj! ki gondolhatta volna valaha,
+  Hogy gytrelmemmel gy megegyezik nevem?[15]
+  Immr hozzm val jajgatni ktszer is,
+  Hromszor is; hogy ily nyomorba slyedk;
+  n, kinek atyja hajdan a sereg kztt
+  A hsisg legels djt nyerte el,
+  S dicssggel trt Ida fldrl haza;[16]
+  Mg n a hs magzatja, szintn trjai
+  Fldn ktvn ki, nem cseklyebb tetteket
+  Nem kisebb btorsggal hajtva vgre itt,
+  Argos nptl meggyalzva elveszek.
+  s mgis ezt az egyet biztosan tudom:
+  Ha Achillestl letben krdezik,
+  Ki nyerje hsisg djul fegyvert,
+  El nem ragadta volna tlem senki sem.
+  S az Atridk, megvetve gyzedelmimet,
+  A legcsalfbb embernek itltk oda.
+  Ha kbult lelkem s szemem meg nem sznik
+  Szndkomat vezetni, gy tbb soha
+  Nem mondannak msra ily itletet.
+  De Zeus lenya, a kegyetlen, vadszem
+  Istenn, rlt lzat klde rm, s midn
+  Rjok volt mr emelve sujt fegyverem,
+  Elbdtott, s baromvrt kelle ontanom.
+  Azok pedig nevetnek rajtam s szabadok,
+  Br kedvem ellen; m ha isten tesz zavart,
+  A legjobb kztl is megmenekl a rossz.
+  Most mit tegyek? Nyilvnval az istenek
+  Haragja, gyll engem a hellen sereg,
+  s ellensgem Trja s az egsz vidk.
+  Hazmba trjek az gi tengeren,
+  S a tbort s az Atridkat hagyjam itt?
+  Mily arczczal lpjek Telamon atym el?
+  Mily szemmel lssa bs megrkezsemet,
+  Csupasz mezemben, nem viselve hsi dszt,
+  Mg  oly nagy dicssg fnyt hordoz.
+  El nem viselhet ez. Vagy a trjai
+  Bstykra trjek, s egyes harczot kezdve ott
+  Az ellensggel, hs halllal essem el?
+  Hisz gy az Atridknak tennk rmet.
+  Ezt nem teszem. Ms mdot kell kisrlenem,
+  A melylyel agg atymnak megmutathatom,
+  Hogy nem nevelt fel gyva szv magzatot.
+  Mert szgyen, hossz letet kvnni ott,
+  Hol a nyomortl szabadulni nem lehet.
+  Mit r, ha napra nap j, s a hall fel
+  Egy lpssel korbban, ksbben viszen?
+  Nem adnk semmi rat olyan emberrt,
+  A ki hi remny napjn stkrezik.
+  De a nemeshez szp let vagy szp hall
+  Mlt csupn. Elmondtam, nincs mr tbb szavam.
+    Kar. Nem fogja senki klcsnzttnek mondani
+  E szdat, Ajas; mert tenszivedbl fakadt.
+  De mgis sznjl; hallgasd meg bartaid
+  Tancst, zd el e stt eszmidet.
+    Tekmessa. Oh n uram, nincs emberekre sulyosabb
+  Nyomor, mint szolgasgnak jrmt hordani.
+  Im n szabad atytl nyertem ltemet,
+  Ki gazdag volt, mint Phrygiban senki ms;
+  Most szolgasgban lek; mert az istenek
+  Igy rendelk, de legkivlt a te karod.
+  m a mita gyad osztom, h vagyok
+  Hozzd; krlek ht Zeusra, a ki tzhelyed
+  rizi, s gyadra, melyen osztozunk:
+  Ne tedd, hogy ellensgid keser szavt
+  Hallgassam, s egyikknek rabjv legyek.
+  A mely napon te meghalsz s magamra hagysz,
+  Oh hidd el, Argos npe az nap engem is
+  Erszakos kezvel tstnt megragad,
+  s gyermekeddel egytt rabigba hajt.
+  S majd keser beszddel gnyol uj uram,
+  s ily szkkal srt: Nzzetek r, ez neje
+  Ajasnak, a ki Argos legjobb hse volt,
+  Mily szolgasg vlt fel boldog lett.
+  Igy fognak szlni. Isten ldz engemet,
+  Red s fajodra meg szgyent hoz ily beszd.
+  Kimld atydat s ne hagyd el szomor
+  regsgben, kimld sz anyd szvt,
+  Ki annyi vet lt mr, s gyakran esdekel
+  Az istenekhez, hogy te lve trj haza.
+  Lgy sznalommal gyermekedhez, oh kirly!
+  Gondold meg, hogy mily gyszos sorsot hozna rm
+  S re hallod: elvesztve gondodat,
+  Ily ifjan, rvn lne zord gymsg alatt.
+  Nekem nincs senkim, a kire tekinthetek,
+  Rajtad kvl; hazmat drdd dlta fel,
+  Anymat s atymat ms vgzet keze
+  Tev Hades honnak holt lakiv.
+  Ah hol tallhatnk ht nlkled hazt,
+  Hol gazdagsgot? Benned van csak mindenem.
+  Emlkezzl rem is; frfihoz val,
+  Megemlkezni arrl, a ki szeret;
+  S a szerelem szltte mindig szerelem;
+  De a ki jt tapasztalt s elfeledi,
+  Nemes embernek tbb az nem mondhat.
+    Kar. Ajas, br meghatn a rszvt lelkedet,
+  Mint az enymet; akkor dicsrnd szavt.
+    Ajas. Tlem bizonynyal dicsret jut rszel,
+  Ha jl betlti mindazt, a mit rendelek.
+    Tekmessa. Oh kedves Ajas, mindenben szt fogadok.
+    Ajas. Vezesd elmbe fiamat, hadd lssam t.
+    Tekmessa. Eltvoltk innen aggodalmaim.
+    Ajas. E rossz bajomban? Vagy mi az, mirl beszlsz?
+    Tekmessa. Nehogy szegny meghaljon ha eld kerl.
+    Ajas. Kpes lett volna erre is szellemem.
+    Tekmessa. De gondom volt r, elhrtni ezt a bajt.
+    Ajas. Jl tetted, s dicsrem gondossgodat.
+    Tekmessa. Mi az, miben mg hasznlnom lehet neked?
+    Ajas. Tedd, hogy fiammal szljak, s lthassam szint.
+    Tekmessa. Itt a kzelben rzik t cseldjeink.
+    Ajas. Mirt ksik ht, mrt nem j szemem el?
+    Tekmessa. Oh gyermekem, atyd hv. Hozza t ide
+  A szolga, a ki most keznl vezeti.
+    Ajas. Jn-e szavadra, vagy nem hallja hangodat?
+    Tekmessa. Itt hozza t a szolga, mr megrkezett.
+
+(Egy rabszolga bevezeti Eurysakest, Ajas kis fit.)
+
+    Ajas. Emeld, emeld fel hozzm; megijeszteni
+  Nem fogjk t e frissonts vrnyomok,
+  Ha n nemzm s valban apja gyermeke.
+  Korn kell mr apjnak zord erklcsein
+  Edzdnie, hogy hozz hasonl legyen.
+  Oh gyermek, lgy apdnl sokkal boldogabb,
+  S msban hozz hasonl! Nem lszsz gy silny.
+  De most is mr irigylem boldogsgodat,
+  Hogy e bajoknak egyikt sem rezed;
+  Mert ntudatlan let a legdesebb,
+  Mg megtanulsz szenvedni s rvendeni.
+  S ha ezt elrted, ellensgeink eltt
+  Mutasd meg akkor, mily atynak vagy fia.
+  Addig viruljon ifjusgod enyhe lg
+  Lehellettl s lgy anydnak rme.
+  Tudom, nem lesz a hellenek kzt senki sem,
+  Ki gnynyal bntson, brha nem leszek veled.
+  Mert rizdl, fradhatlan gymodul
+  Teukrost hagyom, br most a tvolban bolyong,
+  Az ellensget hajtva gyors vadsz gyannt.
+  Ti pajzshord vitzek, tengerparti np,
+  Retok bzom e kzs szolglatot,
+  Jelentstek Teukrosnak kivnsgomat:
+  E gyermeket vigye hazmba s adja t
+  Telamonnak s anymnak, rtem Eriboet;[17]
+  Hogy mindkettnek majdan tmaszuk legyen
+  regsgkben, mg a srba szllanak.
+  Fegyverzetem ne adja djul senkinek
+  Sem plyabir, ltem megrontja sem.[18]
+  Hanem fiam, ki ettl vetted nevedet,[19]
+  Te tartsd meg ezt a htszeres brtl fedett
+  ttrhetetlen pajzsot, s forgasd szjadon;
+  A tbbi fegyvert temesstek el velem.
+
+(Tekmesshoz.)
+
+  Te vidd magaddal gyorsan most e gyermeket,
+  Zrd be az ajtt, s ne shajts, ne zokogj
+  A storok kzt  sirni mindig ksz a n. 
+  El innen gyorsan! nem blcs orvoshoz val,
+  A bajra rolvasni, melyet vgni kell.[20]
+    Kar. E lzas izgatottsg flelembe ejt;
+  les beszded nem kedvem szerint val.
+    Tekmessa. Mily szndk forr szivedben, Ajas, n uram?
+    Ajas. Ne krdj, ne faggass. A szernysg szp erny.
+    Tekmessa. Oh jaj mint flek! Krlek gyermekedre s
+  Az istenek nevre, ne hagyj minket el!
+    Ajas. Nagyon gytrsz mr. Nem tudod, hogy tbbet n
+  Az isteneknek semmivel sem tartozom?
+    Tekmessa. Mondj istenes szt.
+    Ajas. Azt intsd, a ki rd gyel.
+    Tekmessa. Nem hallgatsz ht rm?
+    Ajas. Mr nagyon sokat fecsegsz.
+    Tekmessa. Mert flek, Ajas!
+    Ajas (a szolgkhoz). Gyorsan ajtt zrjatok!
+    Tekmessa. Az gre, sznj meg!
+    Ajas. Esztelennek tartalak,
+  Ha azt hiszed, hogy rajtam most ert vehetsz.
+
+(Mind el a storba. A kar egyedl marad.)
+
+
+Els versszak.
+
+    Kar. Oh hires Salamis, te szp
+  Hullmverte sziget, mi boldog
+  Vagy te, mily ragyog a fnyed!
+  Mg n szegny, ah! mi hossz idje mr,
+  Hogy itt sanyargok Ida gyepes mezin,
+  Emsztve rkkn ltemet
+  Nehz harczaimon,
+  S gytr sejtelem l
+  Szivemen, hogy a czl
+  A komor Hades iszony tanyja.
+
+
+Els ellenversszak.
+
+  S im most annyi veszly utn
+  Ajas szrny bajval kzdk,
+  Kit  oh jaj! jaj! a dh lepett meg.
+  Csatra kldted egykoron, oh hazm,
+  Ki hs ertl duzzadt; s ime most szivnket
+  Knozza barangol lelke.
+  Dics tetteinek
+  Hrt dicstelenl
+  Megl, megl
+  A botor, gonosz Atridk haragja.
+
+
+Msodik versszak.
+
+  s ah! szegny agg anyja, kinek fejt
+  Fehr havval belepte a vnl nap,
+  Ha fia szrny krjt
+  Hallja, keserve nem
+  Lesz csendes zokogs, mint a madrdal,
+  Melyet bs csalogny zeng; nem, ijedt sikolts
+  Hangja tr ki szivbl,
+  Mellt sujtja kezvel,
+  s fehr haja szlait szaggatja.
+
+
+Msodik ellenversszak.
+
+  Jobb volna, ha a sr je borulna r,
+  Ki oly nemes trzsbl szletett, legels
+  Volt az achi np kzt,
+  S sei szellemt
+  Im elvesztve bolyong tveteg ton.
+  Oh szegny apa! Mily gyszt visz a hr fiadrl!
+  Oly szrny nyomor rte,
+  Milyen kivle senkit
+  Nem rt mg soha Aeakos fajban.
+
+(Ajas j a storbl Tekmessval s gyermekvel.)
+
+    Ajas. A vgtelen hossz id napfnyre hoz
+  Minden titkot, s elrejti a nyilvnvalt;
+  E fldn semmi sem vratlan; megtrik
+  Az esk lncza, a makacssg vrtje is.
+  Im engem is, ki oly kemnysziv valk,
+  Olajba mrtott vas gyannt meglgytott
+  E n; sajnlom zvegysgben hagyni t,
+  Ellensgim kzt, s rvasgban fiamat.
+  Megyek ht most a tengerparti rt fel,
+  S lemosva tisztt frdvel szennyemet,
+  Pallas slyos haragjt megengesztelem:
+  S ha majdan lb nem jrta helyre akadok,
+  Mly gdrt sok s elrejtem kardomat,
+  E gyllt fegyvert, hogy ne lssa semmi szem;
+  rizze ott lenn Hades s az jhomly.
+  Mert a mita ezt ajndokul vevm
+  Hektor gyllt kezbl: Argos npe kzt
+  Nem szllt rm attl fogva semmi j soha.
+  Igaz, mit a halandk kzmondsa tart:
+  Haszontalan az ellensg ajndoka.
+  Jvre ht meghajlunk majd az istenek
+  Eltt, s megbecsljk Atreus fiait.
+  Uralkodk k, hdolat val nekik.
+  Mirt nem? Hisz a legszrnybb, a legersb
+  Meghdol a fensgnek; im a zzmars
+  Tl visszalp a ds gymlcs nyr ell;
+  Az j komor homlya elfut, ha a nap
+  Fehr fogatjn fnynyel tndklve j;
+  A vad szelek fuvallatra elpihen
+  A tenger shajtsa; a mindenhat
+  lom feloldja lnczt, nem kt szntelen.
+  S mi mirt ne tudnnk tenni jzan sz szerint?
+  Immr tudom, hogy ellensgemet csak gy
+  Szabad gyllnm, mintha egykor jra j
+  Bartomm lehetne, s bartomrt
+  Csak annyit tennem, annyira szeretnem t,
+  Miknt ha nem maradna mindig j bart;
+  Hisz a bartsg leggyakrabban csalfa rv.
+  De erre nzve jl tudom mr, mit tegyek.
+  Most menj be asszony, s krd az istenek kegyt,
+  Hogy teljesljn minden, mit szivem kivn.
+
+(Tekmessa el a storba gyermekvel.)
+
+  Ti meg, bartim, tiszteljtek gy szavam,
+  Mint ez; s ha megj Teukros, mondjtok neki,
+  Hogy gondoljon rm, s hozztok szives legyen.
+  n most megyek, hov mennem kell; ti pedig
+  Tegytek azt, mit mondtam, s nem sokra tn
+  Halljtok, hogy megszntek szenvedseim.
+
+(El. A kar egyedl marad.)
+
+
+Versszak.
+
+    Kar. Szivem megrendl a gynyrtl s felszkik.
+  Vgan, vgan! Pn! Pn!
+  Oh jer Pn, jer a tengeren,
+  A hverte Kyllenia[21]
+  Szikls ormairl jvel,
+  Kirlyom, isteni tnczvezr,
+  Ragadj el nysai[22] knososi tnczra,[23]
+  Melyre nem mesterek tantnak.
+  Lejteni, szkni van ma kedvem.
+  Jer Ikaros hullmain t, dics kirly Apollo,[24]
+  Oh delosi isten jjj,
+  S maradj kzttnk kegyesen rkk!
+
+
+Ellenversszak.
+
+  Feloldta Ares iszony gytrelmemet.[25]
+  Vigan, vigan! Most Zeus,
+  Most mr jra virad ders
+  Nap sugra a tengeren
+  Keresztl suhan hajkra,
+  Hogy Ajas elfeled bajt,
+  S megint ds ldozatot mutat be
+  si szoks szerint az gnek.
+  Minden enyszik az idvel;
+  Semmi sem lesz hallatlan elttem, a mita Ajas
+  Szrny dhe vratlan
+  Lecsillapult s harcza Atridkkal.
+
+(A hirmond j.)
+
+    Hirmond. Elszr azt jelentem, kedves frfiak,
+  Hogy Teukros p most rkezett meg Mysia
+  Szikls hegyrl; s a tborba megjvn,
+  Srt szkkal fogadta az egsz sereg.
+  Alig lttk a tvolbl kzelgeni,
+  Azonnal krbe fogtk, s minden fell
+  Gnyt vgott hozz egytl egyig minden ajk;
+  Kiltva: Im az rjng testvre j,
+  A gonosz, ki a tbornak lest vetett.
+  Kvek tpjk szt, gy szenvedjen csf hallt!
+  s addig mentek, hogy vgtre hvelyt
+  Elhagyva villogott a kard kezk kztt.
+  De a viszlyt, mely mr a legvgsig rt,
+  Lecsillapt aggastynok blcs szava.
+  m hol van Ajas, hogy tudtra adjam ezt?
+  Mert az uraknak mindent el kell mondani.
+    Kar. Nincs storban, most hagy el e helyet,
+  j hangulatja j tervekkel tlti el.
+    Hirmond. Jaj, jaj!
+  Vagy ksn adtak mr ez tra rendelst,
+  Kik elkldnek; vagy ksn jvk magam.
+    Kar. Mi az, mit kelletnl ksbben tevl?
+    Hirmond. Megtilt Teukros, hogy elhagyja stort
+  E frfi, mg meg nem rkezik maga.
+    Kar. Hiszen jobb indulatra trve tvozott,
+  Az istenek haragjt engesztelni ment.
+    Hirmond. Hi btorsggal van telve e beszd,
+  Ha mind val az, a mit Kalchas jsola.
+    Kar. Mit jsolt Kalchas? Mit tudsz e dolog fell?
+    Hirmond. Im ezt tudom, tanja voltam enmagam:
+  Elhagyva a kirlyi gyls gyrjt,
+  Az Atridktl tvol, Kalchas egyedl
+  Oldalt vonult, Teukros kezt bartilag
+  Megfogta s ersen lelkre kt,
+  Hogy minden mdon tartsa vissza e napon
+  Ajast strban, ne bocsssa ki sehogy,
+  Ha letben kivnja ltni valaha.
+  Mert  gymond  mg csupn ez egy nap fogja t
+  ldzni Athena istenn bosszja.
+  A ggs balga embert  gy szlott a js 
+  Nehz nyomorba dntik a nagy istenek,
+  Ha elfeledve emberi termszett,
+  Nem embermdra rez s gondolkozik.
+  De  mr akkor esztelennek bizonyult,
+  Midn hont elhagyva, atyja blcs szavt
+  Nem hallgat. Igy szlt ez: Lgy azon, fiam,
+  Hogy gyzz, de mindig istennel gyzz, a csatn,
+  S  esztelen ggjben ekknt vlaszolt:
+  Atym, istennel gyzhet mg a gyva is,
+  Ki semmit sem tud; n magamban megbizom,
+  Hogy isten nlkl is dicssghez jutok.
+  Igy krkedett kevlyen. Mskor, a midn
+  Az istenn, Athena, arra biztat,
+  Hogy vres karral sujtsa ellensgeit,
+  Ez iszony, hallatlan szval vlaszolt:
+  Argos sergben vdj, kirlyn, msokat,
+  A hol mi llunk, ott nem htrl senki sem.
+  Ily szkkal, melyek emberekhez nem valk,
+  Magra vonta az istenn bosszujt.
+  De ha e nap mg letben van, gy taln
+  Isten segtsgvel megmenthetjk t.
+  Igy szlt a js. Ezt hallva, Teukros engemet
+  A gylsbl tstnt hozztok klde, hogy
+  Vigyzzatok r. m ha ksn rkezm,
+   elveszett, vagy Kalchas nem blcs jsol.
+    Kar. Boldogtalan Tekmessa, bnat gyermeke,
+  Oh jer ki, lsd ez embert, hallgasd, mit beszl!
+  Szivet repeszt szavval, rmet nem ad.
+
+(Tekmessa j Eurysakessel a storbl.)
+
+    Tekmessa. Mrt hborgattok engemet boldogtalant?
+  Mrt nem hagytok pihenni sok bajom utn?
+    Kar. Hallgasd ez embert, mit beszl Ajas fell;
+  A hr, melyet hoz, knnal tlti el szivem.
+    Tekmessa. Oh jaj, mit mondasz, ember! Vgnk van taln?
+    Hirmond. Mit sem tudok sorsodrl; m Ajas miatt,
+  Ha tvol van most innen, aggds fog el.
+    Tekmessa. Tvol van  valban; megrmt szavad.
+    Hirmond. Teukros parancsa, hogy strban tartsuk t,
+  S innen ne hagyjuk eltvozni egyedl.
+    Tekmessa. De hol van Teukros, mrt ad ily parancsokat?
+    Hirmond. Nem rgen rkezett meg, s attl remeg,
+  Hogy gyszos lesz Ajasra, ha most tvozik.
+    Tekmessa. Oh jaj nekem! S mily embertl hallotta ezt?
+    Hirmond. A js jelent gy ki, Thestor gyermeke,
+  Hogy e nap ltet d Ajasnak vagy hallt.
+    Tekmessa. Segtsetek ah! e balsorsban, kedvesim!
+  Ti hivjtok sietve Teukrost, ti pedig
+  Nyugat fel, ti meg keletnek tartsatok,
+  Vlgyek mlyn nyomozva ezt a gysz utat.[26]
+  Mert immr ltom, hogy megcsalt e frfi,
+  S kizrt a szivbl, mely enym volt azeltt.
+  Jaj, mit tegyek fiam! Meg nem pihenhetek;
+  Magamnak is mennem kell, a mg elbirom.
+  Menjnk, siessnk; nincs nyugvsra most id,
+  Hogy megmenthessk a hallba siett!
+    Kar. Az tra kszen llok s nem szval csupn;
+  Tett j a szra s gyorsan tra kl a lb.
+
+(A kar kt rszre oszlik s ktfel tvozik. A hirmond s a szolgk a
+tbor fel sietnek; egy szolga Eurysakest a storba vezeti, Tekmessa a
+tengerpart fel siet.)
+
+
+SZNVLTOZS.
+
+(Erds tengerpart; a kzpen domb, tvben cserjvel.)
+
+    Ajas. (A domb tvben kardjt markolatval a fldbe ssa s flemelkedik.)
+  Itt ll a gyilkol vas, a leglesebb
+  Fegyver, (ha van megfontolsra mg idm)
+  Mert Hektor adta ezt ajndokul nekem,
+  A leggylltebb minden idegen kztt;
+  S most Trja ellensges talajban ll,
+  Ujont lesre fenve vasmar kvn;
+  s n verm a fldbe s gy lltm,
+  Hogy j bartknt gyors hallt adjon nekem.
+  Jl elkszltem. Most ht mindenek eltt
+  Te lgy segtsgemre, oh Zeus, jog szerint![27]
+  Hiszen nem krek tled nagy kegyelmeket:
+  Csak kldj hirmondt, ki Teukrosnak megvigye
+  A rossz hrt, hogy elszr  leljen rem,
+  Ha majd e vrztatta kardba roskadk,
+  Nehogy elbb meglsson ellensg szeme,
+  S ebeknek, madaraknak dobjon prdaul.
+  Ezt krem tled, oh Zeus! Krlek tged is,
+  rnyak vezre, Hermes, altass engem el,
+  Gyorsan, vonagls nlkl, ha e kard vasa
+  Keresztl jrja, elnmitja szvemet.
+  Segtsgemre hivlak, oh rk szzek,
+  A kik rkk lttok minden szenvedst,
+  Ti szent, gyorslb frik, tekintsetek
+  Rem, miknt vesztenek el az Atridk.
+  Hadd veszszenek el gonoszul e gonoszok,
+  S mint engem lttok enkezemtl esni el,
+  gy sujtsa ket, ki nekik legkedvesebb.
+  Fel, gyors bosszl frik, nyeljtek el,
+  Ne kimljtek Argos sszes sergeit!
+  Oh Helios, ki szekereddel a magas
+  gboltot vgig jrod, megltvn szl
+  Hazmat, llj meg, vond szorosra az arany
+  Gyeplt, s jelentsd balsorsomat s hallomat
+  Az sz apnak s a szegny nnek, k szlt.
+  Ah! meghallvn e gyszhrt a boldogtalan,
+  A vrost knos jajgatssal tlti be.
+  De mit sem r a hasztalan srnkozs,
+  Halaszts nlkl meg kell munkm kezdenem.
+  Jelenj meg ht, tekints rm oh hall, hall!
+  De tged jra dvzllek oda lenn;
+  m hozzd fnyes napvilg, mely ma ragyogsz
+  Az gen, s hozzd szekrhajt Helios,
+  Utszor szlok s tbb ezutn soha.
+  Oh napfny, oh hazm szent fldje, Salamis,
+  Oh atyai lakomnak si tzhelye,
+  Oh hrneves Athene s polgrai,
+  S ti oh forrsok s folyk, ti trjai
+  Mezk, isten hozztok, kik tplltatok!
+  Im ez hozztok Ajas legvgs szava;
+  A tbbit ott lenn majd Hadesnek mondom el!
+
+(A cserje kz lp s kardjba dl.)
+
+                                  
+
+(A kar kt csoportra oszolva, kt ellenkez oldalrl egyms utn
+fellp.)
+
+    Els flkar. Fradsg fradsgra j!
+  Hol, hol,
+  Hol nem jrtam mindentt?
+  S nem adhatott nekem hrt rla semmi hely.
+  Vigyzz, vigyzz,
+  Ujabb zajt hallok megint.
+    Msodik flkar. Csak mi vagyunk, hajs bajtrsak csapata.
+    Els flkar. Mi ujsg?
+    Msodik flkar. Bejrtam napnyugatra az egsz mezt.
+    Els flkar. Mit leltl?
+    Msodik flkar. Sok fradsgot, semmi mst, mi lthat.
+    Els flkar. n arra jrtam, merre nap sugra kl,
+  s p gy nem talltam fel sehol nyomt.
+
+
+Versszak.
+
+    Kar. Ki mondja ht meg? A tenger fia,
+  Ki hlt vet lmatlan munka kzt,[28]
+  Vagy az olymposi istennk,[29] vagy taln
+  Bosporos radoz
+  Folyi, merre jr a zord
+  Indulat ember?
+  Hol bolyong? Mert szomor,
+  Hogy utamon hiban fradok,
+  S czltalan jrva sehol sem
+  Ltom a krgytrte frfi nyomt.
+    Tekmessa. (A bokrok kzt, hol Ajas holtteste fekszik.)
+  Oh jaj nekem!
+    Kar. Kinek szl hangja a kzel bokrok kztt?
+    Tekmessa. Ah n szegny!
+    Kar. A drda hdtotta gysz menyasszony ez;
+  Tekmessa ajkn hangzik e bs jajgats.
+    Tekmessa. Elvesztem, vgem van, meghaltam kedvesim!
+    Kar. Mi trtnt?
+    Tekmessa. Itt fekszik vrben Ajas, p most lte meg
+  A kard, mely tszrt oldalban rejtezik.
+    Kar. Jaj hazatrsem![30]
+  Jaj, trsadat is megld
+  Vres kardoddal, kirly!
+  Oh szegny n, szegny!
+    Tekmessa. Valban ezt a sorsot jajsz illeti.
+    Kar. Kinek keztl halt meg a boldogtalan?
+    Tekmessa. nnn magt l meg nyilvn lthat,
+  A fldbe sott kard mutatja, melybe dlt.
+    Kar. Jaj nekem! Oh nyomor! Ily egyedl kellett
+  Hallba dlnd!
+  Mg n semmit se tudva, se hallva, magadra
+  Hagytalak. Hol, oh hol
+  Fekszik a rettenetes,
+  A gysznev Ajas?
+    Tekmessa. Ne lssa senki; e palst redivel
+  Im elfedem egszen; mert nem birja el
+  Emberszem, j barti szem se, ltva mint
+  Tdul sebbl, melyet vert nnn keze,
+  S orrn keresztl a stt vr zne.
+  Jaj, mit tegyek? Mily j bart visz tged el?
+  Hol van Teukros? Mi jokor rkeznk ide,
+  Hogy eltemesse elhllt testvrt velnk.
+  Szegny Ajas, mi voltl s miv levl!
+  Oh! ellensg is megsiratn sorsodat!
+
+
+Ellenversszak.
+
+    Kar. gy kellett ht, gy kellett, oh szegny,
+  Az let hossz fradalmait
+  Vgzened, gy akar kemny vas szived.
+  Ez vala ht panaszod
+  Nap-jen t az Atridk
+  Ellen, ezrt lngolt
+  Gyllettl szived.
+  Ah mily nyomornak volt nagy kezdete
+  Az a nap, melyen Achilles
+  Fegyverert kitrt a hsk versenye,
+    Tekmessa. Oh jaj nekem;
+    Kar. Tudom, szvig hat ily rettent fjdalom.
+    Tekmessa. Oh jaj nekem!
+    Kar. Oh asszony, rtem ketts jajgatsodat,
+  Ki pen most vesztd el ily szerettedet.
+    Tekmessa. Te rted e fjdalmat, ah! n rzem azt.
+    Kar. Valt szlsz.
+    Tekmessa. Jaj gyermekem, mily szolgasg bilincseit
+  Verik szmunkra, mily urak varnak renk!
+    Kar. Megnevezd immr
+  A zord sziv Atrida pr
+  Szrny tettt ellened.
+  vjon ettl az g!
+    Tekmessa. Hisz ez sem trtnt volna isten nlkl gy.
+    Kar. Nehz bterhet halmozott red az g.
+    Tekmessa. Ily szrny tkot sujta rnk, Odysseus
+  Kedvrt, Pallas, Zeus rettent gyermeke.
+    Kar. Hah! mily rm, mily gny tlti be vad szivt
+  E vakmernek,
+  Mi hangosan kaczagja a dhrohamot,
+  Mely Ajast gytri! Jaj, jaj!
+  S hallja, kaczag vele az
+  Atrida kirlypr.
+    Tekmessa. rvendjenek, kaczagjanak ht knjain;
+  Taln, br lve nem nztek r szivesen,
+  Majd megsiratjk mg a holtat a csatn.
+  A jt, melyet kezben tart, nem ismeri
+  A balga lelk, mg el nem veszti azt.
+  Halla keserbb rm, mint des nekik,
+  De r kivnatos volt; mert elrte azt.
+  Mirt vgydott, a hallt, melyet kivnt,
+  Mirt kaczaghatnnak ht felette k?
+  Istentl van halla, nem tlk; nem m!
+  Hban gnyoldik ht Odysseus.
+  Mert nincs szmukra mr tbb Ajas; m nekem
+  Halla csak keservet s knyet hagyott.
+    Teukros (a szinen kivl). Oh jaj nekem!
+    Kar. Csendessg; Teukros hangjt vlem hallani,
+  Gyszos panaszban tr ki e balsors miatt.
+
+(Teukros fellp).
+
+    Teukros. Oh kedves Ajas, oh szemem vilga te!
+  Megtetted ht azt, a mirl a hir beszl?
+    Kar. Meghalt , Teukros, ebben bizonyos lehetsz.
+    Teukros. Oh jaj nekem, mi fjdalmas sors vr rem!
+    Kar. Ily vesztesgnl 
+    Teukros. Oh jaj, n boldogtalan;
+    Kar. Van ok keservre.
+    Teukros. Oh lesujt fjdalom!
+    Kar. Nagyon, oh Teukros!
+    Teukros. n boldogtalan! S mi lett
+  Fibl, Trja fldn merre lelhetem?
+    Kar. A strak kzt magban.
+    Teukros (Tekmesshoz). Hozd tstnt ide,
+  Nehogy miknt az anyjt vesztett, elhagyott
+  Oroszln klyket, elragadjk ellenink.
+
+(Tekmessa el. Teukros kisrjnek intve).
+
+  Siess, segtsd t. Mert mindenki szivesen
+  Gnyolja ellensgt, a ki elbukott.
+    Kar. Mg letben rd biz e frfi
+  Finak gondjt, a miknt meg is teszed.
+    Teukros. (Ajas holttesthez kzeledve). Oh minden ltvnyok kzt legfjdalmasabb
+  Ltvny, a mely szemembe tltt valaha,
+  Oh minden tjaim kzt leggytrbb utam,
+  Mely most e gyszos helyre hozta lptemet,
+  Midn oh kedves Ajas, hallva a szomoru
+  Hallodat, nyomod kutattam s meglelm!
+  Mert mintha isten kldte volna, rohan
+  Hr jrta t a tbort elhunytod fell.
+  S e hrre, tvol tled, ajkam zokogott,
+  De most hogy ltlak, bnatomban meghalok,
+  Oh jaj!
+  Jer vond el leplt, lssam minden knomat.
+
+(Egy szolga leleplezi Ajas holttestt).
+
+  Oh iszony tekintet, bsz daczczal tele!
+  Hallod ltal mennyi knt hozl rem.
+  Hov mehetnk s mily emberek kz,
+  Ki gytrelmedben nem segtlek soha?
+  Vagy Telamon, mindkettnk apja, szivesen
+  s j arczczal fogad otthon, ha nlkled
+  Lt majd megjnni? Mit beszlek? , kinek
+  Ajkra az rm se csal vidm mosolyt?
+  Mit fog magba zrni, mily szidalmakat
+  Nem fog a rabn szlte korcsra szrni, rm?
+  Mondvn, hogy gyvasgbl lettem ruld,
+  Vagy lnoksgbl, kedves Ajas, hogy enym
+  Legyen hallod ltal hzad s jogod.
+  Ekknt fog szidni az aggastyn, kit kora
+  Zordonn tesz, s egy semmisg haragra gyujt.
+  s vgre szmzetve elhagyom hazm,
+  S szabad ember helyett rabszolga lesz nevem.
+  Ez vr otthon rm; itt Trjban szmtalan
+  Az ellensgem, s kevs, ki megsegt.
+  s mind e baj hallod ltal jtt rem.
+  Jaj mit tegyek! Mint vonjam ki e villog,
+  Vres kardot kebledbl, oh boldogtalan,
+  Mely ldkl vasval lted elvev?
+  Lsd, mint gyilkolt meg vgre Hektor holtan is?
+  Fontoljtok meg e kt ember vgzett.
+  Hektort szekrkerkhez fzte egykoron
+  Az v, melyet Ajastl nyert ajndokul,
+  s elragadta, mg lelkt ki nem ad.
+  Ajas viszont Hektortl e kardot nyer,
+  Melynek vastl most vres hallba dlt.
+  Nem fria kovcsol e kard vast,
+  Nem Hades zord keznek mve volt ez v?
+  Azt mondom ht, ez pen gy, mint ms egyb
+  Az emberek kzt mindig istentl ered;
+  s a kinek kedvre nincs e vlemny,
+  Dicsrje a magt; m n ezt hiszem.
+    Kar. Szntesd a sok szt; gondolj arra, mint fogod
+  A holtat eltemetni, s mit vlaszolj;
+  Mert itt j mr az ellensg, s taln azrt,
+  Hogy bnatunk gunyolja rossz ember gyannt.
+    Teukros. Ki az, kit a seregbl erre jnni ltsz?
+    Kar. Menelaos, a kirt ez tra indulnk.
+    Teukros. Ltom mr; oly kzel van, hogy rismerek.
+
+(Menelaos fellp.)
+
+    Menelaos. Te hallod-e, azt mondom, hogy el ne temesd
+  Ezt a halottat, hagyd a fldn, hol hever.
+    Teukros. Mi az, mi ilyen nagyhang beszdre bir?
+    Menelaos. Igy rendelem, gy rendeli a fvezr.
+    Teukros. Nem mondand meg, mily ok indtott re?
+    Menelaos. Mert azt remlve, hogy mint h bartot s
+  Frigyes trsat hozzuk magunkkal, most nagyobb
+  Ellensgnknek lttuk, mint a phrygeket;
+  Ki az egsz seregnek letre trt,
+  s gyilkos fegyvervel jjel ronta r;
+  S ha isten fl nem tartja bns szndokt,
+  Rnk sujtott volna, mely t rte most, a sors,
+  Holtan fekdnnk a gyalzat mezejn,
+  S  lne; m az isten akknt fordt
+  Hogy a juhokra s a nyjra trt dhe.
+  Azrt ht nincs oly nagy hatalma senkinek,
+  Hogy e holttestnek adjon tisztes temetst;
+  Nem, itt heverjen a fak fvny felett,
+  A tengerparti madarak prdjaul.
+  Ne gyljon szrny lngra ht azrt szived,
+  Ha letben meg nem fkezhettk t,
+  Legyzzk a halottat, s brmiknt daczolsz,
+  Karunkkal knyszertjk; gysem hallgatott,
+  Mg letben volt, szavaimra soha sem.
+  Pedig rossz ember az, ki mint alattval
+  Meg nem fogadja az uralkodk szavt.
+  Mert nem virgzik ott a trvny s a jog,
+  Hol fenn nem tartja erejt a flelem,
+  S blcsen nem kormnyozhat az oly sereg,
+  Melyet nem v a rettegs s a tisztelet.
+  Gondolja meg az ember, brmi nagy legyen
+  Testre, hogy csekly baj is megdntheti.
+  Kinek szivben flelem s szgyen lakik,
+  Az, tudd meg, boldogulni fog mindenkoron;
+  De hol a ggs knye-kedveknt tehet,
+  Az olyan orszg, hidd el, egykor elbukik,
+  S rvnybe slyed, brmi j szllel haladt.
+  Legyen velnk ht idejn a flelem,
+  S ne hgyk, hogy azt tve, mi kedvnkre van,
+  Nem azzal fizetnk majd, mi rosszul esik.
+  Igy vltja ez fel egymst. Ggs vakmer
+  Volt eddig Ajas, most a bszke n vagyok;
+  s megtiltom, hogy eltemesd Ajast, nehogy
+  t eltemetve sirba dntsed tenmagad.
+    Kar. Menelaos, gy vigyzz, nehogy blcs elveket
+  Hirdetvn, holtak ellen lgy magad gonosz.
+    Teukros. Sohsem fogom csodlni tbb, frfiak,
+  Ha als szrmazs ember vtkezik,
+  Midn azok, kik nemeseknek ltszanak,
+  Beszdjk ltal ily nagy bnt kvetnek el.
+  No rajta, kezd ellrl, mondd, te vitted-e
+  Argos sergbe frigytrsul e frfit?
+  Nem jtt-e nmagtl, mint sajt ura?
+  Mint vagy az  vezre? Ki adott jogot,
+  Hogy a npnek parancsolj, melyet  hozott?
+  Sparta kirlya vagy te, nem a mi urunk;
+  Sehol sem nyertl tbb hatalmat s jogot
+  Fltte a seregben, mint fltted .
+  Mint ms alrendeltje jttl te ide,
+  Nem fvezrknt, hogy Ajasnak lgy ura.
+  Uralkodjl, hol r vagy, s bntesd azokat
+  Ggs szavakkal; mde ezt, akr miknt
+  Tiltod te s a msik vezr is, jog szerint
+  Eltemetem, nyelvedtl meg nem ijedek.
+  Mert pen nem nd kedvert jtt harczra ,
+  Hanem szent eskjert, a mely lekt,[31]
+  S nem rtted, mert a semmi embert megvet.
+  Menj ht s hozz magaddal mg tbb hirnkt,
+  Hivasd el a vezrt is; n nem gondolok
+  Lrms nyelveddel, a mg az maradsz, ki vagy.
+    Kar. Az sincs kedvemre, ha a bajban gy beszlsz;
+  Mar a kemny sz, brmin igaz s jogos.
+    Menelaos. Az jsz, ltom, sokra tartja nmagt.[32]
+    Teukros. Nem aljas mestersg az, melyet tanulk.
+    Menelaos. Miknt hetvenkednl, ha pajzsot hordanl!
+    Teukros. Fegyverzetedtl pajzs nlkl se rettegek.
+    Menelaos. Szrny vitzsg van nyelvedben, mondhatom.
+    Teukros. Ki mellett a jog harczol, bszke is lehet.
+    Menelaos. Jogos-e az, hogy gyilkosom boldog legyen?
+    Teukros. A gyilkosod? szrnysg! Holt vagy s mgis lsz.
+    Menelaos. Isten vdett; ha rajta ll, halott vagyok.
+    Teukros. Ha isten vdett, gy az istent meg ne vesd.
+    Menelaos. Miben vetem meg istenek trvnyeit?
+    Teukros. Ha srjoktl megfosztod a halottakat.
+    Menelaos. Igen, az ellensget; ezt nem illeti.
+    Teukros. Mikor llt  eltted ellensg gyannt?
+    Menelaos. Gyllt engem s n gyllm; te is tudod.
+    Teukros. Mert rjtt, hogy elloptad szavazatjait.
+    Menelaos. Ez a birk hibja volt, nem az enym.
+    Teukros. Alattomban sok rosszat tudsz forralni te.
+    Menelaos. E sz nagy bajba hoz mg valakit.
+    Teukros. De nem nagyobba, mint mi tlnk szll red.
+    Menelaos. Egyet mondok: ezt eltemetni nem szabad.
+    Teukros. S te halld ez egyet: el fogom temetni t.
+    Menelaos. Egy btor nyelv frfit lttam egykoron,
+  Ki evezsre ngat hajsait
+  Viharban is; de ha a zivatar kitrt,
+  Nem volt tbb hangja, kpenybe rejtezett,
+  S minden hajstl lbbal tiprat magt.
+  Igy nemsokra tged is majd elragad
+  A kis fellegbl tmadt szrny zivatar,
+  s elnmtja hegyke nyelved nagy zajt.
+    Teukros. n meg lttam nem rg egy balga frfit,
+  Ki embertrsa balsorst kignyol.
+  S egy msik, a ki n hozzm hasonltott,
+  S gy rze, mint n  ezt a szt mond neki:
+  Ember, ne tgy a holtak ellen gonoszul;
+  Mert rosszat tve, tudd meg, rosszul jrsz magad.
+  Ilyen szavakkal int a boldogtalant.
+  De most szememmel ltom t, s gy hiszem,
+  Nem ms az, mint te. Rejtett szban szltam-e?
+    Menelaos. Megyek; mert szgyen volna, ha meghallank,
+  Hogy szval sujtom azt, kit knyszerthetek.
+    Teukros. Menj ht; mert legnagyobb szgyent hoz rm is az,
+  Hogy a botor hi szavra hallgatok.
+
+(Menelaos el.)
+
+    Kar. A viszlybl nagy harcz tze gyl.
+  Fel, Teukros, siess, mint birja erd,
+  Keresd ki a mly srt, hol a halott,
+  rk emlkl a vilgnak,
+  Csendes pihenre talljon.
+
+(Tekmessa j Eurysakessel.)
+
+    Teukros. S im pen jkor rkezik e helyre most
+  Az elhunyt frfi gyermekvel hitvese,
+  Hogy a szegny halottnak srt ksztsenek.
+  Jer kzelebb, oh gyermek, s esdekl gyannt
+  rintsd atydat, a ki ltedet ad;
+  lj itt szent oltalmban, s tartsd kezed kztt
+  Hajfrtemet, anydt s a tiedet,
+  Az htat jell; s ha valaki
+  A holt melll erszakkal ragadna el,
+  Haztlan s sr nlkl veszszen a gonosz,
+  Legyen kiirtva gykerestl fajzata,
+  gy a mint n levgom e hajszlakat!
+  Fogd ht, rizd atydat, oh gyermek, ne hagyd,
+  Hogy brki elragadjon, trdelj oldaln.
+  Ti meg ne lljatok itt asszonyok gyannt,
+  Mint frfiak vdjtek t, mg megjvk,
+  S akrki ellenezze, sirba temetem.
+
+(Teukros el. Tekmessa s Eurysakes a holt mell trdelnek.)
+
+    Kar. Mikor jn a vg, mikor telik be
+  A bolyong vek vgtelen sora,
+  Nem szn gytrelmeket hajtva rm rkk,
+  Drdk harczai kzt,
+  Trja komor sivatagjain,
+  A hellasi np gyalzatra?
+
+
+Els ellenversszak.
+
+  Oh br elenyszett volna elbb
+  A lgben vagy Hades mindent eltemet
+  lben, ki megmutat a szrny fegyvert
+  Hellas npeinek!
+  Oh nyomor, j nyomor szlje!
+  Megrontja az embereknek!
+
+
+Msodik versszak.
+
+  Elragadta ellem
+  A virul koszort,
+  A tele serleg gynyrt,
+  S des dalait a fuvolnak,
+  (tok re!) jjeleim lvezett is!
+  Elrabolta szerelmemet;
+  Jaj! Most elhagyatottan
+  Fekszem itt, fejemet az j
+  Harmata ztatja:
+  A gysz Trja emlke.
+
+
+Msodik ellenversszak.
+
+  Volt ki vdjen elbb az
+  jjeli borzalom s a nyilak
+  Ellen: a hskar Ajas;
+  De elragad t a boszs g.
+  Ah mily rm, mily rm lesz rszem ezentl?
+  Mirt nem vagyok ott, hol az
+  Erds brczfok emelkedik,
+  Hablocsolta Sunion alatt,
+  jra kszntve a szent
+  Athen ormait onnan![33]
+
+(Teukros fellp).
+
+    Teukros. Sietve jttem, ltva, hogy a fvezr.
+  Agamemnon gyors lptekkel tart e hely fel:
+  S ltom, baljs szavakra kszl ellenem.
+
+(Agamemnon fellp).
+
+    Agamemnon. Te vagy ht, a mint hallom, a ki vakmern
+  S bntetlenl merszelsz szlni ellennk?
+  Mondom, te, a hadi rabszolgan fia?
+  Bizony nemes anytl nyervn ltedet,
+  Lbjjhegyen jrnl most, s gre szlanl,
+  Ha gy, mint semmi, harczra kelsz a semmirt;
+  S hnytorgatod, hogy nem vagyunk sem a sereg,
+  Sem a hajk vezrei, sem tieid;
+  Nem, Ajas, mondod, hadvezr volt nmaga.
+  Nem szgyen, rabszolgtl ilyent hallani?
+  Ki az, kirl ily bszkn, ily fennen beszlsz?
+  Hol llt, hov ment, hol nem voltam n jelen?
+  Nem volt Argos seregben frfi kivle?
+  Bizony rossz harczra szltottuk egykoron
+  Achilles fegyverrt Argos npeit,
+  Ha egy Teukros gonosznak mondhat mindentt,
+  S ti a gyzttek nem nyugosztok meg soha
+  Abban, mit a birk tbbsge rendele,
+  Hanem gonosz szavakkal tmadtok renk,
+  Vagy titkon skldtok, mert elbuktatok.
+  De ily szoksok mellett nem lehet soha
+  Akrmily trvnyt llandan fentartani,
+  Ha eltasztjuk azt, ki gyztt jog szerint,
+  S elre hozzuk a htul maradtakat.
+  Nem trhet ez. Nem legbiztosabbak m
+  Az izmos vll, szles ht emberek;
+  A blcsek gyzedelmeskednek mindentt.
+  Brmily hatalmas a biknak tompora,
+  Kis ostorszj elre hajtja egyenest.
+  S e gygyszer vr red is, ltom, csakhamar,
+  Ha szre nem trsz, blcsesget nem tanulsz:
+  Ki egy nem lv ember, egy rnyk miatt,
+  Ily vakmeren, ily srt gggel beszlsz.
+  Nem trsz eszedre? S tudva szletsedet,
+  Nem fogsz helyetted szabad embert kldeni,
+  A ki nevedben elvgezze dolgodat?
+  Mert n a te szavadra mr nem hallgatok;
+  A barbar nyelvet nem tudom megrteni.
+    Kar. Oh szllna br mindketttkre blcsesg!
+  Mert ennl jobbat nektek nem kivnhatok.
+    Teukros. Ah! mily csalkony, mily gyors szrnyakon tn
+  Az emberek hlja holtjaik irnt,
+  Ha mg ez embernek sincs pr csekly szava
+  Szmodra, n Ajasom, a ki annyiszor
+  Add rette a csatkon ltedet!
+  El van feledve mindez, elmult, elveszett!
+  Oh te, kibl most annyi balgasg beszl,
+  Nem emlkszel mr arra semmikp, midn
+  Az ostromlott tborban megszorultatok,
+  S csatt vesztve mind megsemmisltetek,
+  Mint mentett  meg egyedl, mg a hajk
+  Ormn krskrl mr fellobbant a lng,
+  S Hektor keresztl rohanvn a snczokon,
+  Mersz ugrssal a hajfdlre trt?
+  Ki verte vissza? Nemde annak mve volt,
+  Kirl azt mondod, hogy lbt se mozdt?
+  Vagy ezt tevn, nem tett szemedben helyesen?
+  S midn ismt Hektorral viadalra szllt,
+  Sorstl jellve, nem parancsotok szerint:
+  Nem vlasztott szmra gyva zlogot,
+  zott srfldet; oly knny volt az, hogy a
+  Sisakbl elsnek kellett kiszknie.[34]
+  Ily tetteket mvelt , s n is vele,
+  n a rabszolga, a barbar n gyermeke.
+  Mily arczczal szlhatl gy, oh boldogtalan?
+  Nem tudtad, hogy apdnak apja is, az s
+  Pelops barbar volt, Phrygibl szrmazott?
+  Hogy Atreus, ki tged nemzett, a gonosz,
+  Testvrt nnn gyermekvel tet?[35]
+  Magad pedig a krtai ntl szletl,
+  Kit kedvesnek karja kzt tallt atyd,
+  S a hallgatag halaknak prdul dobott.[36]
+  S te hnyod mg szememre szrmazsomat?
+  Atymnak, a ki nemzett, Telamon neve,
+  Ki a seregben hsiessge dijaknt
+  Anymat nyerte hitvesl, Laomedon
+  Kirlyi lnyt; vlasztott ajndokul
+  Jutalmaz t ezzel Alkmene fia.
+  s ily nemes szlk nemes szltte, n,
+  Most meggyalzni hagynm ennen vremet,
+  Kit ily gyszban sirjtl is megfosztanl,
+  s nem szgyenled, ezt nyiltan kimondani?
+  De tudd meg, ha e holttestet megtmadod,
+  Mindhrmunkat megtmadsz egyarnt vele;[37]
+  Mert szebb lesz rm bizonynyal rtte esnem el
+  Hs kzdelemben, mint ha ndrt harczolok,
+  Vagy testvred nejrt vesztem ltemet.
+  Gondolj teht magadra inkbb, mint rem;
+  Mert ha megbntasz, egykor mg sajnlhatod,
+  Hogy btor s nem gyva voltl ellenem.
+
+(Odysseus fellp).
+
+    Kar. Kirly, Odysseus, pen jkor rkezl,
+  Ha csillaptni s nem lngot sztni jsz.
+    Odysseus. Mi trtnt? Mr a tvolbl felm hatott
+  Ez elhnyt hs melll az Atridk szava.
+    Agamemnon. Nem kellett pen most, Odysseus kirly,
+  Ez embertl gyalzatos gnyt hallanom?
+    Odysseus. Mint? Mert annak meg szoktam bocstani,
+  Ki rossz beszdre rossz szavakkal vlaszol.
+    Agamemnon. Rossz szkat hallott, mert rosszat tett ellenem.
+    Odysseus. Mit tett, mi ltal gy megsrtett tgedet?
+    Agamemnon. Nem hagyja a halottat temetetlenl,
+  Azt mondja, srba rejti ellenemre is.
+    Odysseus. Lehet szemedbe igazsgot mondanom,
+  S tovbbra is bartul fogsz tekinteni?
+    Agamemnon. Beszlj; klnben esztelen volnk, hiszen
+  Te vagy legjobb bartom Argos npe kzt.
+    Odysseus. Hallgass teht! Az istenekre meg ne tedd,
+  Hogy e halottat eldobd temetetlenl;
+  Ne vegyen rajtad oly ert a gyllet,
+  Hogy vakmern lbbal tiporjad a jogot.
+  Engem gyllt legjobban a sereg kztt,
+  Mita elnyerm Achilles fegyvert;
+  s mgsem tudnm, brmint rzett ellenem,
+  gy meggyalzni Ajast, hogy ne mondanm:
+   volt Achillesen kivl a legnagyobb
+  Hs mindazok kzt, kik Trjba jttenek.
+  Nem sujthatnd gyalzattal ht jog szerint;
+  Mert nem t, m az gi trvnyt srten
+  E tetted. Nagy bn a halottat bntani,
+  A ki nemes volt, br gyllted egykoron.
+    Agamemnon. Te harczolsz rte gy Odysseus ellenem?
+    Odysseus. n; gyllm, mg ill volt a gyllet.
+    Agamemnon. Nem illik-e gunyolnod a halottat is?
+    Odysseus. Ne lelj, Atrida, rt haszonban rmet.
+    Agamemnon. Kirlynak nem mindig knny a kegyelet.
+    Odysseus. De knny megfogadni j bart szavt.
+    Agamemnon. Derk ember flebbvaljt kveti.
+    Odysseus. Hagyd el; j szra hajtva is csak r maradsz.
+    Agamemnon. Gondold meg, mily embernek nyujtasz kedvezst.
+    Odysseus. Ellensgem volt, mde btor s nemes.
+    Agamemnon. Mit tszsz? Igy tiszteled holt ellensgedet?
+    Odysseus. Az rdem nlam gyz a gyllet fltt.
+    Agamemnon. Az ily embernek llhatatlan a neve.
+    Odysseus. Bizony sokszor lesz ellensgg a bart.
+    Agamemnon. S te az ilyen bartot dicsred taln?
+    Odysseus. Nem szeretem dicsrni a kemny szivet.
+    Agamemnon. Mg gyvkul fogsz minket feltntetni ma.
+    Odysseus. Nem, csak igazsgosnak az egsz np eltt.
+    Agamemnon. Azt kivnod ht, hagyjam eltemetni t?
+    Odysseus. Bizonynyal azt; mert ehhez n is eljutok.
+    Agamemnon. Mindenki gy tesz, a miknt javra van.
+    Odysseus. Kinek javra tennk, ha nem magamrt?
+    Agamemnon. Tied legyen ht ez a tett, nem az enym.
+    Odysseus. Akrmit tgy, nemesnek fognak mondani.
+    Agamemnon. Tudd meg ht, rtted sokkal tbbre ksz vagyok,
+  S ennl nagyobb kegyelmet is teszek veled;
+  De az, itt fenn s a fld alatt, mindig gyllt
+  Ellensgem lesz. Most tedd azt, a mit akarsz.
+
+(El).
+
+    Kar. Csak a botor mondhatja azt, Odysseus,
+  E tett utn, hogy nincs lelkedben blcsesg.
+    Odysseus. s most kimondom, Teukros: p oly j bart
+  Leszek ezentul, a mily ellensg valk.
+  A holtat eltemetni ksz vagyok veled,
+  Megosztom munkd, semmit sem mulasztok el,
+  Mit a haland a legjobbakrt tehet.
+    Teukros. Dics Odysseus, mindenben magasztals
+  Illet meg; nagyban megcsald vrsomat.
+  Mert a seregben Ajas legfbb ellene
+  Lvn, te vdelmezted t most egyedl,
+  S nem trted lve a halott gyalzatt,
+  Miknt a hadvezr akarta, e bolond,
+  Ki mlt testvrvel egytt ide jtt,
+  Hogy meggyalzva, temetetlen dobja el.
+  Azrt Olympos atyja, s jl emlkez
+  Erinys, s Dik, a szrny bosszul,
+  Puszttsa el a gonoszokat gonoszul,
+  Mint k akartk ezt eldobni becstelen!
+  De nem merem, oh sz Lartes gyermeke,
+  Engedni, hogy kezeddel rntsd ezt a srt,
+  Mert flek, a halottnak ellenre lesz.
+  De msban lgy segtsgnk, s ha valakit
+  Hoznl a hadseregbl, nem lesz az se baj.
+  Minden msrl magam gondoskodom; de te,
+  Lgy meggyzdve, hozznk nagylelk vall.
+    Odysseus. Kszsggel tettem volna; m szolglatom
+  Ha nincs kedvedre, tvozom, mint rendeled.
+
+(El).
+
+    Teukros. Legyen elg; immr messze haladt
+  Az id. Ti sstok meg a srt
+  Kezetekkel, ti meg a szent frdre tzet
+  Gyujtsatok a magas hromlbu krl, hogy
+  Lngja lobogjon.
+  Az egyik csapat hozza el
+  Stra all fegyvereit.
+  S te, gyermeke, fogd szeretettel
+  Velem egytt atydat, emeld fel,
+  Mint birja erd; mert a stt
+  Vr egyre lvel mg ereibl.
+  Rajta, ki j bartja vala,
+  Siessen, lpjen elre, tegyen,
+  Fradjon a frfirt, a kinl
+  Senki se volt jobb e vilgon.
+    Kar. Sokat ltva sokat tud az ember,
+  m a jv sorsot
+  Semmi js sem ltja elre.
+
+
+
+
+JEGYZETEK AJASHOZ.
+
+1. A grg tbor gy volt fellltva, hogy Odysseus a kzpontot foglalta
+el, Achilles a bal- s Ajas a jobbszrnyat.
+
+2. Odysseust a sprtai kopkhoz hasonltja, melyek hresek voltak
+gyorsasgukrl s finom szaglsukrl, s lltlag ebtl s rktl
+szrmaztak.
+
+3. Az etruskok, kiket a grgk tyrrhenieknek neveztek, voltak a
+trombita feltalli, melyet ers hangjrt leginkbb a csatban
+hasznltak.
+
+4. A nagy pajzstl vette Ajas mellknevt, mely megklnbztet a
+gyorslb Ajastl, Oileus fitl.
+
+5. Agamemnon s Menelaos strig.
+
+6. Rendesen ily mdon bntettk a rabszolgkat.
+
+7. A boszul istensgek kzl a kar elszr Artemisre gondol, kinek
+szoksa volt kemnyen megbntetni minden elhanyagolst s
+tiszteletlensget.
+
+8. E kzbe vetett felkiltssal jelzi a kar, hogy alig tudja ajkra
+venni a megszgyent szavakat.
+
+9. Enyaliost majd Aressel azonostjk, majd kln istensgnek kpzelik.
+
+10. Agamemnon s Menelaos.
+
+11. Odysseus. A monda szerint Antikla, Odysseus anyja, Sisyphostl mr
+teherben volt, midn Lartes nejv lett. gy szrmaztatta a rege
+Odysseust a trjai mondakr legravaszabb hst, Sisyphostl, a ravaszsg
+si mintakptl.
+
+12. Sophokles a ksbb meghdtott Salamis npt Attika s lakinak
+nevvel illeti.
+
+13. Telamon atyja Aeakos, Zeus s Aegina fia volt.
+
+14. Skamandros foly Trja mellett, mely a sigumi hegyfoknl mltt a
+tengerbe; s az ostroml sereget vzzel ltta el. Ezrt nevezi Argos
+jakar frigyesnek.
+
+15. Ajasnak knos helyzetben eszbe jut, hogy nevben foglaltatik az 
+szcska, mely jajt-t jelent.
+
+16. Telamon Hesiont, Teukros anyjt nyerte Heraklestl vitzsge
+jutalmul.
+
+17. Eriboea nevt klnsen kiemeli, hogy megklnbztesse Teukros
+anyjtl, Hesiontl. Eriboea megarai Alkathoos lenya volt.
+
+18. A megront alatt rendesen Odysseust rtik, Schll azonban helyesen
+jegyzi meg, hogy Odysseus Achilles fegyvereit nem tzte ki versenydjl.
+Agamemnon sem rthet alatta, mert Ajas gyllete ezt mindig sszekti
+Menelaossal. Schll szerint Ajas itt nem bizonyos szemlyt rt, hanem
+rossz sorst, melynl fogva a verseny Achilles fegyvereirt volt
+megrontja egsz letnek.
+
+19. Eurysakes neve nagy pajzsot jelent.
+
+20. Rolvass (incantamentum) ltal gygytni nemcsak a heroikus
+korszakban volt szoksos, hanem ksbb is.
+
+21. Hegy Arkadiban, Pn hazjban.
+
+22. Nysa Dionysos hazja, hol a satyrok s nymphk vg tnczokat jrnak.
+
+23. Knosos, krtai vros, mely szilaj tnczairl ismeretes.
+
+24. Delos sziget, Apoll szlhelye, azon tengeren volt, mely nevt a
+nap fel repl s elbuk Ikarosoktl nyerte.
+
+25. Ares, kinek hatalmban ll hbort tmasztani s bkt ltesteni,
+szabadt meg a kart nagy fjdalmtl, melyet Ajas miatt rzett.
+
+26. A hrmondt s szolgit Teukrosrt kldi, a kart pedig kt
+csoportban Ajas keressre.
+
+27. Jog szerint kteles Zeus t segtni, mint sapja.
+
+28. A kar elszr a halszoktl vr felvilgostst, aztn a hegyek
+dryadjaihoz s a folyk najadjaihoz fordul.
+
+29. Nymphk a mysai Olymposon, melyet a tragikusok egynek vesznek a
+trjai Ida hegygyel.
+
+30. Ajas hallnak hirre a karnak, melynek sorsa Ajassal volt
+sszektve, elszr is az sujtja le lelkt, hogy fog nlkle hazatrni?
+
+31. Helena atyja Tyndareos, a krket, kik kzt volt Ajas is, eskvel
+ktelezte, hogy Helena vlasztott frjt mindig tmogatni fogjk, ha
+nejtl brki meg akarn fosztani.
+
+32. A megvetst, melylyel a ksbbi korban az ijszok irnt viseltettek,
+a tragikusok mr a heroikus korszakba tviszik. Athenben annl lealzbb
+jelentse volt e nvnek, mert a rendrkatonkat, kik tbbnyire scythiai
+barbarok voltak, szintn gy neveztk.
+
+33. Kik kelet fell jttek, Sunion hegyfoknl lttk meg elszr az
+atheni Akropolist.
+
+34. E cselfogst a sorsolsnl Kresphontes hasznlta, midn a
+Peloponnesos tartomnyait kisorsoltk a hrom heraklida vezr kzt. Az
+elszr kijv sors-k nyerte Argost, a msodik Lakonikt, a benmaradt
+harmadik Messenit. Mivel Kresphontes ez utolst akarta, cserp helyett
+a hydriba sarat dobott, mely ott sztmllott s gy az  sorsjegye
+benmaradt, Teukros keser vonatkozssal a sprtai jellemre, hozza ezt
+fel Ajast illetleg, ki nem dobott sarat a sisakba, midn Hektor
+ellenfelt sorsoltk ki, nem vonta ki magt gyva csalssal a harcz
+all.
+
+35. Az ismeretes thyestesi lakoma. Atreus meglte Thyestesnek gyermekeit
+s megtette vele.
+
+36. Aerope, Atreus neje, kit ez, Thyestessel htlensgen kapvn, a
+tengerbe dobatott.
+
+37. T. i. Tekmesst, Eurysakest s Teukrost.
+
+
+[Transcriber's Note:
+
+
+Javtsok.
+
+Az eredeti szveg helyesrsn nem vltoztattunk.
+
+A nyomdai hibkat javtottuk. Ezek listja:
+
+35 |krkekett kevlyen |krkedett kevlyen
+
+38 |Ne kimeljtek |Ne kimljtek
+
+42 |vjon ettl |vjon ettl
+
+42 |szrny tkot |szrny tkot
+
+62 |pajzsot jelelent. |pajzsot jelent.
+
+63 |neje, klt ez |neje, kit ez]
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Ajas, by Sophokles
+
+*** END OF THIS PROJECT GUTENBERG EBOOK AJAS ***
+
+***** This file should be named 56920-0.txt or 56920-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/6/9/2/56920/
+
+Produced by Albert Lszl from page images generously made
+available by the Google Books Library Project
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

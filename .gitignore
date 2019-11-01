@@ -1,3 +1,6 @@
+gutenberg_parser.py
+books.meta.json
+
 # Logs
 logs
 *.log
