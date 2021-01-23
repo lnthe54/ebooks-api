@@ -24,7 +24,7 @@ router.get("/", (req, res) => {
 
 router.get("/:name", (req, res) => {
     let name = req.params.name.toLowerCase();
-    let path = process.cwd() + "/books/files/" + books[name].file;
+    let path = process.cwd() + "/books/files/" + name + ".txt";
 
     fs.readFile(path, 'utf8', function (err, content) {
         if (err) {
