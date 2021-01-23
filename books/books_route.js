@@ -2,6 +2,8 @@ const router = require("express").Router();
 const fs = require('fs');
 
 const books = require("./books.json")
+const newBooks = require()
+
 
 router.get("/", (req, res) => {
     let page = req.query.page
@@ -14,6 +16,25 @@ router.get("/", (req, res) => {
         for (let key in books) {
             if (count >= Number(page) * 50 && count <= (Number(page) * 50) + 50) {
                 temp[key] = books[key]
+            }
+            count++
+        }
+        res.status(200).json(temp)
+    }
+
+})
+
+router.get("/newbooks", (req, res) => {
+    let page = req.query.page
+    if (!page) {
+        res.json(newBooks)
+    } else {
+        let temp = {}
+        let count = 0;
+
+        for (let key in newBooks) {
+            if (count >= Number(page) * 50 && count <= (Number(page) * 50) + 50) {
+                temp[key] = newBooks[key]
             }
             count++
         }
