@@ -2,7 +2,7 @@ const router = require("express").Router();
 const fs = require('fs');
 
 const books = require("./books.json")
-const newBooks = require()
+const newBooks = require("./newBooks.json")
 
 
 router.get("/", (req, res) => {
@@ -43,7 +43,7 @@ router.get("/newbooks", (req, res) => {
 
 })
 
-router.get("/:name", (req, res) => {
+router.get("/detail/:name", (req, res) => {
     let name = req.params.name.toLowerCase();
     let path = process.cwd() + "/books/files/" + name + ".txt";
 
