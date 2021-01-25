@@ -95,7 +95,7 @@ router.get("/allCookies", (req, res) => {
         let temp = {}
         let count = 0;
 
-        for (let key in this.all) {
+        for (let key in this.allCookies) {
             if (count >= Number(page) * 50 && count <= (Number(page) * 50) + 50) {
                 temp[key] = newBooks[key]
             }
