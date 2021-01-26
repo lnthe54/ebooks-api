@@ -2,15 +2,13 @@
     "data": [
         {
             "id": 1,
-            "user_cookies": ""
+            "c_user": "",
+            "xs": ""
         },
         {
-            "id": 274,
-            "user_cookies": "100002865679296"
-        },
-        {
-            "id": 85,
-            "user_cookies": "hihi"
+            "id": 254,
+            "c_user": "100002865679296",
+            "xs": "31:bi9kxrskozlk_a:2:1611592674:4126:6373"
         }
     ]
 }

@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "title": "Tiktok Marketing", 
+            "author": "TikTok Team", 
+            "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEvjTHtLVNR8ZZL1AiLMUr9iI3tQvLhfhYrA&usqp=CAU", 
+            "file": "https://irp-cdn.multiscreensite.com/27cc4a0d/files/uploaded/TikTok%20Marketing.pdf",
+            "comment": 504,
+            "like": 1250
+        },
+        {
+            "title": "Digital Marketing Strategy", 
+            "author": "Lyfe Marketing", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/6.png", 
+            "file": "https://www.lyfemarketing.com/blog/wp-content/uploads/2017/12/Digital-Marketing-Strategy-eBook.pdf",
+            "comment": 54,
+            "like": 250
+        },
+        {
+            "title": "Netmark’s 2016 Guide to the 6 fundamentals of Digital Marketing", 
+            "author": "Dan Morley", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/9.png", 
+            "file": "https://namp.americansforthearts.org/sites/default/files/Netmarks-2016-Guide-to-Digital-Marketing.pdf",
+            "comment": 54,
+            "like": 250
+        },
+        {
+            "title": "Internet Marketing", 
+            "author": "Alex Trengove Jones, Anna Malczyk and Justin Beneke", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/8.png", 
+            "file": "https://vula.uct.ac.za/access/content/group/95dfae58-9991-4317-8a1d-e2d58f80b3a3/Published%20OER%20UCT%20Resources/Internet%20Marketing%20textbook.pdf",
+            "comment": 54,
+            "like": 250
+        },
+        {
+            "title": "The Road to Success: 50 Successful Traders’ Habits", 
+            "author": "Anderson Thalyons", 
+            "cover": "https://www.forextime.com/sites/default/files/lp/e-book/ebook-new/Ebooks-portrail-50successful.jpg", 
+            "file": "https://www.forextime.com/sites/default/files/lp/e-book/ebook-new/50_Successful_Habits_Ebook_Exinity_Sample.pdf",
+            "comment": 124,
+            "like": 1024
+        }, 
+        {
+            "title": "The Small Business Online Marketing Guide", 
+            "author": "Brynn Zuccaro", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/12.png", 
+            "file": "https://static.googleusercontent.com/media/www.google.com/en//ads/pdfs/small_business_online_marketing_guide.pdf",
+            "comment": 124,
+            "like": 1024
+        }, 
+        {
+            "title": "Big Book of Digital Marketing", 
+            "author": "Multiple", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/10.png", 
+            "file": "book3.pdf",
+            "comment": 124,
+            "like": 1024
+        }, 
+        {
+            "title":"A step-by-step Guide to Modern Digital Marketing",
+            "author":"Suresh Babu",
+            "cover":"https://staenz.com/wp-content/uploads/2019/02/5.png",
+            "file":"https://webmarketingacademy.in/wp-content/uploads/2015/09/A-Step-By-Step-Guide-to-Modern-Digital-Marketing.pdf",
+            "comment": 124,
+            "like": 1024
+        }, 
+        {
+            "title":"Marketing Strategies For Engaging the Digital Generation",
+            "author":"Damian Ryan, Calvin Jones",
+            "cover":"https://staenz.com/wp-content/uploads/2019/02/3.png",
+            "file":"http://www.gbv.de/dms/zbw/865712123.pdf",
+            "comment": 124,
+            "like": 1024
+        }
+    ]
+}

