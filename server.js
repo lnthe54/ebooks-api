@@ -7,7 +7,7 @@ const books_route = require("./books/books_route")
 const server = express();
 const CookiesFbRoute = require('./router/cookies-route');
 
-mongoose.connect('mongodb://localhost:27017/db_book', {useNewUrlParser: true, useUnifiedTopology: true})
+mongoose.connect('mongodb+srv://theln:the541998@cluster0.foavv.mongodb.net/db_book?retryWrites=true&w=majority', {useNewUrlParser: true, useUnifiedTopology: true})
 const db = mongoose.connection
 
 db.on('error', (err) => {
