@@ -17,20 +17,44 @@
             "like": 250
         },
         {
+            "title": "SEO Book", 
+            "author": "Aaron Matthew Wall", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/11.png", 
+            "file": "http://www.seobook.com/seobook53.pdf",
+            "comment": 133,
+            "like": 350
+        },
+        {
+            "title": "Fifty Shades of Digital Marketing", 
+            "author": "Francesca James, Hannan Durham", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/2.png", 
+            "file": "https://www.7boats.com/academy/wp-content/uploads/2016/10/50-shades-of-digital-marketing.pdf",
+            "comment": 15,
+            "like": 320
+        },
+        {
             "title": "Netmark’s 2016 Guide to the 6 fundamentals of Digital Marketing", 
             "author": "Dan Morley", 
             "cover": "https://staenz.com/wp-content/uploads/2019/02/9.png", 
             "file": "https://namp.americansforthearts.org/sites/default/files/Netmarks-2016-Guide-to-Digital-Marketing.pdf",
-            "comment": 54,
-            "like": 250
+            "comment": 24,
+            "like": 1998
         },
         {
             "title": "Internet Marketing", 
             "author": "Alex Trengove Jones, Anna Malczyk and Justin Beneke", 
             "cover": "https://staenz.com/wp-content/uploads/2019/02/8.png", 
             "file": "https://vula.uct.ac.za/access/content/group/95dfae58-9991-4317-8a1d-e2d58f80b3a3/Published%20OER%20UCT%20Resources/Internet%20Marketing%20textbook.pdf",
-            "comment": 54,
-            "like": 250
+            "comment": 12,
+            "like": 24
+        },
+        {
+            "title": "Understanding Digital Marketing- Basics and Actions", 
+            "author": "Teresa Pineiro-Otero and Xabier Martinez-Rolan", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/4.png", 
+            "file": "http://jatuka.com/wp-content/uploads/2009/05/0749453893-Digital-Marketing.pdf",
+            "comment": 23,
+            "like": 409
         },
         {
             "title": "The Road to Success: 50 Successful Traders’ Habits", 
@@ -50,11 +74,11 @@
         }, 
         {
             "title": "Big Book of Digital Marketing", 
-            "author": "Multiple", 
-            "cover": "https://staenz.com/wp-content/uploads/2019/02/10.png", 
-            "file": "book3.pdf",
-            "comment": 124,
-            "like": 1024
+            "author": "Digital Firefly Marketing", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/1.png", 
+            "file": "https://digitalfireflymarketing.com/wp-content/uploads/2017/02/Big-Book-of-Digital-Marketing.pdf",
+            "comment": 25,
+            "like": 213
         }, 
         {
             "title":"A step-by-step Guide to Modern Digital Marketing",
@@ -69,6 +93,14 @@
             "author":"Damian Ryan, Calvin Jones",
             "cover":"https://staenz.com/wp-content/uploads/2019/02/3.png",
             "file":"http://www.gbv.de/dms/zbw/865712123.pdf",
+            "comment": 124,
+            "like": 1024
+        },
+        {
+            "title": "Big Book of Digital Marketing", 
+            "author": "Multiple", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/10.png", 
+            "file": "http://netmining.com/wp-content/uploads/2015/09/Netmining-Marketing-Big-Book.pdf",
             "comment": 124,
             "like": 1024
         }
