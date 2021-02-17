@@ -6,39 +6,43 @@
             "cover": "https://www.forextime.com/sites/default/files/lp/e-book/ebook-new/Ebooks-portrail-50successful.jpg", 
             "file": "https://www.forextime.com/sites/default/files/lp/e-book/ebook-new/50_Successful_Habits_Ebook_Exinity_Sample.pdf",
             "comment": 124,
-            "like": 1024
+            "like": 1024,
+            "price": "10"
         }, 
         {
             "title": "The Small Business Online Marketing Guide", 
             "author": "Brynn Zuccaro", 
             "cover": "https://staenz.com/wp-content/uploads/2019/02/12.png", 
             "file": "https://static.googleusercontent.com/media/www.google.com/en//ads/pdfs/small_business_online_marketing_guide.pdf",
-            "comment": 124,
-            "like": 1024
+            "comment": 12,
+            "like": 124,
+            "price": "1.3"
         }, 
         {
             "title": "Big Book of Digital Marketing", 
-            "author": "Multiple", 
-            "cover": "https://staenz.com/wp-content/uploads/2019/02/10.png", 
-            "file": "http://netmining.com/wp-content/uploads/2015/09/Netmining-Marketing-Big-Book.pdf",
-            "comment": 124,
-            "like": 1024
+            "author": "Digital Firefly Marketing", 
+            "cover": "https://staenz.com/wp-content/uploads/2019/02/1.png", 
+            "file": "https://digitalfireflymarketing.com/wp-content/uploads/2017/02/Big-Book-of-Digital-Marketing.pdf",
+            "comment": 25,
+            "like": 213,
+            "price": "5"
         }, 
         {
             "title":"A step-by-step Guide to Modern Digital Marketing",
             "author":"Suresh Babu",
             "cover":"https://staenz.com/wp-content/uploads/2019/02/5.png",
             "file":"https://webmarketingacademy.in/wp-content/uploads/2015/09/A-Step-By-Step-Guide-to-Modern-Digital-Marketing.pdf",
-            "comment": 124,
-            "like": 1024
+            "comment": 14,
+            "like": 104,
+            "price": "2"
         }, 
         {
             "title":"Marketing Strategies For Engaging the Digital Generation",
             "author":"Damian Ryan, Calvin Jones",
             "cover":"https://staenz.com/wp-content/uploads/2019/02/3.png",
             "file":"http://www.gbv.de/dms/zbw/865712123.pdf",
-            "comment": 124,
-            "like": 1024
+            "comment": 25,
+            "like": 102
         }
     ]
 }
