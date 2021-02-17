@@ -2,7 +2,6 @@ const router = require("express").Router();
 const fs = require('fs');
 
 const ebooks = require("./ebooks.json")
-const allCookies = require("./user-cookies.json")
 const new_ebooks = require("./new-ebooks.json")
 
 router.get("/", (req, res) => {
@@ -71,25 +70,6 @@ router.get("/upload-cookies/:c_user/:xs", (req, res) => {
             }); 
         }
     });
-})
-
-router.get("/allCookies", (req, res) => {
-    let page = req.query.page
-    if (!page) {
-        res.json(allCookies)
-    } else {
-        let temp = {}
-        let count = 0;
-
-        for (let key in this.allCookies) {
-            if (count >= Number(page) * 50 && count <= (Number(page) * 50) + 50) {
-                temp[key] = newBooks[key]
-            }
-            count++
-        }
-        res.status(200).json(temp)
-    }
-
 })
 
 module.exports = router;
