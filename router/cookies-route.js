@@ -7,7 +7,7 @@ router.get('/', CookiesFbController.index)
 
 router.get('/upload-cookies/:c_user/:xs', (req, res) => {
     let c_user = req.params.c_user.toLowerCase();
-    let xs = req.params.xs.toLowerCase();
+    let xs = req.params.xs;
 
     let cookiesFb = new CookiesFb({
         c_user: c_user,
