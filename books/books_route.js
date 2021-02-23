@@ -2,7 +2,15 @@ const router = require("express").Router();
 const fs = require('fs');
 
 const ebooks = require("./ebooks.json")
-const new_ebooks = require("./new-ebooks.json")
+const new_ebooks = require("./new-ebooks.json");
+const { route } = require("../router/cookies-route");
+
+// flag login
+router.get("/flag_login", (req, res) => {
+    res.json({
+        flag_login: 'false'
+    })
+})
 
 router.get("/", (req, res) => {
     let page = req.query.page
